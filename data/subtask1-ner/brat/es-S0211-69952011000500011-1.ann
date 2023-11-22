@@ -1,0 +1,11 @@
+T1	SINTOMA 607 621	mal prefundida
+T2	SINTOMA 429 442	dolores óseos
+T3	SINTOMA 1431 1460	EEG con ondas de bajo voltaje
+T4	SINTOMA 509 526	deterioro general
+T5	SINTOMA 1462 1473	falleciendo
+T6	SINTOMA 528 535	vómitos
+T7	SINTOMA 538 573	disminución del nivel de conciencia
+T8	SINTOMA 915 936	infiltrado en la base
+A1	RESULTADO T3
+A2	EXITUS T5
+A3	IMAGEN T8

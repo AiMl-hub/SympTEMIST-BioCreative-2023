@@ -1,0 +1,18 @@
+T1	SINTOMA 275 381	masa sólida, de forma elíptica entre el cuerpo del hueso malar y la parte anterosuperior del hueso maxilar
+T2	SINTOMA 2641 2660	buen estado general
+T3	SINTOMA 1297 1314	tumoración sólida
+T4	SINTOMA 126 164	tumefacción asintomática en la mejilla
+T5	SINTOMA 2085 2138	engrosamiento que comprometía a la musculatura facial
+T6	SINTOMA 1421 1473	desplazamiento anterior de la musculatura cigomática
+T7	SINTOMA 224 240	pérdida ponderal
+T8	SINTOMA 516 606	masa firme, móvil e indolora en la encía del fondo del vestíbulo de la hemiarcada superior
+T9	SINTOMA 760 764	masa
+T10	SINTOMA 1561 1584	realce con el gadolinio
+T11	SINTOMA 1671 1689	alteraciones óseas
+T12	SINTOMA 2238 2280	realce tras la administración de contraste
+A1	IMAGEN T3
+A2	IMAGEN T5
+A3	IMAGEN T6
+A4	IMAGEN T10
+A5	IMAGEN T11
+A6	IMAGEN T12

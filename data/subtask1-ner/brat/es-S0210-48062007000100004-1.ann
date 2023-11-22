@@ -1,0 +1,12 @@
+T1	SINTOMA 223 251	incontinencia urinaria total
+T2	SINTOMA 426 455	vejiga de contorno festoneado
+T3	SINTOMA 784 794	hemorragia
+T4	SINTOMA 974 984	continente
+T5	SINTOMA 1107 1138	reflujo pasivo derecho y activo
+T6	SINTOMA 1190 1204	reflujo activo
+T7	SINTOMA 42 63	vejiga hiperrefléxica
+T8	SINTOMA 482 538	reflujo vesicoureteral pasivo grado III derecho y activo
+A1	RESULTADO T2
+A2	RESULTADO T5
+A3	RESULTADO T6
+A4	RESULTADO T8

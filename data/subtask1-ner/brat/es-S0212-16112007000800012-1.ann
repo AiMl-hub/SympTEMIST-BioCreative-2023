@@ -1,0 +1,68 @@
+T1	SINTOMA 1035 1047	leucocitosis
+T2	SINTOMA 3566 3575	Nuligesta
+T3	SINTOMA 3306 3334	exploración física es normal
+T4	SINTOMA 1364 1404	función tiroidea dentro de la normalidad
+T5	SINTOMA 488 508	anomalías en ovarios
+T6	SINTOMA 2118 2168	íleon terminal una mucosa extremadamente irregular
+T7	SINTOMA 2259 2297	afectación difusa de intestino delgado
+T8	SINTOMA 4559 4576	ganancia ponderal
+T9	SINTOMA 3202 3217	palidez cutánea
+T10	SINTOMA 1066 1101	estudio del hierro sin alteraciones
+T11	SINTOMA 1439 1488	valores descendidos de albúmina y gammaglobulinas
+T12	SINTOMA 1824 1878	hígado, porta, grandes vasos, vesícula y bazo normales
+T13	SINTOMA 3219 3249	dedos de las manos longilíneos
+T14	SINTOMA 4396 4408	colaboradora
+T15	SINTOMA 1198 1277	perfil celíaco, AgHBs, AcVHC, marcadores tumorales, y Mantoux, fueron negativas
+T16	SINTOMA 1493 1574	líquido ascítico extraído presentaba características de exudado y aspecto quiloso
+T17	SINTOMA 1579 1599	cultivo fue negativo
+T18	SINTOMA 1643 1655	tórax normal
+T19	SINTOMA 1979 2018	irregularidad en el patrón vellositario
+T20	SINTOMA 2020 2037	edema de pliegues
+T21	SINTOMA 2050 2078	linfangiectasias puntiformes
+T22	SINTOMA 2303 2345	formaciones puntiformes "en grano de mijo"
+T23	SINTOMA 2497 2573	mucosa gástrica, duodenal y yeyunal no evidenció alteraciones significativas
+T24	SINTOMA 3347 3378	sintomatología gastrointestinal
+T25	SINTOMA 252 287	edemas leves en miembros inferiores
+T26	SINTOMA 696 711	líquido quiloso
+T27	SINTOMA 1290 1351	ASLO, proteína C reactiva y a-1 antitripsina sérica, normales
+T28	SINTOMA 1707 1742	edemas en asas de intestino delgado
+T29	SINTOMA 2348 2381	pliegues edematosos y congestivos
+T30	SINTOMA 3261 3289	edemas maleolares simétricos
+T31	SINTOMA 4788 4815	síntomas gastrointestinales
+T32	SINTOMA 4904 4928	líquido libre en abdomen
+T33	SINTOMA 144 159	ascitis quilosa
+T34	SINTOMA 242 249	ascitis
+T35	SINTOMA 427 471	líquido ascítico de características quilosas
+T36	SINTOMA 890 908	líquido peritoneal
+T37	SINTOMA 1126 1141	hipoproteinemia
+T38	SINTOMA 1144 1159	hipoalbuminemia
+T39	SINTOMA 1161 1173	hipocalcemia
+T40	SINTOMA 1657 1664	ascitis
+T41	SINTOMA 1791 1819	líquido ascítico peritoneal,
+T42	SINTOMA 3073 3089	líquido ascítico
+T43	SINTOMA 3399 3441	deposiciones al día con aspecto algo graso
+T44	SINTOMA 3719 3759	lipidograma, y hemograma fueron normales
+T45	SINTOMA 4967 4974	ascitis
+A1	RESULTADO T1
+A2	RESULTADO T4
+A3	RESULTADO T6
+A4	RESULTADO T7
+A5	RESULTADO T10
+A6	RESULTADO T11
+A7	IMAGEN T12
+A8	RESULTADO T15
+A9	RESULTADO T16
+A10	RESULTADO T17
+A11	IMAGEN T18
+A12	RESULTADO T19
+A13	RESULTADO T20
+A14	RESULTADO T21
+A15	RESULTADO T22
+A16	RESULTADO T23
+A17	RESULTADO T27
+A18	RESULTADO T29
+A19	RESULTADO T37
+A20	RESULTADO T38
+A21	RESULTADO T39
+A22	IMAGEN T41
+A23	RESULTADO T44

@@ -1,0 +1,15 @@
+T1	SINTOMA 262 268	fiebre
+T2	SINTOMA 1230 1236	fiebre
+T3	SINTOMA 1673 1680	afebril
+T4	SINTOMA 1159 1170	neutropenia
+T5	SINTOMA 511 560	hemocultivos, urinocultivo, mantoux son negativos
+T6	SINTOMA 562 620	Eco-Dopler y radiografía de tórax, dentro de la normalidad
+T7	SINTOMA 622 649	TAC toraco-abdominal normal
+T8	SINTOMA 918 937	serologías normales
+T9	SINTOMA 1510 1545	hemoparásitos del género Leishmania
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	IMAGEN T6
+A4	IMAGEN T7
+A5	RESULTADO T8
+A6	RESULTADO T9

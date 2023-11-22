@@ -1,0 +1,20 @@
+T1	SINTOMA 693 720	Abdomen blando y depresible
+T2	SINTOMA 168 174	T2N0M0
+T3	SINTOMA 844 877	bioquímica y coagulación normales
+T4	SINTOMA 456 500	hematuria con emisión de coágulos filiformes
+T5	SINTOMA 1223 1233	masa renal
+T6	SINTOMA 1498 1508	masa renal
+T7	SINTOMA 2186 2214	crecimiento de la masa renal
+T8	SINTOMA 725 730	masas
+T9	SINTOMA 734 742	megalias
+T10	SINTOMA 628 647	palidez mucocutánea
+T11	SINTOMA 421 439	síndrome miccional
+T12	SINTOMA 649 691	puñopercusión izquierda levemente positiva
+T13	SINTOMA 1150 1201	riñón derecho, la vejiga y la próstata son normales
+T14	SINTOMA 1338 1374	cambios postquirúrgicos en el pulmón
+T15	SINTOMA 915 937	hematuria microscópica
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	IMAGEN T13
+A4	IMAGEN T14
+A5	RESULTADO T15

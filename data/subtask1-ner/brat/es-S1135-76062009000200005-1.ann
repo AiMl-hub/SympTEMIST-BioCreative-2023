@@ -1,0 +1,20 @@
+T1	SINTOMA 1200 1225	palidez de piel y mucosas
+T2	SINTOMA 237 243	fiebre
+T3	SINTOMA 318 336	molestia abdominal
+T4	SINTOMA 365 395	aumento de ruidos intestinales
+T5	SINTOMA 421 428	vómitos
+T6	SINTOMA 588 603	dolor abdominal
+T7	SINTOMA 674 680	nausea
+T8	SINTOMA 703 751	vómito primero alimenticios y finalmente mucosos
+T9	SINTOMA 811 816	débil
+T10	SINTOMA 1115 1131	normoconstituido
+T11	SINTOMA 398 416	sensación nauseosa
+T12	SINTOMA 819 823	frío
+T13	SINTOMA 1609 1654	estómago presenta escasos restos alimenticios
+T14	SINTOMA 1713 1759	duodeno presenta paredes de aspecto conservado
+T15	SINTOMA 1534 1567	colección de líquido serohemático
+T16	SINTOMA 1693 1708	restos biliosos
+T17	SINTOMA 556 561	óbito
+T23	SINTOMA 2718 2724	muerte
+A1	EXITUS T17
+A2	EXITUS T23

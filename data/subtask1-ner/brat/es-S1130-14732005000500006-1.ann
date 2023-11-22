@@ -1,0 +1,21 @@
+T1	SINTOMA 1465 1474	ciatalgia
+T2	SINTOMA 1521 1578	dolor radicular se asoció pérdida de fuerza en ambos MMII
+T3	SINTOMA 1613 1634	paraparesia bilateral
+T4	SINTOMA 1739 1791	alteraciones de la sensibilidad ni de los esfínteres
+T5	SINTOMA 2220 2250	cola de caballo a gran tensión
+T6	SINTOMA 3171 3197	alteraciones esfinterianas
+T7	SINTOMA 3201 3216	dolor radicular
+T8	SINTOMA 3243 3293	leve acorchamiento residual en miembros inferiores
+T9	SINTOMA 486 553	análisis repetidos de líquido cefalorraquídeo (LCR) fueron normales
+T10	SINTOMA 1369 1392	TP y TTPA eran normales
+T11	SINTOMA 1186 1201	trombocitopenia
+T12	SINTOMA 1321 1336	trombocitopenia
+T13	SINTOMA 1659 1720	fuerza motora parcial (3/5) en la flexo-extensión de los pies
+T14	SINTOMA 3520 3533	fallecimiento
+T15	SINTOMA 708 795	tiempos de protrombina (TP) y de tromboplastina parcial activada (TTPA) fueron normales
+A1	RESULTADO T9
+A2	RESULTADO T10
+A3	RESULTADO T11
+A4	RESULTADO T12
+A5	EXITUS T14
+A6	RESULTADO T15

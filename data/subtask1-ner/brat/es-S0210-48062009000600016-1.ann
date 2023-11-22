@@ -1,0 +1,18 @@
+T1	SINTOMA 1000 1052	fórmula leucocitaria y recuento de linfocitos normal
+T2	SINTOMA 1054 1085	función renal y hepática normal
+T3	SINTOMA 587 594	pT2 pN0
+T4	SINTOMA 651 677	descenso de la hemoglobina
+T5	SINTOMA 788 819	aumento del perimetro abdominal
+T6	SINTOMA 833 839	disnea
+T7	SINTOMA 402 410	sangrado
+T8	SINTOMA 1595 1624	ecografía abdominal es normal
+T9	SINTOMA 842 852	disconfort
+T10	SINTOMA 1088 1109	hipo-proteinemia leve
+T11	SINTOMA 894 924	ascitis de distribución difusa
+T12	SINTOMA 943 958	ascitis quilosa
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T4
+A4	IMAGEN T8
+A5	RESULTADO T10
+A6	IMAGEN T11

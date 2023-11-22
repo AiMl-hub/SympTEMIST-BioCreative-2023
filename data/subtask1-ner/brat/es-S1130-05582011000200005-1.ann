@@ -1,0 +1,13 @@
+T1	SINTOMA 230 311	aumento de volumen cervical del lado izquierdo anterior al esternocleidomastoideo
+T2	SINTOMA 424 434	odinofagia
+T3	SINTOMA 437 445	disfonía
+T4	SINTOMA 797 833	apertura de la bifurcación carotídea
+T5	SINTOMA 510 536	imagen lobulada hiperdensa
+T6	SINTOMA 625 651	afectación de la vía aérea
+T7	SINTOMA 680 703	imagen típica de "lira"
+T8	SINTOMA 744 782	hipercaptación homogénea del contraste
+T9	SINTOMA 1547 1649	acúmulos o nidos de células ovales con núcleos uniformes hipercromáticos rodeados por estroma vascular
+T10	SINTOMA 1668 1688	patrón de Zellballen
+A1	IMAGEN T5
+A2	IMAGEN T6
+A3	IMAGEN T7

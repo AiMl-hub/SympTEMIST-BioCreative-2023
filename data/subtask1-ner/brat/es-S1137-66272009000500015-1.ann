@@ -1,0 +1,15 @@
+T1	SINTOMA 70 80	odinofagia
+T2	SINTOMA 83 96	sangrado oral
+T3	SINTOMA 1057 1064	astenia
+T4	SINTOMA 1066 1079	inestabilidad
+T5	SINTOMA 1082 1097	dolor abdominal
+T6	SINTOMA 974 986	asintomático
+T7	SINTOMA 1877 1889	asintomático
+T8	SINTOMA 1829 1837	sangrado
+T9	SINTOMA 1583 1609	sangrado se mantuvo activo
+T10	SINTOMA 1925 1933	falleció
+T11	SINTOMA 1225 1265	tumoración ulcerada en el esófago distal
+T12	SINTOMA 557 566	T3-N2b-M0
+A1	EXITUS T10
+A2	RESULTADO T11
+A3	RESULTADO T12

@@ -1,0 +1,49 @@
+T1	SINTOMA 620 627	astenia
+T2	SINTOMA 629 637	anorexia
+T3	SINTOMA 639 646	náuseas
+T4	SINTOMA 648 653	mareo
+T5	SINTOMA 655 670	dolor abdominal
+T6	SINTOMA 853 890	dolor difuso a la palpación abdominal
+T7	SINTOMA 934 969	disminución del nivel de conciencia
+T8	SINTOMA 3936 3957	síntomas neurológicos
+T9	SINTOMA 2508 2543	disminución del nivel de conciencia
+T10	SINTOMA 2546 2558	bradipsiquia
+T11	SINTOMA 2675 2727	deterioro del nivel de conciencia de tipo fluctuante
+T12	SINTOMA 2733 2739	afasia
+T13	SINTOMA 2780 2790	estuporosa
+T14	SINTOMA 2931 2953	TAC craneal fue normal
+T15	SINTOMA 810 817	afebril
+T16	SINTOMA 2799 2806	afebril
+T17	SINTOMA 1958 1968	consciente
+T18	SINTOMA 2001 2007	edemas
+T19	SINTOMA 1970 1995	estable hemodinámicamente
+T20	SINTOMA 2564 2608	conservación de la motilidad en extremidades
+T21	SINTOMA 4602 4624	reserva adrenal normal
+T22	SINTOMA 1345 1364	acidosis metabólica
+T23	SINTOMA 687 720	salida de heces por la colostomía
+T24	SINTOMA 2031 2043	hiponatremia
+T25	SINTOMA 2049 2063	hiperpotasemia
+T26	SINTOMA 2373 2406	parestesias en manos y periorales
+T27	SINTOMA 2742 2760	paraparesia en MSI
+T28	SINTOMA 746 801	débito de la fístula, en ocasiones con aspecto hemático
+T29	SINTOMA 723 766	aumento importante del débito de la fístula
+T30	SINTOMA 1302 1316	deshidratación
+T31	SINTOMA 1366 1384	hiponatremia grave
+T32	SINTOMA 1387 1401	hiperpotasemia
+T33	SINTOMA 1625 1668	descenso de la concentración de hemoglobina
+T34	SINTOMA 3443 3463	hipofosfatemia grave
+T35	SINTOMA 3468 3482	hipomagnesemia
+T36	SINTOMA 3485 3498	hipopotasemia
+T37	SINTOMA 4297 4311	deshidratación
+T38	SINTOMA 4809 4844	buena situación clínica y analítica
+A1	IMAGEN T14
+A2	RESULTADO T21
+A3	RESULTADO T22
+A4	RESULTADO T24
+A5	RESULTADO T25
+A6	RESULTADO T31
+A7	RESULTADO T32
+A8	RESULTADO T33
+A9	RESULTADO T34
+A10	RESULTADO T35
+A11	RESULTADO T36

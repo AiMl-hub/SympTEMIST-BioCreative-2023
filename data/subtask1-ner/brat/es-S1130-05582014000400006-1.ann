@@ -1,0 +1,19 @@
+T1	SINTOMA 756 774	escleras ictéricas
+T2	SINTOMA 779 863	aumento del volumen severo con predominio de la región submentoniana y submandibular
+T3	SINTOMA 876 899	apertura bucal limitada
+T4	SINTOMA 248 282	odontalgia de incisivos inferiores
+T5	SINTOMA 284 292	disfagia
+T6	SINTOMA 294 304	odinofagia
+T7	SINTOMA 306 361	aumento del volumen en la región submandibular dolorosa
+T9	SINTOMA 1097 1115	irritantes locales
+T10	SINTOMA 1117 1126	halitosis
+T11	SINTOMA 1128 1205	aumento del volumen severo del piso de la boca y espacio sublingual bilateral
+T12	SINTOMA 620 632	leucocitosis
+T13	SINTOMA 654 665	neutrofilia
+T14	SINTOMA 1520 1562	imagen isodensa en el espacio parafaríngeo
+T15	SINTOMA 1616 1678	disminución de la luz de las vías aéreas de la región cervical
+T17	SINTOMA 364 381	hipertermia local
+A1	RESULTADO T12
+A2	RESULTADO T13
+A3	IMAGEN T14
+A4	IMAGEN T15

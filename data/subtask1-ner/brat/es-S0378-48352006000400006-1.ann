@@ -1,0 +1,12 @@
+T1	SINTOMA 787 801	tos irritativa
+T2	SINTOMA 804 833	expectoración leve hemoptoica
+T3	SINTOMA 876 899	masa en lóbulo superior
+T4	SINTOMA 550 579	estudio de extensión negativo
+T5	SINTOMA 1737 1747	tumoración
+T6	SINTOMA 1051 1080	masa necrótica de 8 cm en LSI
+T7	SINTOMA 1077 1096	LSI con atelectasia
+T8	SINTOMA 2224 2243	libre de enfermedad
+A1	IMAGEN T3
+A2	RESULTADO T4
+A3	IMAGEN T6
+A4	IMAGEN T7

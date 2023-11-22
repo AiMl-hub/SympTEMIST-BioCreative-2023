@@ -1,0 +1,42 @@
+T1	SINTOMA 2083 2114	ecografía de abdomen fue normal
+T2	SINTOMA 474 495	dolor en el hemitórax
+T3	SINTOMA 1533 1607	serología para VIH y para los virus B y C de la hepatitis fueron negativas
+T4	SINTOMA 1623 1700	hemocultivos seriados que resultaron ser positivos para Staphylococcus aureus
+T5	SINTOMA 637 643	fiebre
+T6	SINTOMA 646 664	sensación disneica
+T7	SINTOMA 2430 2455	TAC de abdomen fue normal
+T8	SINTOMA 762 780	mal estado general
+T9	SINTOMA 880 927	murmullo vesicular estaba disminuido en la base
+T10	SINTOMA 941 993	exploraciones cardiaca y neurológica fueron normales
+T11	SINTOMA 2707 2784	captación de gadolinio en la articulación del manubrio con el cuerpo esternal
+T12	SINTOMA 3098 3124	signos de destrucción ósea
+T13	SINTOMA 1029 1041	leucocitosis
+T14	SINTOMA 1723 1777	ecocardiografía transtorácica mostró imágenes normales
+T15	SINTOMA 2016 2059	cultivo fue también positivo para S. aureus
+T16	SINTOMA 2229 2266	imágenes nodulares en lóbulo superior
+T17	SINTOMA 2489 2513	líquido en cavidad libre
+T18	SINTOMA 2544 2624	actividad osteogénica intensamente aumentada a nivel de la articulación esternal
+T19	SINTOMA 1095 1106	neutrofilia
+T20	SINTOMA 1183 1194	eosinofilia
+T21	SINTOMA 1854 1909	lesión eritematosa y caliente en la región paraesternal
+T22	SINTOMA 2174 2198	prominencia intersticial
+T23	SINTOMA 3750 3890	niveles de complemento, subpoblaciones y marcadores linfocitarios, capacidad oxidativa de granulocitos y funcionalidad linfocitaria normales
+T24	SINTOMA 4101 4143	Niveles ligeramente elevados de IgE e IgG4
+T27	SINTOMA 1004 1018	organomegalias
+A1	IMAGEN T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	IMAGEN T7
+A5	IMAGEN T11
+A6	IMAGEN T12
+A7	RESULTADO T13
+A8	IMAGEN T14
+A9	RESULTADO T15
+A10	IMAGEN T16
+A11	IMAGEN T17
+A12	IMAGEN T18
+A13	RESULTADO T19
+A14	RESULTADO T20
+A15	IMAGEN T22
+A16	RESULTADO T23
+A17	RESULTADO T24

@@ -1,0 +1,12 @@
+T1	SINTOMA 507 532	hemodinámicamente estable
+T2	SINTOMA 534 540	alerta
+T3	SINTOMA 543 552	orientado
+T4	SINTOMA 571 590	déficit neurológico
+T5	SINTOMA 597 612	sangrado activo
+T6	SINTOMA 625 664	coágulos de sangre en el canal auditivo
+T7	SINTOMA 2343 2364	focalidad neurológica
+T8	SINTOMA 987 1037	orificio de entrada estaba en la región submaxilar
+T9	SINTOMA 1050 1115	penetraba hasta el sifón carotideo del peñasco del hueso temporal
+T11	SINTOMA 2688 2699	vida normal
+A1	IMAGEN T8
+A2	IMAGEN T9

@@ -1,0 +1,27 @@
+T1	SINTOMA 836 852	Hemograma normal
+T2	SINTOMA 444 480	hematuria macroscópica postmiccional
+T3	SINTOMA 498 512	microhematuria
+T4	SINTOMA 545 563	micciones normales
+T5	SINTOMA 602 621	buen estado general
+T6	SINTOMA 627 655	abdomen y genitales normales
+T7	SINTOMA 935 966	función hepática y renal normal
+T8	SINTOMA 1305 1328	vejiga sin alteraciones
+T9	SINTOMA 1402 1436	normofuncionalismo renal bilateral
+T10	SINTOMA 1644 1670	vejiga con buena capacidad
+T11	SINTOMA 1735 1757	TC abdominal es normal
+T12	SINTOMA 1484 1505	uréteres arrosariados
+T13	SINTOMA 1139 1199	calcificaciones vasculares en ambos hipocondrios y en pelvis
+T14	SINTOMA 1438 1481	calcificaciones sobre silueta renal derecha
+T15	SINTOMA 1097 1136	cambios degenerativos en columna lumbar
+T16	SINTOMA 1810 1832	tumoraciones vesicales
+A1	RESULTADO T1
+A2	RESULTADO T7
+A3	IMAGEN T8
+A4	IMAGEN T9
+A5	IMAGEN T10
+A6	IMAGEN T11
+A7	RESULTADO T12
+A8	IMAGEN T13
+A9	IMAGEN T14
+A10	IMAGEN T15
+A11	IMAGEN T16

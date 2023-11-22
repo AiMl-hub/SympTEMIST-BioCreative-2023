@@ -1,0 +1,9 @@
+T1	SINTOMA 150 181	imposibilidad de cerrar la boca
+T2	SINTOMA 184 189	babeo
+T3	SINTOMA 352 376	erosión en la raíz nasal
+T4	SINTOMA 516 562	dolor en la región preauricular de ambos lados
+T5	SINTOMA 731 761	"signo del trago" era positivo
+T6	SINTOMA 768 834	CAE estaba inflamado presentando discreta descamación y supuración
+T7	SINTOMA 718 726	dolorosa
+T8	SINTOMA 847 886	radiografía de ambas ATM que fue normal
+A1	IMAGEN T8

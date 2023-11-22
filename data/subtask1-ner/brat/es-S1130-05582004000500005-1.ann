@@ -1,0 +1,15 @@
+T1	SINTOMA 101 120	disfagia progresiva
+T2	SINTOMA 342 382	limitación funcional en miembro inferior
+T3	SINTOMA 401 411	talla baja
+T4	SINTOMA 163 230	sensación de cuerpo extraño acentuada en el momento de la deglución
+T5	SINTOMA 746 777	masa uniforme en base de lengua
+T6	SINTOMA 971 998	captación en base de lengua
+T7	SINTOMA 499 509	tumoración
+T8	SINTOMA 1003 1056	captación en la posición prelaríngea habitual hioidea
+T9	SINTOMA 275 293	retraso psicomotor
+T10	SINTOMA 2122 2145	tejido tiroideo lingual
+T11	SINTOMA 545 568	dolorosa a la palpación
+A1	IMAGEN T5
+A2	IMAGEN T6
+A3	IMAGEN T8
+A4	IMAGEN T10

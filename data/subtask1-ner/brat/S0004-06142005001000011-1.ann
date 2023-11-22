@@ -1,0 +1,21 @@
+T1	SINTOMA 1600 1636	reflejos osteotendinosos (ROT) vivos
+T2	SINTOMA 498 510	asintomático
+T3	SINTOMA 1206 1231	inestabilidad a la marcha
+T4	SINTOMA 1381 1407	inestabilidad de la marcha
+T5	SINTOMA 1409 1453	parestesias en ambas extremidades inferiores
+T6	SINTOMA 1234 1256	temblores en las manos
+T7	SINTOMA 1463 1481	temblores en manos
+T8	SINTOMA 2568 2598	urgencia miccional con escapes
+T9	SINTOMA 1639 1680	reflejo cutaneoplantar (RCP) en extensión
+T10	SINTOMA 1543 1598	disminución de la sensibilidad vibratoria en ambas EEII
+T11	SINTOMA 2032 2060	positivos para HTLV-I en LCR
+T12	SINTOMA 1875 1931	potenciales evocados resultaron alterados a nivel tibial
+T13	SINTOMA 2601 2616	micción a gotas
+T14	SINTOMA 1521 1534	déficit motor
+T15	SINTOMA 512 553	pruebas de esfuerzo posteriores negativas
+T16	SINTOMA 2710 2731	vejiga hiperrefléxica
+T17	SINTOMA 1820 1869	pleocitosis linfocitaria sin bandas oligoclonales
+A1	RESULTADO T11
+A2	RESULTADO T12
+A3	RESULTADO T15
+A4	IMAGEN T16

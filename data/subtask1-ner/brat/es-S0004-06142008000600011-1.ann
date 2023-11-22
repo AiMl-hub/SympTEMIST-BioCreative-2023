@@ -1,0 +1,8 @@
+T1	SINTOMA 1488 1495	T3bN0M0
+T2	SINTOMA 75 85	masa renal
+T3	SINTOMA 2807 2815	pT3bNoMo
+T4	SINTOMA 3418 3430	asintomático
+T5	SINTOMA 319 328	hematuria
+T6	SINTOMA 1335 1387	filtro metálico inmediatamente por encima del trombo
+A1	RESULTADO T1
+A2	IMAGEN T6

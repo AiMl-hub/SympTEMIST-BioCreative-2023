@@ -1,0 +1,13 @@
+T1	SINTOMA 652 685	edemas en los miembros inferiores
+T2	SINTOMA 688 695	diarrea
+T3	SINTOMA 89 113	pérdida de 17 kg de peso
+T4	SINTOMA 115 122	astenia
+T5	SINTOMA 184 241	cambios inflamatorios inespecíficos de la mucosa colónica
+T6	SINTOMA 933 944	Proteinuria
+T7	SINTOMA 1194 1201	diarrea
+T8	SINTOMA 124 132	anorexia
+T9	SINTOMA 1002 1029	mala situación del paciente
+T10	SINTOMA 1483 1495	masa tumoral
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	IMAGEN T10

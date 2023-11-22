@@ -1,0 +1,19 @@
+T1	SINTOMA 113 165	dolor en hipocondrio izquierdo de presentación aguda
+T2	SINTOMA 299 304	mareo
+T3	SINTOMA 307 316	debilidad
+T4	SINTOMA 356 367	hipotensión
+T5	SINTOMA 370 381	taquicardia
+T6	SINTOMA 651 677	tumoración retroperitoneal
+T7	SINTOMA 1622 1640	tumoración nodular
+T8	SINTOMA 967 975	sangrado
+T9	SINTOMA 1178 1188	tumoración
+T10	SINTOMA 543 564	irritación peritoneal
+T11	SINTOMA 901 951	aumento de la densidad del espacio retroperitoneal
+T12	SINTOMA 1540 1596	ecografía abdominal no se observan hallazgos patológicos
+T13	SINTOMA 455 528	abdomen es doloroso con predominio en hipocondrio y fosa lumbar izquierda
+T14	SINTOMA 789 831	captación del contraste de forma irregular
+T19	SINTOMA 1293 1308	sangrado activo
+A1	IMAGEN T6
+A2	IMAGEN T11
+A3	IMAGEN T12
+A4	IMAGEN T14

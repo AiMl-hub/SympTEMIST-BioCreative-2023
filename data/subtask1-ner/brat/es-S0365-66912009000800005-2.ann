@@ -1,0 +1,12 @@
+T1	SINTOMA 244 259	pérdida de peso
+T2	SINTOMA 261 267	fiebre
+T3	SINTOMA 269 292	claudicación mandibular
+T4	SINTOMA 295 319	disminución de la visión
+T5	SINTOMA 445 468	limitación de la mirada
+T6	SINTOMA 366 407	motilidad extraocular en el OI fue normal
+T7	SINTOMA 518 560	motilidad pupilar era normal en ambos ojos
+T8	SINTOMA 633 695	estudios biomicroscópicos anterior y posterior fueron normales
+T9	SINTOMA 108 120	visión doble
+T10	SINTOMA 123 139	ptosis palpebral
+T11	SINTOMA 428 440	ptosis total
+A1	RESULTADO T8

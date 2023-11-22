@@ -1,0 +1,33 @@
+T1	SINTOMA 1806 1812	fiebre
+T3	SINTOMA 4538 4544	febril
+T4	SINTOMA 121 127	fiebre
+T5	SINTOMA 2764 2812	función renal y hepática dentro de la normalidad
+T6	SINTOMA 2817 2845	glucemia en valores normales
+T9	SINTOMA 1272 1279	afebril
+T10	SINTOMA 1257 1269	asintomático
+T11	SINTOMA 2169 2180	crepitantes
+T12	SINTOMA 893 906	cuadro febril
+T13	SINTOMA 2161 2167	roncus
+T14	SINTOMA 2184 2194	sibilantes
+T15	SINTOMA 2084 2090	soplos
+T16	SINTOMA 2196 2215	abdomen no doloroso
+T17	SINTOMA 2356 2366	meningismo
+T18	SINTOMA 2015 2029	normocoloreado
+T19	SINTOMA 2118 2147	murmullo vesicular conservado
+T20	SINTOMA 2032 2047	normoperfundido
+T21	SINTOMA 2300 2317	focos infecciosos
+T22	SINTOMA 2977 3011	tórax no muestra datos patológicos
+T23	SINTOMA 3289 3322	prótesis aórtica normofuncionante
+T24	SINTOMA 4047 4107	positivo en las cuatro que se realizan para Leuconostoc spp.
+T25	SINTOMA 2371 2404	déficit de fuerza ni sensibilidad
+T26	SINTOMA 2409 2466	alteración de pares craneales ni reflejos osteotendinosos
+T27	SINTOMA 3404 3441	trazador en la región tóracoabdominal
+T28	SINTOMA 1713 1741	fiebre de origen desconocido
+T29	SINTOMA 2585 2613	fiebre de origen desconocido
+T30	SINTOMA 3469 3497	fiebre de origen desconocido
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	IMAGEN T22
+A4	IMAGEN T23
+A5	RESULTADO T24
+A6	RESULTADO T27

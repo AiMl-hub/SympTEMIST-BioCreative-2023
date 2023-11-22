@@ -1,0 +1,14 @@
+T1	SINTOMA 1337 1355	síntomas urinarios
+T2	SINTOMA 2025 2083	mucosa vesical estaba muy eritematosa y con sangrado fácil
+T3	SINTOMA 1154 1172	síntomas urinarios
+T4	SINTOMA 356 395	sintomatología urinaria irritativa baja
+T5	SINTOMA 412 438	ardor uretral posmiccional
+T6	SINTOMA 440 474	dolor uretral y en el bajo vientre
+T7	SINTOMA 476 487	polaquiuria
+T8	SINTOMA 490 508	urgencia miccional
+T9	SINTOMA 553 590	Escherichia Coli en cultivos de orina
+T10	SINTOMA 896 935	interrupción brusca del chorro urinario
+T11	SINTOMA 941 952	dispareunia
+T12	SINTOMA 1487 1514	ambos riñones eran normales
+A1	RESULTADO T9
+A2	IMAGEN T12

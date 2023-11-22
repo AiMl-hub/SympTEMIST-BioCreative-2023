@@ -1,0 +1,15 @@
+T1	SINTOMA 2255 2278	tumoraciones cervicales
+T2	SINTOMA 490 531	dolor e inflamación en región de pieza 48
+T3	SINTOMA 632 715	abombamiento de consistencia ósea a la palpación por vestibular de cuarto cuadrante
+T4	SINTOMA 726 753	mucosa estrictamente normal
+T5	SINTOMA 1320 1391	analítica sanguínea general sin alteración de ninguno de sus parámetros
+T6	SINTOMA 2636 2643	fallece
+T7	SINTOMA 398 411	fallecimiento
+T8	SINTOMA 1507 1514	T2N2bM0
+T9	SINTOMA 2130 2137	pT2pN2b
+A1	IMAGEN T1
+A2	RESULTADO T5
+A3	EXITUS T6
+A4	EXITUS T7
+A5	RESULTADO T8
+A6	RESULTADO T9

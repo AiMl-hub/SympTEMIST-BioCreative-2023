@@ -1,0 +1,9 @@
+T1	SINTOMA 530 624	dolor abdominal en el hipogastrio, de moderada intensidad y tipo opresivo, irradiado al glande
+T2	SINTOMA 811 817	fiebre
+T3	SINTOMA 1908 1936	buenas condiciones generales
+T4	SINTOMA 687 692	dolor
+T5	SINTOMA 1757 1798	cultivo de secreción fue Escherichia coli
+T6	SINTOMA 886 910	abdomen sin alteraciones
+T7	SINTOMA 1453 1497	falta de vascularidad hasta la base del pene
+T8	SINTOMA 958 1003	secreción purulenta a través de meato uretral
+A1	RESULTADO T5

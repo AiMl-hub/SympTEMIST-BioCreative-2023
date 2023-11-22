@@ -1,0 +1,71 @@
+T1	SINTOMA 486 498	taquicárdico
+T2	SINTOMA 500 511	taquipneico
+T3	SINTOMA 514 522	ictérico
+T4	SINTOMA 527 565	auscultación cardiopulmonar era normal
+T5	SINTOMA 595 606	somnolencia
+T6	SINTOMA 608 632	leve midriasis bilateral
+T7	SINTOMA 634 660	debilidad facial bilateral
+T8	SINTOMA 700 745	debilidad muscular en las cuatro extremidades
+T9	SINTOMA 2613 2648	anomalías del equilibrio ácido-base
+T10	SINTOMA 794 820	hiporreflexia generalizada
+T11	SINTOMA 839 846	temblor
+T12	SINTOMA 850 859	agitación
+T13	SINTOMA 902 918	glucemia elevada
+T14	SINTOMA 932 952	función renal normal
+T15	SINTOMA 1566 1604	alteraciones del equilibrio ácido-base
+T16	SINTOMA 1608 1641	presencia de metilcetona en orina
+T17	SINTOMA 454 461	afebril
+T18	SINTOMA 3919 3925	alerta
+T19	SINTOMA 374 409	disminución del nivel de conciencia
+T20	SINTOMA 335 371	imposibilidad para la bipe-destación
+T21	SINTOMA 674 698	pares craneales normales
+T22	SINTOMA 3931 3959	debilidad 4/5 en EESS y EEII
+T23	SINTOMA 1798 1811	ritmo sinusal
+T24	SINTOMA 4091 4111	síndrome confusional
+T25	SINTOMA 993 1007	lactato normal
+T26	SINTOMA 3398 3462	líquido cefaloraquídeo tenía un aspecto ligeramente xantocrómico
+T27	SINTOMA 3593 3633	actividad de base rápida de bajo voltaje
+T28	SINTOMA 3639 3649	asimetrías
+T29	SINTOMA 3651 3662	focalidades
+T30	SINTOMA 3666 3688	componentes trifásicos
+T31	SINTOMA 3719 3864	afectación polirradicular sensitivo-motora de predominio axonal severa de extremidades inferiores (EEII) y leve de extremidades superiores (EESS)
+T32	SINTOMA 171 185	cuadro maníaco
+T33	SINTOMA 310 330	deterioro progresivo
+T34	SINTOMA 747 790	falta de colaboración para realizar balance
+T35	SINTOMA 954 967	hipopotasemia
+T36	SINTOMA 969 988	acidosis metabólica
+T37	SINTOMA 1010 1032	alcalosis respiratoria
+T38	SINTOMA 1471 1484	hipopotasemia
+T39	SINTOMA 1486 1508	hipo-fosfatemia severa
+T40	SINTOMA 1510 1529	hipomagnesemia leve
+T41	SINTOMA 1531 1544	hipernatremia
+T42	SINTOMA 1857 1880	déficits electrolíticos
+T43	SINTOMA 2654 2667	hipernatremia
+T44	SINTOMA 4029 4066	hipofosfatemia e hipokaliemia severas
+T45	SINTOMA 4068 4087	hipomagnesemia leve
+T46	SINTOMA 4181 4203	hipo-fosfatemia severa
+A1	RESULTADO T9
+A2	RESULTADO T13
+A3	RESULTADO T14
+A4	RESULTADO T15
+A5	RESULTADO T16
+A6	RESULTADO T23
+A7	RESULTADO T25
+A8	RESULTADO T26
+A9	RESULTADO T27
+A10	RESULTADO T28
+A11	RESULTADO T29
+A12	RESULTADO T30
+A13	RESULTADO T31
+A14	RESULTADO T35
+A15	RESULTADO T36
+A16	RESULTADO T37
+A17	RESULTADO T38
+A18	RESULTADO T39
+A19	RESULTADO T40
+A20	RESULTADO T41
+A21	RESULTADO T42
+A22	RESULTADO T43
+A23	RESULTADO T44
+A24	RESULTADO T45
+A25	RESULTADO T46

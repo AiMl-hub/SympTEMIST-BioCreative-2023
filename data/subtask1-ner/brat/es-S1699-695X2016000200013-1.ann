@@ -1,0 +1,20 @@
+T1	SINTOMA 77 119	aumento progresivo de tamaño del testículo
+T2	SINTOMA 167 172	dolor
+T3	SINTOMA 176 199	sintomatología urinaria
+T4	SINTOMA 445 499	aumento difuso del tamaño y consistencia del testículo
+T5	SINTOMA 687 708	irritación peritoneal
+T6	SINTOMA 1416 1453	Testículo derecho aumentado de tamaño
+T7	SINTOMA 1526 1562	aumento difuso de la vascularización
+T8	SINTOMA 512 539	transluminiscencia negativa
+T9	SINTOMA 544 573	testículo izquierdo es normal
+T10	SINTOMA 791 837	alteración de la ecoestructura de forma difusa
+T11	SINTOMA 1033 1098	hemograma como la bioquímica básica fueron rigurosamente normales
+T12	SINTOMA 1136 1178	radiografía de tórax fue igualmente normal
+T13	SINTOMA 3380 3423	marcadores tumorales se mantienen negativos
+T14	SINTOMA 668 683	visceromegalias
+A1	IMAGEN T6
+A2	IMAGEN T7
+A3	IMAGEN T10
+A4	RESULTADO T11
+A5	IMAGEN T12
+A6	RESULTADO T13

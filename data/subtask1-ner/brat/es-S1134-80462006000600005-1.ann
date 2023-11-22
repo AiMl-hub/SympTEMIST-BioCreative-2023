@@ -1,0 +1,12 @@
+T1	SINTOMA 174 181	astenia
+T2	SINTOMA 183 190	cefalea
+T3	SINTOMA 192 200	anorexia
+T4	SINTOMA 225 236	taquicardia
+T5	SINTOMA 294 316	palidez cutáneo-mucosa
+T6	SINTOMA 3150 3157	náuseas
+T7	SINTOMA 3159 3166	vómitos
+T8	SINTOMA 3170 3177	prurito
+T9	SINTOMA 866 909	infiltración medular de elementos blásticos
+T10	SINTOMA 2756 2761	dolor
+T11	SINTOMA 202 211	epistaxis
+A1	RESULTADO T9

@@ -1,0 +1,24 @@
+T1	SINTOMA 2826 2833	cefalea
+T2	SINTOMA 136 155	cefalea holocraneal
+T3	SINTOMA 182 191	fotofobia
+T4	SINTOMA 193 200	nauseas
+T5	SINTOMA 203 210	vómitos
+T6	SINTOMA 215 221	fiebre
+T7	SINTOMA 311 339	inestabilidad para la marcha
+T8	SINTOMA 342 350	diplopia
+T9	SINTOMA 432 445	rigidez nucal
+T10	SINTOMA 483 502	Romberg tambaleante
+T11	SINTOMA 505 541	lateropulsión izquierda en la marcha
+T12	SINTOMA 1212 1236	masa extraparenquimatosa
+T13	SINTOMA 1904 1948	acúmulo graso en la cisterna interpeduncular
+T14	SINTOMA 748 916	imágenes ovulares diseminadas por las cisternas supraselares derechas, cuadrigéminas bilaterales, ángulo pontocerebeloso y asta frontal del ventrículo lateral izquierdo
+T15	SINTOMA 2987 2999	asintomática
+T16	SINTOMA 2923 2936	inestabilidad
+T17	SINTOMA 1470 1562	región paramedial del mesencéfalo una imagen hiperintensa en la secuencias potenciadas en T2
+T18	SINTOMA 2386 2809	analítica, hemograma, lipidograma, estudio de autoinmunidad, serología, hormonas tiroideas, homocisteina, anticuerpos anticardiolipina, B2-microglobulina, antifosfolípido, estudio de líquido cefalorraquídeo, electrocardiograma, duplex de troncos supraórticos, doppler transcraneal, test de burbujas, ecocardiografía transtorácica, holter de arritmias y angioresonancia de polígono de Willis; todas ellas con resultado norma
+T19	SINTOMA 2906 2920	oftalmoparesia
+A1	IMAGEN T12
+A2	IMAGEN T13
+A3	IMAGEN T14
+A4	IMAGEN T17
+A5	RESULTADO T18

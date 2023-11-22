@@ -1,0 +1,27 @@
+T1	SINTOMA 880 904	estabilidad hemodinámica
+T2	SINTOMA 3422 3450	deterioro del estado general
+T3	SINTOMA 3465 3471	fiebre
+T4	SINTOMA 299 314	dolor abdominal
+T5	SINTOMA 451 466	dolor abdominal
+T6	SINTOMA 606 618	uretrorragia
+T7	SINTOMA 4854 4866	asintomático
+T8	SINTOMA 232 257	estable hemodinámicamente
+T9	SINTOMA 3771 3800	hemocultivos crece un E. coli
+T10	SINTOMA 570 602	afectación de genitales externos
+T11	SINTOMA 2421 2449	indemnidad del uréter distal
+T12	SINTOMA 3993 4013	colecciones líquidas
+T13	SINTOMA 479 554	irritación peritoneal principalmente en hipogastrio y fosa iliaca izquierda
+T14	SINTOMA 675 697	hematuria macroscópica
+T15	SINTOMA 838 870	hemograma y coagulación normales
+T16	SINTOMA 3452 3463	hipotensión
+T17	SINTOMA 3474 3519	leucocitosis con marcada desviación izquierda
+T18	SINTOMA 1435 1477	extravasación de contraste tras el relleno
+T19	SINTOMA 1373 1429	rotura vesical póstero-lateral izquierda extraperitoneal
+T25	SINTOMA 3936 3960	cambios post-quirúrgicos
+A1	RESULTADO T9
+A2	IMAGEN T12
+A3	RESULTADO T14
+A4	RESULTADO T15
+A5	RESULTADO T17
+A6	IMAGEN T18
+A7	IMAGEN T19

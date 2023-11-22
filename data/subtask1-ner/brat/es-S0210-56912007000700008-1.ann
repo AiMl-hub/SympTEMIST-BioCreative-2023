@@ -1,0 +1,21 @@
+T1	SINTOMA 152 167	pérdida de peso
+T2	SINTOMA 193 200	astenia
+T3	SINTOMA 203 211	tos seca
+T4	SINTOMA 281 287	fiebre
+T5	SINTOMA 659 707	infiltrado intersticio-alveolar difuso bilateral
+T6	SINTOMA 304 326	mialgias generalizadas
+T7	SINTOMA 329 358	disnea de moderados esfuerzos
+T8	SINTOMA 1350 1356	disnea
+T9	SINTOMA 825 844	afectación alveolar
+T10	SINTOMA 846 910	zonas simétricas y bilaterales de opacidad en vidrio deslustrado
+T11	SINTOMA 1016 1059	biopsia transbronquial que fue inespecífica
+T12	SINTOMA 1192 1250	estudio microbiológico de la biopsia aisla una Nocardia sp
+T13	SINTOMA 4532 4566	patrón intersticial fino bilateral
+T14	SINTOMA 777 811	afectación del parénquima pulmonar
+A1	IMAGEN T5
+A2	IMAGEN T9
+A3	IMAGEN T10
+A4	RESULTADO T11
+A5	RESULTADO T12
+A6	IMAGEN T13
+A7	IMAGEN T14

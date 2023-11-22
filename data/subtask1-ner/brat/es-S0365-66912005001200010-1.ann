@@ -1,0 +1,13 @@
+T1	SINTOMA 988 1032	aumento del diámetro del globo ocular del OD
+T2	SINTOMA 453 471	nistagmus pendular
+T3	SINTOMA 916 941	masa en temporal inferior
+T4	SINTOMA 1664 1721	tumoración grisácea de consistencia blanda y NO engrosado
+T5	SINTOMA 165 175	hipoacusia
+T6	SINTOMA 21 28	ceguera
+T7	SINTOMA 359 437	agudeza visual era de cuenta dedos en el ojo derecho (OD) y amaurosis en el OI
+T8	SINTOMA 568 588	OI seclusión pupilar
+T9	SINTOMA 1319 1354	leve engrosamiento de las cubiertas
+T10	SINTOMA 2076 2111	calcificaciones en el filete óptico
+A1	IMAGEN T1
+A2	IMAGEN T3
+A3	IMAGEN T9

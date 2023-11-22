@@ -1,0 +1,7 @@
+T1	SINTOMA 86 105	dolor en fosa renal
+T2	SINTOMA 159 168	hematuria
+T3	SINTOMA 1351 1361	hemorragia
+T4	SINTOMA 1521 1531	hemorragia
+T5	SINTOMA 117 133	malestar general
+T6	SINTOMA 201 248	orina fueron negativos para células neoplásicas
+A1	RESULTADO T6

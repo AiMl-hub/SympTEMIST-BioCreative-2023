@@ -1,0 +1,12 @@
+T1	SINTOMA 2032 2069	normalidad absoluta de la anastomosis
+T2	SINTOMA 2072 2089	ausencia de fugas
+T3	SINTOMA 2249 2293	integridad y funcionalidad de la anastomosis
+T4	SINTOMA 2356 2398	total normalidad de las pruebas analíticas
+T5	SINTOMA 530 580	integridad de la vía biliar intra- y extrahepática
+T6	SINTOMA 586 647	características anatómicas y funcionales de apariencia normal
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T4
+A5	IMAGEN T5
+A6	RESULTADO T6

@@ -1,0 +1,14 @@
+T1	SINTOMA 62 77	pérdida de peso
+T2	SINTOMA 1446 1462	cuadro diarreico
+T3	SINTOMA 1395 1407	asintomático
+T4	SINTOMA 129 237	bioquímica general, hemograma, TSH, estudio inmunológico, perfil celiaco y parásitos de heces que fue normal
+T5	SINTOMA 242 276	proteína C reactiva estaba elevada
+T6	SINTOMA 292 331	colonoscopia hasta ciego que fue normal
+T7	SINTOMA 340 404	tránsito intestinal baritado no se identificó ninguna alteración
+T8	SINTOMA 44 59	diarrea crónica
+T9	SINTOMA 449 486	masa renal izquierda en polo superior
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	RESULTADO T6
+A4	RESULTADO T7
+A5	IMAGEN T9

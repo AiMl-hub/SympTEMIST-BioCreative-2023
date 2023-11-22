@@ -1,0 +1,29 @@
+T1	SINTOMA 361 367	disnea
+T2	SINTOMA 414 420	fiebre
+T3	SINTOMA 448 461	expectoración
+T4	SINTOMA 911 941	infiltrado alveolar en la base
+T5	SINTOMA 2656 2667	infiltrados
+T6	SINTOMA 1782 1804	infiltrados pulmonares
+T7	SINTOMA 442 445	tos
+T8	SINTOMA 1320 1335	trombocitopenia
+T9	SINTOMA 1861 1930	afectación parenquimatosa bilateral muy extensa en vidrio deslustrado
+T10	SINTOMA 969 1003	infiltrados pulmonares bilaterales
+T11	SINTOMA 2052 2109	lavado broncoalveolar con cultivo bacteriológico negativo
+T12	SINTOMA 2111 2133	Ziehl-Nielsen negativo
+T13	SINTOMA 2136 2167	Pneumocystis jirovecii negativo
+T14	SINTOMA 2182 2262	serologías de neumonías atípicas (Legionella, Chlamydia, etc.) que son negativas
+T15	SINTOMA 1468 1506	elevación de la lactato deshidrogenasa
+T16	SINTOMA 2459 2530	reacción en cadena de la polimerasa en tiempo real (RT-PCR) es positiva
+T19	SINTOMA 166 185	libre de enfermedad
+A1	IMAGEN T4
+A2	IMAGEN T5
+A3	IMAGEN T6
+A4	RESULTADO T8
+A5	IMAGEN T9
+A6	IMAGEN T10
+A7	RESULTADO T11
+A8	RESULTADO T12
+A9	RESULTADO T13
+A10	RESULTADO T14
+A11	RESULTADO T15
+A12	RESULTADO T16

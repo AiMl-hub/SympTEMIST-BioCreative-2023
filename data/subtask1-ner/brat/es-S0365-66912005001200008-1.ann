@@ -1,0 +1,14 @@
+T1	SINTOMA 1802 1810	falleció
+T2	SINTOMA 1702 1736	restricción de la motilidad ocular
+T3	SINTOMA 276 297	ojo derecho (OD) rojo
+T4	SINTOMA 566 589	fondo de ojo fue normal
+T5	SINTOMA 339 363	síntoma visual ni ocular
+T6	SINTOMA 460 526	masa indolora, vascularizada y subconjuntival nasal superior en OD
+T7	SINTOMA 748 773	aumento de partes blandas
+T8	SINTOMA 368 413	agudeza visual era de la unidad en ambos ojos
+T9	SINTOMA 668 688	oftalmoplejía del OD
+T10	SINTOMA 1656 1680	campos visuales normales
+T11	SINTOMA 1693 1699	ptosis
+A1	EXITUS T1
+A2	RESULTADO T4
+A3	IMAGEN T7

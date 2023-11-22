@@ -1,0 +1,8 @@
+T1	SINTOMA 949 954	dolor
+T2	SINTOMA 1115 1149	dolor intenso en la zona del carpo
+T3	SINTOMA 1260 1324	edema, borramiento de los surcos tendinosos del dorso de la mano
+T4	SINTOMA 1326 1393	impotencia funcional de la muñeca y aumento local de la temperatura
+T5	SINTOMA 2267 2303	signo de “cera fundida deslizándose"
+T6	SINTOMA 2813 2830	dolor en el radio
+T7	SINTOMA 2955 2960	dolor
+A1	IMAGEN T5

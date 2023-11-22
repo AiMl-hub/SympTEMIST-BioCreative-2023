@@ -1,0 +1,7 @@
+T1	SINTOMA 287 318	abandono de la higiene personal
+T2	SINTOMA 323 363	descontrol de los hábitos de eliminación
+T3	SINTOMA 244 263	deterioro funcional
+T4	SINTOMA 464 554	cultivo del exudado de la úlcera mostró que era positivo para PAMR y Staphylococcus aureus
+T5	SINTOMA 1187 1195	falleció
+A1	RESULTADO T4
+A2	EXITUS T5

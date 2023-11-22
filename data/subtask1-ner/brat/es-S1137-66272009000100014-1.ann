@@ -1,0 +1,28 @@
+T1	SINTOMA 955 977	dolor lumbar irradiado
+T2	SINTOMA 1086 1103	ardor de estómago
+T3	SINTOMA 1114 1146	temblor al levantarse de la cama
+T4	SINTOMA 1149 1162	inestabilidad
+T5	SINTOMA 1259 1293	vómitos de contenido sanguinolento
+T6	SINTOMA 1428 1436	nauseoso
+T7	SINTOMA 1442 1449	palidez
+T8	SINTOMA 1469 1476	náuseas
+T9	SINTOMA 659 734	dolor lumbar bajo de perfil cólico irradiado a cuadrante inferior izquierdo
+T10	SINTOMA 1624 1671	abdomen doloroso a la palpación profunda en CII
+T11	SINTOMA 1687 1708	irritación peritoneal
+T12	SINTOMA 2156 2182	inestabilidad hemodinámica
+T13	SINTOMA 2048 2080	plaquetas y coagulación normales
+T14	SINTOMA 1585 1600	“posos de café”
+T15	SINTOMA 1722 1727	masas
+T16	SINTOMA 1730 1773	tacto rectal negativo para sangre y melenas
+T17	SINTOMA 2489 2539	fundus, cuerpo gástrico, incisura y antro normales
+T18	SINTOMA 1494 1508	normocoloreado
+T19	SINTOMA 1377 1399	relleno capilar normal
+T20	SINTOMA 2765 2773	falleció
+T21	SINTOMA 1331 1350	buen estado general
+T22	SINTOMA 1547 1572	sangrado en fosas nasales
+T23	SINTOMA 2396 2434	mucosa de aspecto claramente isquémico
+T27	SINTOMA 171 194	sangrado digestivo alto
+A1	RESULTADO T13
+A2	RESULTADO T17
+A3	EXITUS T20
+A4	RESULTADO T23

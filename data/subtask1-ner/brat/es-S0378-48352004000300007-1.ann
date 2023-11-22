@@ -1,0 +1,15 @@
+T1	SINTOMA 122 138	dolor en rodilla
+T2	SINTOMA 154 160	fiebre
+T3	SINTOMA 980 1019	serología de VIH y hepatovirus negativa
+T4	SINTOMA 891 901	síntomas B
+T5	SINTOMA 1711 1721	síntomas B
+T6	SINTOMA 262 323	analítica (incluyendo LDH) no se apreciaron valores anormales
+T7	SINTOMA 1938 1983	médula ósea no presentaba infiltración por LH
+T8	SINTOMA 1989 2025	gammagrafía con 67Galio fue negativa
+T9	SINTOMA 1046 1057	masa axilar
+T10	SINTOMA 66 84	sudoración profusa
+T11	SINTOMA 207 244	dolor y aumento de tamaño en el muslo
+T12	SINTOMA 724 740	masa adenopática
+A1	RESULTADO T3
+A2	RESULTADO T7
+A3	RESULTADO T8

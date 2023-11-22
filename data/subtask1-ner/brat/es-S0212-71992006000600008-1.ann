@@ -1,0 +1,17 @@
+T1	SINTOMA 322 343	dolor dorsal opresivo
+T2	SINTOMA 348 358	sudoración
+T3	SINTOMA 361 367	disnea
+T4	SINTOMA 580 619	soplo sistólico y diastólico fluctuante
+T5	SINTOMA 699 705	roncus
+T6	SINTOMA 821 869	aumento discreto de los reactantes de fase aguda
+T7	SINTOMA 1202 1255	masa de 4 x 5 cm dependiente de la aurícula izquierda
+T8	SINTOMA 563 575	tercer ruido
+T9	SINTOMA 708 718	sibilantes
+T10	SINTOMA 875 915	biomarcadores cardiacos fueron negativos
+T11	SINTOMA 920 934	ECG fue normal
+T12	SINTOMA 1679 1691	asintomática
+T13	SINTOMA 511 547	auscultación cardiaca estaba rítmica
+T14	SINTOMA 622 654	signos de insuficiencia cardiaca
+A1	RESULTADO T6
+A2	RESULTADO T10
+A3	RESULTADO T11

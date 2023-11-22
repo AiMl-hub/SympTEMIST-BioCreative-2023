@@ -1,0 +1,14 @@
+T1	SINTOMA 458 483	palidez de piel y mucosas
+T2	SINTOMA 119 126	astenia
+T3	SINTOMA 155 160	mareo
+T4	SINTOMA 176 189	epigastralgia
+T5	SINTOMA 1013 1045	hipersegmentación de neutrófilos
+T6	SINTOMA 974 1011	anisocitosis de tendencia macrocítica
+T7	SINTOMA 1072 1134	estudio del hierro y los niveles de ácido fólico eran normales
+T8	SINTOMA 1056 1067	dacriocitos
+T9	SINTOMA 1247 1300	niveles de gastrina se encuentran claramente elevados
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	RESULTADO T7
+A4	RESULTADO T8
+A5	RESULTADO T9

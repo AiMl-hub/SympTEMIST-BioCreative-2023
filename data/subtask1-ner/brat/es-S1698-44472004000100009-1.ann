@@ -1,0 +1,6 @@
+T1	SINTOMA 29 51	tumefacción mandibular
+T2	SINTOMA 288 319	destrucción de la cortical ósea
+T3	SINTOMA 537 626	tumoración carnosa de consistencia densa que rodeaba la rama del nervio dentario inferior
+T4	SINTOMA 3395 3445	delección del brazo largo del cromosoma 22 (22q11)
+A1	IMAGEN T2
+A2	RESULTADO T4

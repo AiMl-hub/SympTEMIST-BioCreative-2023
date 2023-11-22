@@ -1,0 +1,46 @@
+T1	SINTOMA 224 231	afebril
+T2	SINTOMA 307 331	fluencia verbal reducida
+T3	SINTOMA 336 346	parafasias
+T4	SINTOMA 658 697	aumento de los reactantes de fase aguda
+T5	SINTOMA 1198 1205	afebril
+T6	SINTOMA 2054 2100	dolor inespecífico en el hipocondrio izquierdo
+T7	SINTOMA 2813 2826	masa pulmonar
+T8	SINTOMA 158 174	focos isquémicos
+T9	SINTOMA 702 799	electrocardiograma, doppler transcraneal, doppler continuo carotídeo y fondo de ojo eran normales
+T10	SINTOMA 1394 1424	masa de 3,5 centimetros en LII
+T11	SINTOMA 1426 1443	nódulos satélites
+T12	SINTOMA 1605 1640	resutados negativos de los cultivos
+T13	SINTOMA 2517 2530	afasia global
+T14	SINTOMA 1891 1925	cultivos negativos (HACEK, hongos)
+T15	SINTOMA 2303 2347	debilidad transitoria de extremidad superior
+T16	SINTOMA 71 79	disnomia
+T17	SINTOMA 82 89	paresia
+T18	SINTOMA 429 466	respuesta plantar derecha indiferente
+T19	SINTOMA 2532 2549	inatención visual
+T20	SINTOMA 3039 3072	aumento del fibrinógeno y del PDF
+T21	SINTOMA 386 414	déficit motor braquio-crural
+T22	SINTOMA 510 559	petequias en región tibial de extremidad inferior
+T23	SINTOMA 868 891	foramen ovale permeable
+T24	SINTOMA 2416 2428	cuadro ictal
+T25	SINTOMA 570 608	hemorragias en astilla en varios dedos
+T26	SINTOMA 915 976	verruga de 15 milimetros sobre el velo posterior de la mitral
+T27	SINTOMA 1301 1341	nódulo en lóbulo inferior izquierdo (LII
+T28	SINTOMA 1725 1732	verruga
+T29	SINTOMA 2119 2202	ecografía abdominal con la sospecha de embolia esplénica no encontrándose patología
+T30	SINTOMA 2233 2248	cuadro sincopal
+T31	SINTOMA 3077 3195	estudios de hipercoagulabilidad, marcadores de crioglobulinemia, antifosfolípido, VIH, VHB, VHC y ANA fueron negativos
+T32	SINTOMA 2383 2400	deterioro clínico
+A1	RESULTADO T4
+A2	IMAGEN T8
+A3	RESULTADO T9
+A4	IMAGEN T10
+A5	IMAGEN T11
+A6	RESULTADO T12
+A7	RESULTADO T14
+A8	RESULTADO T20
+A9	IMAGEN T23
+A10	IMAGEN T26
+A11	IMAGEN T27
+A12	IMAGEN T28
+A13	IMAGEN T29
+A14	RESULTADO T31

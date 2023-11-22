@@ -1,0 +1,17 @@
+T1	SINTOMA 2329 2338	hematuria
+T3	SINTOMA 970 979	hematuria
+T4	SINTOMA 1274 1283	hematuria
+T5	SINTOMA 1515 1567	ocupación vesical por una imagen que sugería coágulo
+T6	SINTOMA 1806 1857	coágulo filiforme que asomaba por el meato ureteral
+T7	SINTOMA 1962 2032	sistemas ureteropielocaliciales, que aparecían discretamente ectásicos
+T8	SINTOMA 1740 1745	dolor
+T9	SINTOMA 1613 1658	ocupación intraluminal por un gran un coágulo
+T10	SINTOMA 2053 2099	múltiples defectos de repleción intravesicales
+T11	SINTOMA 2807 2837	presencia de material amiloide
+T12	SINTOMA 2344 2363	emisión de coágulos
+T14	SINTOMA 710 726	hematuria franca
+A1	IMAGEN T5
+A2	IMAGEN T7
+A3	IMAGEN T9
+A4	IMAGEN T10
+A5	RESULTADO T11

@@ -1,0 +1,7 @@
+T1	SINTOMA 529 535	fiebre
+T2	SINTOMA 538 549	escalofríos
+T3	SINTOMA 597 649	hemocultivos positivos a Staphylococcus (St.) aureus
+T4	SINTOMA 700 783	catéter, que se cultiva, creciendo AX, junto con St. aureus y Enterococcus faecalis
+T5	SINTOMA 260 281	mala higiene personal
+A1	RESULTADO T3
+A2	RESULTADO T4

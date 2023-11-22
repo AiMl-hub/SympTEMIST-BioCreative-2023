@@ -1,0 +1,19 @@
+T1	SINTOMA 64 71	cefalea
+T2	SINTOMA 73 79	fiebre
+T3	SINTOMA 647 653	fiebre
+T4	SINTOMA 664 685	palidez cutaneomucosa
+T5	SINTOMA 1321 1327	fiebre
+T6	SINTOMA 1352 1359	cefalea
+T7	SINTOMA 1387 1403	signos meníngeos
+T8	SINTOMA 938 949	neutropenia
+T9	SINTOMA 975 1007	exámenes virológicos (negativos)
+T10	SINTOMA 1478 1531	LCR muestra un incremento del número total de células
+T11	SINTOMA 1783 1822	factor VIII y mieloperoxidasa positivos
+T12	SINTOMA 2065 2119	positivo el hemocultivo a Sterotrophomonas maltophilia
+T13	SINTOMA 2274 2281	fallece
+A1	RESULTADO T8
+A2	RESULTADO T9
+A3	RESULTADO T10
+A4	RESULTADO T11
+A5	RESULTADO T12
+A6	EXITUS T13

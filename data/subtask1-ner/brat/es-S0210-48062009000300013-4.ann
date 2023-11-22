@@ -1,0 +1,5 @@
+T1	SINTOMA 157 187	normal función renal bilateral
+T2	SINTOMA 385 416	dolor intenso en flanco derecho
+T3	SINTOMA 197 226	riñón derecho de menor tamaño
+A1	RESULTADO T1
+A2	RESULTADO T3

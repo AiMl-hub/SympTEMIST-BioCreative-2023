@@ -1,0 +1,16 @@
+T1	SINTOMA 2033 2045	asintomática
+T2	SINTOMA 1304 1363	débito de 400 ml por el drenaje axilar, con aspecto lechoso
+T3	SINTOMA 846 863	Her2-neu negativo
+T4	SINTOMA 1170 1214	leve hemorragia exteriorizada por el drenaje
+T5	SINTOMA 1412 1427	líquido quiloso
+T6	SINTOMA 162 214	nódulo de 3,5 cm en cuadrante infero-interno de mama
+T7	SINTOMA 969 982	EGFR negativo
+T8	SINTOMA 984 1003	E-Caderina positivo
+T9	SINTOMA 1009 1027	Andrógeno negativo
+T10	SINTOMA 1029 1042	BCL2 positivo
+T12	SINTOMA 2048 2067	libre de enfermedad
+A1	RESULTADO T3
+A2	RESULTADO T7
+A3	RESULTADO T8
+A4	RESULTADO T9
+A5	RESULTADO T10

@@ -1,0 +1,17 @@
+T1	SINTOMA 2601 2652	consolidación ósea del autoinjerto de cresta iliaca
+T2	SINTOMA 336 426	interlínea articular radiocarpiana dorsal y el polo proximal del escafoides eran dolorosos
+T3	SINTOMA 72 90	dolor en la muñeca
+T4	SINTOMA 2768 2800	dolor con movilidad de la muñeca
+T5	SINTOMA 483 538	movilidad de la muñeca presentaba una ligera limitación
+T6	SINTOMA 153 158	dolor
+T7	SINTOMA 2526 2576	recuperación completa de la movilidad de la muñeca
+T8	SINTOMA 872 899	edema óseo en el escafoides
+T9	SINTOMA 1324 1428	tumoración de aspecto nacarado y coloración rojo vinosa que ocupaba la cresta dorsal del hueso navicular
+T10	SINTOMA 817 832	calcificaciones
+T11	SINTOMA 459 469	tumoración
+T12	SINTOMA 2842 2898	imagen radiológica del escafoides totalmente normalizada
+T13	SINTOMA 126 148	antecedente traumático
+A1	IMAGEN T1
+A2	IMAGEN T8
+A3	IMAGEN T10
+A4	IMAGEN T12

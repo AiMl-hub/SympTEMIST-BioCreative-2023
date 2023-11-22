@@ -1,0 +1,7 @@
+T1	SINTOMA 50 94	disminución bilateral y progresiva de visión
+T3	SINTOMA 1430 1453	dificultad respiratoria
+T4	SINTOMA 1469 1499	deterioro de su estado general
+T5	SINTOMA 1551 1578	ensanchamiento mediastínico
+T6	SINTOMA 1300 1319	diarrea persistente
+T9	SINTOMA 1256 1267	fiebre alta
+A1	IMAGEN T5

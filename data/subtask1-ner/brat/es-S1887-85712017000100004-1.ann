@@ -1,0 +1,9 @@
+T1	SINTOMA 1795 1832	balance articular de rodilla limitado
+T2	SINTOMA 2978 2991	marcha normal
+T3	SINTOMA 2998 3003	dolor
+T4	SINTOMA 2026 2054	rigidez articular de rodilla
+T5	SINTOMA 984 1052	múltiples pequeños fragmentos desplazados al compartimento posterior
+T6	SINTOMA 1984 2018	consolidación del foco de fractura
+T7	SINTOMA 1838 1885	retardo de consolidación en el foco de fractura
+A1	IMAGEN T5
+A2	IMAGEN T6

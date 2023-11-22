@@ -1,0 +1,18 @@
+T1	SINTOMA 1435 1455	positividad para VHC
+T2	SINTOMA 590 645	dolor abdominal ubicado en hipocondrio derecho, de leve
+T3	SINTOMA 765 772	nauseas
+T4	SINTOMA 774 781	vómitos
+T5	SINTOMA 784 791	astenia
+T6	SINTOMA 799 806	coluria
+T7	SINTOMA 808 814	acolia
+T8	SINTOMA 817 826	ictericia
+T9	SINTOMA 980 998	hipertransaminemia
+T10	SINTOMA 1001 1041	serología para hepatitis A y B negativos
+T11	SINTOMA 1458 1475	negativo para VIH
+T12	SINTOMA 555 567	alza térmica
+T13	SINTOMA 476 523	negativos los marcadores virales para Hepatitis
+A1	RESULTADO T1
+A2	RESULTADO T9
+A3	RESULTADO T10
+A4	RESULTADO T11
+A5	RESULTADO T13

@@ -1,0 +1,10 @@
+T1	SINTOMA 623 643	pliegues en Descemet
+T2	SINTOMA 650 684	hipotonía extrema del globo ocular
+T3	SINTOMA 1818 1844	reabsorción del hemovítreo
+T4	SINTOMA 1980 2018	afectación macular y del nervio óptico
+T5	SINTOMA 2187 2236	hiperpresión masiva que comprimió el globo ocular
+T6	SINTOMA 1703 1734	punto de fuga posterior sellado
+T7	SINTOMA 603 621	afectación pupilar
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	IMAGEN T6

@@ -1,0 +1,33 @@
+T1	SINTOMA 1918 1964	próstata volumen II/IV, de consistencia pétrea
+T2	SINTOMA 3905 3979	citología del líquido pleural fue positiva para células tumorales malignas
+T3	SINTOMA 3052 3061	hematuria
+T4	SINTOMA 151 173	cefalea frontoparietal
+T5	SINTOMA 399 465	inflamación, hiperemia y tumefacción palpebral superior e inferior
+T6	SINTOMA 1797 1823	alteraciones en la micción
+T7	SINTOMA 1846 1857	polaquiuria
+T8	SINTOMA 246 261	edema palpebral
+T9	SINTOMA 1860 1868	nocturia
+T10	SINTOMA 3560 3566	disnea
+T11	SINTOMA 1872 1883	hemospermia
+T12	SINTOMA 963 1000	ocupación de las celdillas etmoidales
+T13	SINTOMA 562 593	alteración de la agudeza visual
+T14	SINTOMA 701 740	exploración del fondo de ojo era normal
+T15	SINTOMA 880 902	masa de partes blandas
+T16	SINTOMA 2243 2518	hipercaptación que afectan a región cigomática derecha y orbital interna derecha, ambas parrillas costales, columna dorsolumbar, pala ilíaca, región acetabular e isquiopubiana derechas, espina iliaca y región acetabular izquierdas y tercio medio de diáfisis femoral izquierda
+T17	SINTOMA 3500 3526	disminución de la diuresis
+T18	SINTOMA 2962 2974	asintomático
+T19	SINTOMA 3528 3557	deterioro de la función renal
+T20	SINTOMA 3468 3498	síndrome miccional obstructivo
+T21	SINTOMA 485 535	limitación en todas las posiciones de de la mirada
+T22	SINTOMA 538 546	diplopia
+T23	SINTOMA 4108 4116	Falleció
+T24	SINTOMA 184 192	diplopia
+T25	SINTOMA 782 820	aumento de tamaño del hueso esfenoides
+T26	SINTOMA 845 875	hiperostosis de cara orbitaria
+A1	RESULTADO T2
+A2	IMAGEN T12
+A3	IMAGEN T15
+A4	IMAGEN T16
+A5	EXITUS T23
+A6	IMAGEN T25
+A7	IMAGEN T26

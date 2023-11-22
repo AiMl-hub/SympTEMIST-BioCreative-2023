@@ -1,0 +1,17 @@
+T1	SINTOMA 926 938	asintomático
+T2	SINTOMA 1006 1021	escleras azules
+T3	SINTOMA 1198 1210	hiperlaxitud
+T4	SINTOMA 1261 1323	niveles normales de calcio, fósforo, calciuria, y parathormona
+T5	SINTOMA 1336 1410	niveles de 25 hidroxivitamina D (25OHCC) estaban en rango de insuficiencia
+T6	SINTOMA 1456 1516	marcadores de remodelado óseo se encontraban en rango normal
+T7	SINTOMA 1888 1939	pruebas de función respiratoria resultaron normales
+T8	SINTOMA 2157 2212	gen COL1A1 una deleción en heterocigosis de una Guanina
+T9	SINTOMA 1779 1811	cambios degenerativos en columna
+T10	SINTOMA 1849 1882	dilatación de la aorta ascendente
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	RESULTADO T6
+A4	RESULTADO T7
+A5	RESULTADO T8
+A6	IMAGEN T9
+A7	RESULTADO T10

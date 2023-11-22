@@ -1,0 +1,14 @@
+T1	SINTOMA 1876 1883	cefalea
+T2	SINTOMA 676 683	cefalea
+T3	SINTOMA 724 742	diplopia binocular
+T4	SINTOMA 745 759	visión borrosa
+T5	SINTOMA 900 957	masa en la porción posterior y lateral del seno cavernoso
+T6	SINTOMA 1674 1686	dolor dorsal
+T7	SINTOMA 1691 1710	clínica neurológica
+T8	SINTOMA 1212 1252	TAC toraco-abdomino-pélvica fue negativa
+T9	SINTOMA 1985 1993	falleció
+T10	SINTOMA 80 85	T2N2b
+A1	IMAGEN T5
+A2	IMAGEN T8
+A3	EXITUS T9
+A4	RESULTADO T10

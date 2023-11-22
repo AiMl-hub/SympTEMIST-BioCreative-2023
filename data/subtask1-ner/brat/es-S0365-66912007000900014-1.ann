@@ -1,0 +1,19 @@
+T1	SINTOMA 764 819	disminución del tyndall celular (3+) en cámara anterior
+T2	SINTOMA 143 172	disminución de agudeza visual
+T3	SINTOMA 1947 1959	asintomático
+T4	SINTOMA 408 442	precipitados queráticos inferiores
+T5	SINTOMA 1870 1886	afectación renal
+T6	SINTOMA 2065 2108	actividad inflamatoria ocular en ambos ojos
+T7	SINTOMA 2170 2215	virus varicela zoster mediante seroconversión
+T8	SINTOMA 507 519	normal el OD
+T9	SINTOMA 467 498	cornea tinción con fluoresceína
+T10	SINTOMA 379 400	OI un tyndall celular
+T11	SINTOMA 630 643	leve vitritis
+T12	SINTOMA 1969 1999	agudeza visual de unidad en OI
+T13	SINTOMA 1479 1487	vitritis
+A1	RESULTADO T1
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T7
+A5	RESULTADO T10
+A6	RESULTADO T11

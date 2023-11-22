@@ -1,0 +1,20 @@
+T1	SINTOMA 2052 2068	leve paraparesia
+T2	SINTOMA 923 949	dolor a nivel dorso-lumbar
+T3	SINTOMA 2104 2123	déficits sensitivos
+T4	SINTOMA 2125 2173	leve hiperreflexia rotuliana bilateral simétrica
+T5	SINTOMA 2179 2209	signos de liberación piramidal
+T6	SINTOMA 1056 1134	pérdida de fuerza con parestesias-disestesias en ambas extremidades inferiores
+T7	SINTOMA 2293 2335	anormal disposición de las facetas T11-T12
+T8	SINTOMA 1236 1249	estreñimiento
+T9	SINTOMA 2398 2424	signo de la faceta desnuda
+T10	SINTOMA 1407 1444	aumento de la distancia interespinosa
+T11	SINTOMA 1498 1559	desplazamiento anterior del cuerpo vertebral de T11 sobre T12
+T12	SINTOMA 1910 1951	sangre a nivel de ligamento interespinoso
+T13	SINTOMA 3199 3204	dolor
+T14	SINTOMA 1199 1233	dificultad para iniciar la micción
+T18	SINTOMA 3126 3152	sintomatología neurológica
+A1	IMAGEN T7
+A2	IMAGEN T9
+A3	IMAGEN T10
+A4	IMAGEN T11
+A5	IMAGEN T12

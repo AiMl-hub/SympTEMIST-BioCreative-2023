@@ -1,0 +1,28 @@
+T1	SINTOMA 48 57	cansancio
+T2	SINTOMA 60 66	fatiga
+T3	SINTOMA 68 86	temblor de piernas
+T4	SINTOMA 1746 1796	riñones simétricos pero significativamente grandes
+T5	SINTOMA 773 792	Buen estado general
+T6	SINTOMA 136 142	fiebre
+T7	SINTOMA 149 195	calambres matutinos en extremidades inferiores
+T8	SINTOMA 794 819	palidez de piel y mucosas
+T9	SINTOMA 1944 1955	Proteinuria
+T10	SINTOMA 1008 1023	visceromegalias
+T11	SINTOMA 1801 1834	dilatación de sistemas colectores
+T12	SINTOMA 1057 1077	hidratación correcta
+T13	SINTOMA 898 928	Exploración neurológica normal
+T14	SINTOMA 2043 2052	hematuria
+T15	SINTOMA 2027 2038	proteinuria
+T16	SINTOMA 930 964	aparato cardiorrespiratorio normal
+T17	SINTOMA 966 1003	abdomen sin ningún hallazgo valorable
+T18	SINTOMA 1025 1055	puño percusión lumbar negativa
+T19	SINTOMA 1836 1850	Doppler normal
+T20	SINTOMA 1853 1872	ecogenicidad normal
+T21	SINTOMA 1358 1388	hemoglobina glicosilada normal
+A1	IMAGEN T4
+A2	RESULTADO T9
+A3	IMAGEN T11
+A4	RESULTADO T15
+A5	IMAGEN T19
+A6	IMAGEN T20
+A7	RESULTADO T21

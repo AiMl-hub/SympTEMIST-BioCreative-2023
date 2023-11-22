@@ -1,0 +1,7 @@
+T1	SINTOMA 1332 1355	pérdida aguda de visión
+T2	SINTOMA 1659 1708	despegamiento de la hialoides posterior en mácula
+T3	SINTOMA 470 488	masa prerretiniana
+T4	SINTOMA 988 1017	hialoides posterior despegada
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	IMAGEN T4

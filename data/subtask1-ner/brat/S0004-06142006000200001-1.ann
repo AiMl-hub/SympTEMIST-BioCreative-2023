@@ -1,0 +1,16 @@
+T1	SINTOMA 2465 2477	asintomática
+T2	SINTOMA 862 871	equímosis
+T3	SINTOMA 335 341	fiebre
+T4	SINTOMA 1539 1570	vejiga la presencia de una masa
+T5	SINTOMA 1801 1805	masa
+T6	SINTOMA 217 308	algias pelvianas y perineales, en los días previos, durante y posteriores a la menstruación
+T7	SINTOMA 321 331	hematurias
+T8	SINTOMA 364 421	genitales externos y el abdomen no mostraban alteraciones
+T9	SINTOMA 540 566	ecografía renal era normal
+T10	SINTOMA 580 637	vejiga se apreció en cara posterior una imagen excrecente
+T11	SINTOMA 1391 1427	formación ecogénica en suelo vesical
+T12	SINTOMA 183 201	síndrome miccional
+A1	IMAGEN T4
+A2	IMAGEN T9
+A3	IMAGEN T10
+A4	IMAGEN T11

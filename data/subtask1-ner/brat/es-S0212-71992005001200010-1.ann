@@ -1,0 +1,30 @@
+T1	SINTOMA 346 363	obstrucción nasal
+T2	SINTOMA 956 971	masa intranasal
+T3	SINTOMA 2672 2691	buen estado general
+T4	SINTOMA 431 449	rinorrea purulenta
+T5	SINTOMA 521 536	masa intranasal
+T6	SINTOMA 2747 2759	asintomático
+T7	SINTOMA 2728 2744	sintomatología B
+T8	SINTOMA 3766 3807	hemoglobina y de leucocitos eran normales
+T9	SINTOMA 3871 3884	trombocitosis
+T10	SINTOMA 455 486	sensación de taponamiento nasal
+T11	SINTOMA 539 563	tumoración submandibular
+T12	SINTOMA 1024 1048	tumoración submandibular
+T13	SINTOMA 1119 1164	masa de partes balndas en la celda submaxilar
+T14	SINTOMA 1978 2002	tumoración submandibular
+T15	SINTOMA 3706 3750	serología para VIH, VHB y VHC eran negativos
+T16	SINTOMA 3813 3850	fórmula leucocitaria sin alteraciones
+T17	SINTOMA 659 672	trombocitosis
+T18	SINTOMA 2282 2304	EBER(VEB) fue positivo
+T19	SINTOMA 2791 2808	obstrucción nasal
+T20	SINTOMA 3580 3701	LDH y la beta-2-microglobulina, así como el resto de los parámetros bioquímicos se mantenían en el rango de la normalidad
+T21	SINTOMA 3986 3999	trombocitosis
+T27	SINTOMA 3407 3417	granulomas
+A1	RESULTADO T8
+A2	RESULTADO T9
+A3	IMAGEN T13
+A4	RESULTADO T16
+A5	RESULTADO T17
+A6	RESULTADO T18
+A7	RESULTADO T20
+A8	RESULTADO T21

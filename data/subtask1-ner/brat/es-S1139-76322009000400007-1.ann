@@ -1,0 +1,13 @@
+T1	SINTOMA 543 549	fiebre
+T2	SINTOMA 1530 1546	Mantoux negativo
+T3	SINTOMA 630 669	auscultación cardiorrespiratoria normal
+T4	SINTOMA 705 785	nódulos cutáneos eritematosos levemente hipertérmicos y dolorosos a la palpación
+T5	SINTOMA 1481 1528	radiografía de tórax, sin hallazgos patológicos
+T6	SINTOMA 1548 1569	ASLO que fue negativo
+T7	SINTOMA 1572 1627	serología virus de Epstein Barr (VEB), con IgG positiva
+T8	SINTOMA 1643 1665	test embarazo negativo
+A1	RESULTADO T2
+A2	IMAGEN T5
+A3	RESULTADO T6
+A4	RESULTADO T7
+A5	RESULTADO T8

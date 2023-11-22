@@ -1,0 +1,36 @@
+T1	SINTOMA 839 850	diaforético
+T2	SINTOMA 61 73	dolor lumbar
+T3	SINTOMA 874 906	pulsaciones por minuto, rítmicas
+T4	SINTOMA 115 134	posición antiálgica
+T5	SINTOMA 222 229	náuseas
+T6	SINTOMA 1037 1058	irritación peritoneal
+T7	SINTOMA 232 239	vómitos
+T8	SINTOMA 1060 1074	RHA disminuido
+T9	SINTOMA 270 310	molestias en el tracto urinario inferior
+T10	SINTOMA 1080 1098	soplos abdominales
+T11	SINTOMA 1100 1131	Murphy renal bilateral negativo
+T12	SINTOMA 324 340	dolor precordial
+T13	SINTOMA 1147 1175	pulsos arteriales simétricos
+T14	SINTOMA 1181 1217	déficit de perfusión en extremidades
+T15	SINTOMA 1976 2007	alteraciones intra-peritoneales
+T16	SINTOMA 3262 3274	asintomático
+T17	SINTOMA 1546 1559	ritmo sinusal
+T18	SINTOMA 1219 1262	Examen neurológico general sin alteraciones
+T19	SINTOMA 1267 1305	ecografía renal no evidenció anomalías
+T20	SINTOMA 1490 1529	coagulación no presentaron alteraciones
+T21	SINTOMA 2636 2684	déficit de perfusión del polo inferior del riñón
+T22	SINTOMA 245 267	hematuria macroscópica
+T23	SINTOMA 661 703	molestias osteoarticulares o respiratorias
+T24	SINTOMA 932 1007	Abdomen doloroso a la palpación profunda en fosa ilíaca y flanco izquierdos
+T25	SINTOMA 1013 1020	defensa
+T26	SINTOMA 1709 1743	captación de contraste en el riñón
+T27	SINTOMA 3596 3632	déficit funcional de la unidad renal
+T28	SINTOMA 2753 2773	déficit de perfusión
+T29	SINTOMA 2987 3157	anticoagulante lúpico, ac. anti-cardiolipina, ANCA's, detección de crioglobulinas, ANA's, determinación de inmunoglobulinas y fracciones del complemento) resultó negativo
+A1	IMAGEN T15
+A2	IMAGEN T19
+A3	RESULTADO T20
+A4	RESULTADO T21
+A5	IMAGEN T26
+A6	RESULTADO T28
+A7	RESULTADO T29

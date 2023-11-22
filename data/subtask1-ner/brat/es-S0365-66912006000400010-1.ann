@@ -1,0 +1,16 @@
+T1	SINTOMA 43 72	disminución de agudeza visual
+T2	SINTOMA 134 149	sequedad ocular
+T3	SINTOMA 188 217	sequedad cutánea generalizada
+T4	SINTOMA 284 310	pérdida de cuero cabelludo
+T5	SINTOMA 751 803	menisco lagrimal de ambos ojos marcadamente reducido
+T6	SINTOMA 346 383	alteraciones de la posición palpebral
+T7	SINTOMA 219 229	anhidrosis
+T8	SINTOMA 231 245	piosis cutánea
+T9	SINTOMA 312 329	ausencia de cejas
+T10	SINTOMA 332 341	madarosis
+T11	SINTOMA 496 523	hiperemia conjuntival mixta
+T12	SINTOMA 525 561	neovascularización corneal bilateral
+T13	SINTOMA 1182 1196	queratoeritema
+A1	RESULTADO T5
+A2	RESULTADO T11
+A3	RESULTADO T12

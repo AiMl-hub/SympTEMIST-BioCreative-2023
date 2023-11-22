@@ -1,0 +1,10 @@
+T1	SINTOMA 74 89	masa testicular
+T2	SINTOMA 1598 1681	marcadores tumorales testiculares (alfa-fetoproteína, beta-HCG y LDH) son negativos
+T3	SINTOMA 1708 1720	asintomático
+T4	SINTOMA 627 637	tumoración
+T5	SINTOMA 407 441	marcadores tumorales son negativos
+T6	SINTOMA 1723 1742	libre de enfermedad
+T7	SINTOMA 205 223	consistencia firme
+T9	SINTOMA 229 237	dolorosa
+A1	RESULTADO T2
+A2	RESULTADO T5

@@ -1,0 +1,9 @@
+T1	SINTOMA 1420 1446	dificultad para la ingesta
+T2	SINTOMA 730 748	mal estado general
+T3	SINTOMA 1451 1458	vómitos
+T4	SINTOMA 929 974	"efecto masa" en la zona del túnel subcutáneo
+T5	SINTOMA 995 1015	signos inflamatorios
+T6	SINTOMA 1230 1287	comprimiendo todas las estructuras viscerales abdominales
+T7	SINTOMA 1858 1869	falleciendo
+A1	IMAGEN T6
+A2	EXITUS T7

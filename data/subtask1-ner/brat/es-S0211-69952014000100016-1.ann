@@ -1,0 +1,28 @@
+T1	SINTOMA 535 541	fiebre
+T2	SINTOMA 543 573	cefalea frontal y retro-ocular
+T3	SINTOMA 579 624	disminución de la sensibilidad en la hemicara
+T4	SINTOMA 2580 2615	aceptable función del injerto renal
+T5	SINTOMA 786 811	edema de maxilar superior
+T6	SINTOMA 821 837	rinorrea verdosa
+T7	SINTOMA 839 847	diplopía
+T8	SINTOMA 849 856	epífora
+T9	SINTOMA 892 914	elevaciones de azoados
+T10	SINTOMA 993 999	febril
+T11	SINTOMA 1005 1022	edema en hemicara
+T12	SINTOMA 1139 1161	función renal alterada
+T13	SINTOMA 1216 1358	compromiso de los senos paranasales, órbita derecha, lóbulo frontal, senos cavernosos, ganglios basales derechos y área del tálamo ipsilateral
+T14	SINTOMA 877 889	convulsiones
+T15	SINTOMA 2513 2541	buenas condiciones generales
+T16	SINTOMA 2760 2788	buenas condiciones generales
+T17	SINTOMA 1738 1791	cultivos y la patología confirman infección por Mucor
+T18	SINTOMA 768 784	proptosis ocular
+T19	SINTOMA 1067 1083	proptosis ocular
+T20	SINTOMA 1100 1128	pérdida de la visión por ojo
+T21	SINTOMA 1085 1098	oftalmoplejia
+T22	SINTOMA 1820 1907	E. cloacae, C. sedlakii, K pneumoniae BLEE (β-lactamasa de espectro extendido) positiva
+A1	RESULTADO T4
+A2	RESULTADO T9
+A3	RESULTADO T12
+A4	IMAGEN T13
+A5	RESULTADO T17
+A6	RESULTADO T22

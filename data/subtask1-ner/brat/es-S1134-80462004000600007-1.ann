@@ -1,0 +1,19 @@
+T1	SINTOMA 722 750	dolor de intensidad moderada
+T2	SINTOMA 2279 2293	dolor torácico
+T3	SINTOMA 996 1046	dolor intenso mediastínico y dorsal interescapular
+T4	SINTOMA 2304 2310	disnea
+T5	SINTOMA 132 138	fiebre
+T6	SINTOMA 141 160	sudoración nocturna
+T7	SINTOMA 2352 2363	taquicardia
+T8	SINTOMA 2365 2374	taquipnea
+T9	SINTOMA 2391 2422	murmullo vesicular en hemitórax
+T10	SINTOMA 242 259	masa mediastínica
+T11	SINTOMA 2866 2946	migración de la punta del catéter venoso hasta quedar localizado a nivel pleural
+T12	SINTOMA 165 194	afectación del estado general
+T13	SINTOMA 2521 2582	punta de catéter fuera de aurícula derecha en cavidad pleural
+T14	SINTOMA 2704 2726	líquido pleural seroso
+T16	SINTOMA 433 453	hepatoesplenomegalia
+A1	IMAGEN T10
+A2	IMAGEN T11
+A3	IMAGEN T13
+A4	RESULTADO T14

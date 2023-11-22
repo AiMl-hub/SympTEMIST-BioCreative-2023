@@ -1,0 +1,42 @@
+T1	SINTOMA 65 80	cefalea intensa
+T2	SINTOMA 83 98	quebrantamiento
+T3	SINTOMA 1711 1752	radiografía de tórax rigurosamente normal
+T4	SINTOMA 951 964	Facies febril
+T5	SINTOMA 2780 2787	cefalea
+T6	SINTOMA 392 408	malestar general
+T7	SINTOMA 410 418	tos seca
+T8	SINTOMA 1181 1213	auscultación cardíaca es rítmica
+T9	SINTOMA 421 427	fiebre
+T10	SINTOMA 555 572	obstrucción nasal
+T11	SINTOMA 603 665	secreción nasal purulenta que alguna vez ha sido sanguinolenta
+T12	SINTOMA 704 725	pérdida de conciencia
+T13	SINTOMA 727 739	convulsiones
+T14	SINTOMA 741 749	tiritona
+T15	SINTOMA 2367 2396	ocupación del seno esfenoidal
+T16	SINTOMA 753 764	escalofríos
+T17	SINTOMA 2843 2855	asintomático
+T18	SINTOMA 1333 1344	crepitantes
+T19	SINTOMA 969 1022	puntos dolorosos en la percusión de senos paranasales
+T20	SINTOMA 543 551	rinorrea
+T21	SINTOMA 1325 1331	roncus
+T22	SINTOMA 1348 1358	sibilantes
+T23	SINTOMA 1232 1238	soplos
+T24	SINTOMA 877 922	correcta hidratación y perfusión muco-cutánea
+T25	SINTOMA 852 872	Buen aspecto general
+T26	SINTOMA 1363 1392	abdomen es blando, depresible
+T27	SINTOMA 1408 1413	masas
+T28	SINTOMA 1612 1622	meningismo
+T29	SINTOMA 1277 1306	murmullo vesicular conservado
+T30	SINTOMA 1504 1529	pulsos distales presentes
+T31	SINTOMA 1534 1581	exploración neurológica es rigurosamente normal
+T32	SINTOMA 1754 1786	analítica de orina no patológica
+T33	SINTOMA 1052 1108	rash maculoso y eritematoso que afecta a tronco y cuello
+T34	SINTOMA 1596 1605	focalidad
+T35	SINTOMA 2793 2802	febrícula
+T36	SINTOMA 456 499	cefalea global, más intensa a nivel frontal
+T37	SINTOMA 1817 1870	leucocitosis con presencia de formas jóvenes (cayados
+T38	SINTOMA 1417 1425	megalias
+A1	IMAGEN T3
+A2	IMAGEN T15
+A3	RESULTADO T32
+A4	RESULTADO T37

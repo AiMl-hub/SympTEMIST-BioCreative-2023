@@ -1,0 +1,30 @@
+T1	SINTOMA 1056 1107	desplazamiento del segmento lumbo-ilíaco del uréter
+T2	SINTOMA 3173 3202	buena función renal bilateral
+T3	SINTOMA 163 172	dispepsia
+T4	SINTOMA 1175 1211	ectasia del tracto urinario superior
+T5	SINTOMA 339 386	masa que deformaba hemiabdomen anterior derecho
+T6	SINTOMA 520 541	irritación peritoneal
+T7	SINTOMA 692 738	sedimento y el cultivo de orina, eran normales
+T8	SINTOMA 3376 3388	asintomático
+T9	SINTOMA 983 1027	distorsión de la silueta y la pelvis renales
+T10	SINTOMA 1611 1659	calcificaciones puntiformes en la pared quística
+T11	SINTOMA 2227 2282	citología de orina, que no evidenciaba células malignas
+T12	SINTOMA 464 481	masa era indolora
+T13	SINTOMA 603 639	próstata de tamaño II/V, adenomatosa
+T14	SINTOMA 1864 1911	riñón derecho se mostraba funcionalmente normal
+T15	SINTOMA 3283 3299	distorsión renal
+T16	SINTOMA 548 570	matidez a la percusión
+T17	SINTOMA 83 103	masa retroperitoneal
+T18	SINTOMA 1318 1368	masa quística polilobulada retroperitoneal derecha
+T19	SINTOMA 2390 2394	masa
+T20	SINTOMA 2680 2684	masa
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T4
+A4	RESULTADO T7
+A5	RESULTADO T9
+A6	IMAGEN T10
+A7	RESULTADO T11
+A8	RESULTADO T14
+A9	IMAGEN T17
+A10	IMAGEN T18

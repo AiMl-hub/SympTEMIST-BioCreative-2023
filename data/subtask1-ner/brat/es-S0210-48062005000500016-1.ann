@@ -1,0 +1,15 @@
+T1	SINTOMA 1880 1899	diuresis espontánea
+T2	SINTOMA 1125 1131	anuria
+T3	SINTOMA 1978 1992	hiperpotasemia
+T4	SINTOMA 1995 2003	acidosis
+T5	SINTOMA 1042 1083	arteriografia renal de control fue normal
+T6	SINTOMA 1775 1781	anuria
+T7	SINTOMA 748 823	permeabilidad de eje celíaco, arteria renal izquierda, mesentérica superior
+T8	SINTOMA 2058 2090	permeabilidad de la endoprótesis
+T9	SINTOMA 1850 1875	anastomosis un buen pulso
+T10	SINTOMA 2205 2231	tensiones bien controladas
+A1	RESULTADO T3
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T7
+A5	IMAGEN T8

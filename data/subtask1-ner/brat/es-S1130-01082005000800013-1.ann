@@ -1,0 +1,5 @@
+T1	SINTOMA 94 146	dolor abdominal de predominio en hipocondrio derecho
+T2	SINTOMA 157 256	exploración física como los exámenes de laboratorio, incluyendo un perfil hepático, fueron normales
+T3	SINTOMA 224 256	perfil hepático, fueron normales
+A1	RESULTADO T2
+A2	RESULTADO T3

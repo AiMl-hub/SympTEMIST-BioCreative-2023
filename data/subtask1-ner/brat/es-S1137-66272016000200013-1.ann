@@ -1,0 +1,39 @@
+T1	SINTOMA 608 649	dolor en hipocondrio derecho y epigastrio
+T2	SINTOMA 680 691	peritonismo
+T3	SINTOMA 702 730	abdomen levemente distendido
+T4	SINTOMA 758 770	leucocitosis
+T5	SINTOMA 788 807	hiperbilirrubinemia
+T6	SINTOMA 224 261	dolor epigástrico irradiado a espalda
+T7	SINTOMA 277 284	náuseas
+T8	SINTOMA 287 294	vómitos
+T9	SINTOMA 323 329	fiebre
+T10	SINTOMA 333 353	sensación distérmica
+T11	SINTOMA 1606 1643	dilatación de la vía biliar principal
+T12	SINTOMA 1648 1720	defectos de replección a nivel de colédoco distal y en el hepático común
+T13	SINTOMA 2064 2071	afebril
+T14	SINTOMA 2267 2313	irregularidad en el origen de la rama hepática
+T15	SINTOMA 3385 3406	daño del ducto biliar
+T16	SINTOMA 3416 3464	fibrosis concéntrica periductal sin células IgG4
+T17	SINTOMA 884 900	elevación de VSG
+T18	SINTOMA 2038 2050	asintomática
+T19	SINTOMA 914 963	anticuerpos anticélulas parietales eran positivos
+T20	SINTOMA 847 861	amilasa normal
+T21	SINTOMA 969 993	IgG4 sérica era negativa
+T22	SINTOMA 1006 1059	hemocultivos al ingreso, sin aislarse microorganismos
+T23	SINTOMA 2568 2624	estudio citológico, que fueron negativas para malignidad
+T24	SINTOMA 810 841	leve elevación de transaminasas
+T25	SINTOMA 775 786	neutrofilia
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	IMAGEN T11
+A4	IMAGEN T12
+A5	IMAGEN T14
+A6	RESULTADO T15
+A7	RESULTADO T16
+A8	RESULTADO T17
+A9	RESULTADO T19
+A10	RESULTADO T21
+A11	RESULTADO T22
+A12	RESULTADO T23
+A13	RESULTADO T24
+A14	RESULTADO T25

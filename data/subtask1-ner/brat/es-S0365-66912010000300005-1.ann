@@ -1,0 +1,17 @@
+T1	SINTOMA 53 86	disminución de agudeza visual (AV
+T2	SINTOMA 1436 1446	hemorragia
+T3	SINTOMA 517 541	biomicroscopía es normal
+T4	SINTOMA 577 600	hemorragia subretiniana
+T5	SINTOMA 755 800	localización subretiniana de esta hemorragia,
+T6	SINTOMA 815 879	zona hiperfluorescente yuxtafoveolar inferior en tiempos tardíos
+T7	SINTOMA 1464 1491	sangre en el ámbito macular
+T8	SINTOMA 1606 1629	hemorragia subretiniana
+T9	SINTOMA 1953 1963	hemovítreo
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T7
+A7	RESULTADO T8
+A8	RESULTADO T9

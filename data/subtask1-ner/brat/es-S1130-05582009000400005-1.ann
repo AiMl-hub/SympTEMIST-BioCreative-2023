@@ -1,0 +1,9 @@
+T1	SINTOMA 116 169	dolor e inflamación en torno al tercer molar inferior
+T2	SINTOMA 838 874	oscurecimiento en torno a los ápices
+T3	SINTOMA 894 970	borramiento de la cortical superior del canal en contacto con la raíz distal
+T4	SINTOMA 1196 1229	contacto entre el cordal y el NDI
+T5	SINTOMA 576 648	cordal en cuestión (38) se halla en íntima relación con el canal del NDI
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	IMAGEN T4
+A4	IMAGEN T5

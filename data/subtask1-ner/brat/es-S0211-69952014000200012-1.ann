@@ -1,0 +1,9 @@
+T1	SINTOMA 942 973	dolor a nivel del injerto renal
+T2	SINTOMA 975 984	hematuria
+T3	SINTOMA 987 993	fiebre
+T4	SINTOMA 1580 1600	función renal normal
+T5	SINTOMA 677 696	RNA de VHC positivo
+T6	SINTOMA 1612 1636	carga viral indetectable
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	RESULTADO T6

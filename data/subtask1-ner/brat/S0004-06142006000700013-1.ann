@@ -1,0 +1,13 @@
+T1	SINTOMA 2179 2191	asintomático
+T2	SINTOMA 112 143	dolor en el hipocondrio derecho
+T3	SINTOMA 237 258	chorro urinario débil
+T4	SINTOMA 202 222	polaquiuria nocturna
+T5	SINTOMA 146 186	sintomatología urinaria obstructiva baja
+T6	SINTOMA 2203 2222	buen estado general
+T7	SINTOMA 261 279	goteo posmiccional
+T8	SINTOMA 317 383	hemoglobina, la VSG, la hemoquímica y la cituria, estaban normales
+T9	SINTOMA 388 436	examen físico general y abdominal eran negativos
+T10	SINTOMA 489 526	próstata con ligero aumento de tamaño
+T11	SINTOMA 1223 1297	radiografía del tórax y la gammagrafía ósea fueron negativas de metástasis
+A1	RESULTADO T8
+A2	IMAGEN T11

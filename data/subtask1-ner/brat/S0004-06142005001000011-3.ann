@@ -1,0 +1,18 @@
+T1	SINTOMA 1828 1867	aumento de los valores de transaminasas
+T2	SINTOMA 888 926	afectación de la sensibilidad profunda
+T3	SINTOMA 584 616	debilidad de miembros inferiores
+T4	SINTOMA 597 642	miembros inferiores y pérdida de sensibilidad
+T5	SINTOMA 976 1038	ROT presentes, vivos los rotulianos e hipoactivos los aquíleos
+T6	SINTOMA 1040 1062	RCP extensor bilateral
+T7	SINTOMA 1149 1192	afectación de cordón medular desde C2 a D10
+T8	SINTOMA 1385 1434	PEES: patológicos a nivel de tibiales posteriores
+T9	SINTOMA 1435 1485	LCR: determinación sexológica para HTLV-I positiva
+T10	SINTOMA 1528 1592	anticuerpos (ELISA) y de existencia del virus (HTLV-I), positiva
+T11	SINTOMA 317 324	ascitis
+T12	SINTOMA 787 798	paraparesia
+T13	SINTOMA 835 869	hipoestesia subjetiva mayor en EID
+A1	RESULTADO T1
+A2	IMAGEN T7
+A3	RESULTADO T8
+A4	RESULTADO T9
+A5	RESULTADO T10

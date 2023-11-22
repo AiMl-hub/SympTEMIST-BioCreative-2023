@@ -1,0 +1,39 @@
+T1	SINTOMA 180 189	irritable
+T2	SINTOMA 270 306	pesadez y adormecimiento en miembros
+T3	SINTOMA 562 574	LCR acelular
+T4	SINTOMA 639 678	actividad irritativa temporal izquierda
+T5	SINTOMA 1093 1105	convulsiones
+T6	SINTOMA 1288 1304	disfasia nominal
+T7	SINTOMA 1306 1323	ánimo inapropiado
+T8	SINTOMA 1325 1344	déficit de atención
+T9	SINTOMA 1347 1366	tendencia a fabular
+T10	SINTOMA 1491 1496	moria
+T11	SINTOMA 1686 1707	leve elevación de CEA
+T12	SINTOMA 2257 2312	hipercaptación de fluoroglucosa a nivel faringolaríngeo
+T13	SINTOMA 1119 1126	afebril
+T14	SINTOMA 1272 1282	consciente
+T15	SINTOMA 196 219	comportamiento infantil
+T16	SINTOMA 584 604	hiperproteinorraquia
+T17	SINTOMA 1585 1606	PCR negativa para VHS
+T18	SINTOMA 1438 1445	paresia
+T19	SINTOMA 892 902	hemorragia
+T20	SINTOMA 1725 1818	anticuerpos anti-Hu, antitiroides, serologías (lúes, VIH, virus neurotropos) fueron negativas
+T21	SINTOMA 1957 1988	lavado broncoalveolar (negativa
+T22	SINTOMA 369 434	hallazgos destacables en las pruebas (analítica, ECG, TC cerebral
+T23	SINTOMA 475 518	atelectasia basal derecha en la Rx de tórax
+T24	SINTOMA 1374 1393	hemiparesia derecha
+T25	SINTOMA 1913 1937	atelectasia/neumonía LDI
+T26	SINTOMA 1991 2129	endoscopia digestiva alta y baja, tránsito intestinal, valoración urológica, gammografía ósea y biopsia de médula ósea. Dada la normalidad
+A1	RESULTADO T3
+A2	RESULTADO T4
+A3	RESULTADO T11
+A4	IMAGEN T12
+A5	RESULTADO T16
+A6	RESULTADO T17
+A7	IMAGEN T19
+A8	RESULTADO T20
+A9	RESULTADO T21
+A10	RESULTADO T22
+A11	IMAGEN T23
+A12	IMAGEN T25
+A13	RESULTADO T26

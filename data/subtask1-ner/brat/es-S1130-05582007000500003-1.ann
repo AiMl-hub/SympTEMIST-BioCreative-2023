@@ -1,0 +1,11 @@
+T1	SINTOMA 89 129	dolor lancinante en el cuerpo mandibular
+T2	SINTOMA 149 179	hipoestesia labio - mentoniana
+T3	SINTOMA 221 253	exploración intraoral fue normal
+T4	SINTOMA 1132 1140	falleció
+T5	SINTOMA 704 873	zonas de hipercaptación en la rama ascendente mandibular izquierda, cuerpo vertebral izquierdo a nivel de T12, 8ª costilla derecha y en unión costocondral de 6ª costilla
+T6	SINTOMA 927 968	masa afectando al cuerpo y antro gástrico
+T7	SINTOMA 1002 1039	nódulo en el lóbulo superior pulmonar
+A1	EXITUS T4
+A2	IMAGEN T5
+A3	IMAGEN T6
+A4	IMAGEN T7

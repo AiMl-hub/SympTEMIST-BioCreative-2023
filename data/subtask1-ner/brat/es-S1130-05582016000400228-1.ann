@@ -1,0 +1,10 @@
+T1	SINTOMA 307 344	abultamiento frontal sobre raíz nasal
+T2	SINTOMA 69 104	protrusión a nivel de la raíz nasal
+T3	SINTOMA 555 588	paredes del seno de grosor normal
+T4	SINTOMA 955 984	abombamiento del seno frontal
+T5	SINTOMA 349 369	dolor a la palpación
+T6	SINTOMA 740 808	estudio hormonal revela niveles dentro de la normalidad para la edad
+T7	SINTOMA 501 528	deformidad del seno frontal
+A1	IMAGEN T3
+A2	RESULTADO T6
+A3	IMAGEN T7

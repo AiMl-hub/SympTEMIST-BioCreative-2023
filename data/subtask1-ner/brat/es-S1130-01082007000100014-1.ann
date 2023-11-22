@@ -1,0 +1,24 @@
+T1	SINTOMA 458 503	dolor en epigastrio y HCD irradiado al hombro
+T2	SINTOMA 506 524	sensación nauseosa
+T3	SINTOMA 569 576	agitada
+T4	SINTOMA 589 600	taquipneica
+T5	SINTOMA 613 625	dolor en HCD
+T6	SINTOMA 1012 1049	Aerobilia en vía biliar extrahepática
+T7	SINTOMA 1817 1839	Hemocultivos estériles
+T8	SINTOMA 1054 1067	líquido libre
+T9	SINTOMA 1263 1271	sangrado
+T10	SINTOMA 641 659	defensa voluntaria
+T11	SINTOMA 1788 1815	Cultivo de líquido: E. coli
+T12	SINTOMA 932 1002	burbujas de gas, sugerentes de infección) adyacente al lóbulo hepático
+T13	SINTOMA 1103 1121	mal estado clínico
+T14	SINTOMA 578 587	hipotensa
+T15	SINTOMA 835 844	colección
+T16	SINTOMA 1071 1085	neumoperitoneo
+A1	IMAGEN T6
+A2	RESULTADO T7
+A3	IMAGEN T8
+A4	IMAGEN T9
+A5	RESULTADO T11
+A6	IMAGEN T12
+A7	IMAGEN T15
+A8	IMAGEN T16

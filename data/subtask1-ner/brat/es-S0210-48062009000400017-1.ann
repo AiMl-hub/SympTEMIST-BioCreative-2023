@@ -1,0 +1,21 @@
+T1	SINTOMA 924 928	masa
+T2	SINTOMA 141 147	pT1 G3
+T3	SINTOMA 2868 2894	hematopoyesis extramedular
+T4	SINTOMA 1968 1984	tumoración grasa
+T5	SINTOMA 2433 2443	tumoración
+T6	SINTOMA 2570 2588	tumoración adiposa
+T7	SINTOMA 2058 2081	masas retroperitoneales
+T8	SINTOMA 1176 1191	contenido graso
+T9	SINTOMA 1211 1255	discreta captación heterogénea del contraste
+T10	SINTOMA 1406 1442	menor intensidad en el polo superior
+T11	SINTOMA 1460 1524	técnica de supresión grasa demostró una discreta hiperintensidad
+T12	SINTOMA 1674 1851	zona nodular en su polo superior de mayor intensidad de señal y que se corresponde con el área de menor intensidad en la secuencia T1 y de mayor intensidad en la supresión grasa
+T13	SINTOMA 1861 1932	administración de gadolinio se observó una discreta captación del mismo
+T14	SINTOMA 2133 2239	masa reniforme, posterior a vena cava inferior y anclada en retroperitoneo al ligamento vertebral anterior
+A1	IMAGEN T4
+A2	IMAGEN T8
+A3	IMAGEN T9
+A4	IMAGEN T10
+A5	IMAGEN T11
+A6	IMAGEN T12
+A7	IMAGEN T13

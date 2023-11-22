@@ -1,0 +1,32 @@
+T1	SINTOMA 769 786	leve leucocitosis
+T2	SINTOMA 1293 1386	densidades aéreas en músculos lumbar y psoas derechos y en localización intraespinal y dorsal
+T3	SINTOMA 1934 2000	hiperfijación patológica de ambos trazadores en rodillas y hombros
+T4	SINTOMA 642 648	fiebre
+T5	SINTOMA 650 669	dolor en área sacra
+T6	SINTOMA 840 859	hiperbilirrubinemia
+T7	SINTOMA 2349 2416	sangre, orina y liquido articular) la presencia de Escherichia coli
+T8	SINTOMA 710 740	rodillas con signos flogóticos
+T9	SINTOMA 1409 1426	gas en canal óseo
+T10	SINTOMA 189 208	dolor en fosa renal
+T11	SINTOMA 2641 2647	fiebre
+T12	SINTOMA 1716 1756	alteración de la señal del cuerpo de D12
+T13	SINTOMA 1803 1813	edema óseo
+T14	SINTOMA 387 407	sensación distérmica
+T15	SINTOMA 454 472	mal estado general
+T16	SINTOMA 474 497	sintomatología urinaria
+T17	SINTOMA 500 525	descompensación glucémica
+T18	SINTOMA 611 640	afectación del estado general
+T19	SINTOMA 2661 2693	empeoramiento del estado general
+T20	SINTOMA 1621 1632	colecciones
+T21	SINTOMA 674 707	puño percusión bilateral negativa
+T22	SINTOMA 2053 2130	captación de galio muy aumentada en L4-L5 y en partes blandas paravertebrales
+A1	RESULTADO T1
+A2	IMAGEN T2
+A3	IMAGEN T3
+A4	RESULTADO T6
+A5	RESULTADO T7
+A6	IMAGEN T9
+A7	IMAGEN T12
+A8	IMAGEN T13
+A9	IMAGEN T20
+A10	IMAGEN T22

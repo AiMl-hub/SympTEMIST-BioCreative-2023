@@ -1,0 +1,14 @@
+T1	SINTOMA 906 937	dolor ocular izquierdo moderado
+T2	SINTOMA 1950 1955	dolor
+T3	SINTOMA 1051 1066	edema palpebral
+T4	SINTOMA 1068 1088	quemosis conjuntival
+T5	SINTOMA 1090 1107	exoftalmos severo
+T6	SINTOMA 2042 2074	dolor abdominal y ocular extremo
+T7	SINTOMA 1570 1634	afectación de los músculos recto superior y elevador del párpado
+T8	SINTOMA 1166 1223	limitación de la motilidad ocular en todas las posiciones
+T9	SINTOMA 1683 1711	afectación del recto externo
+T10	SINTOMA 2121 2134	fallecimiento
+T11	SINTOMA 1799 1817	mal estado general
+A1	IMAGEN T7
+A2	IMAGEN T9
+A3	EXITUS T10

@@ -1,0 +1,25 @@
+T1	SINTOMA 1497 1527	nódulo hipoecoico en testículo
+T2	SINTOMA 251 281	aumento indoloro del testículo
+T3	SINTOMA 102 117	masa hipoecoica
+T4	SINTOMA 1564 1622	exploración física y los marcadores tumorales son normales
+T5	SINTOMA 2143 2190	masa retroperitoneal de 3 cm x 8 cm paraaórtica
+T6	SINTOMA 792 845	lactato deshidrogenasa y la alfafetoproteína normales
+T7	SINTOMA 874 895	masa de 8 cm en teste
+T8	SINTOMA 980 1013	microcalcificaciones en testículo
+T9	SINTOMA 920 939	nódulos hipoecoicos
+T10	SINTOMA 2326 2351	imagen de aspecto nodular
+T11	SINTOMA 348 377	testículo derecho en ascensor
+T12	SINTOMA 1989 2011	aumento de la beta-HCG
+T13	SINTOMA 2049 2078	marcadores tumorales normales
+T14	SINTOMA 2606 2625	libre de enfermedad
+A1	IMAGEN T1
+A2	IMAGEN T3
+A3	RESULTADO T4
+A4	IMAGEN T5
+A5	RESULTADO T6
+A6	IMAGEN T7
+A7	RESULTADO T8
+A8	IMAGEN T9
+A9	IMAGEN T10
+A10	RESULTADO T12
+A11	RESULTADO T13

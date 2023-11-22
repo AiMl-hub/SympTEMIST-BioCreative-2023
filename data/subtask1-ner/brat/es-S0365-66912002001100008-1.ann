@@ -1,0 +1,22 @@
+T1	SINTOMA 405 421	microhemorragias
+T2	SINTOMA 521 541	signos inflamatorios
+T3	SINTOMA 218 293	focos blanquecinos redondeados dispersos en el polo posterior de ambos ojos
+T4	SINTOMA 360 403	desprendimiento neurosensorial perilesional
+T5	SINTOMA 424 438	exudación dura
+T6	SINTOMA 1856 1863	estable
+T7	SINTOMA 99 122	metamorfopsias en su OD
+T8	SINTOMA 636 693	bloqueo de la fluorescencia muy precoz en todos los focos
+T9	SINTOMA 891 922	pequeña zona de bloqueo central
+T10	SINTOMA 986 1063	bloqueo de la fluorescencia desde fases precoces y durante todo el angiograma
+T11	SINTOMA 1126 1267	en tiempos precoces un punto caliente en el seno de una placa hipofluorescente que en fases tardías originaba una hiperfluorescencia en placa
+T12	SINTOMA 1498 1583	estudio de HLA (B7 y DR2: para PHOS y AMPPE, A29 para Birdshot), que resultó negativo
+T13	SINTOMA 1608 1752	estudio radiológico de tórax para descartar una tuberculosis y serología para descartar sífilis y borreliosis, que fue en todos los casos normal
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T8
+A6	RESULTADO T9
+A7	RESULTADO T10
+A8	RESULTADO T11
+A9	RESULTADO T13

@@ -1,0 +1,17 @@
+T1	SINTOMA 284 315	aumento de volumen en mandíbula
+T2	SINTOMA 394 411	integridad dental
+T3	SINTOMA 414 435	buena oclusión dental
+T4	SINTOMA 5629 5646	buen llenado óseo
+T5	SINTOMA 5829 5839	parestesia
+T6	SINTOMA 446 518	aumento de volumen por vestibular que compromete el cuerpo y la sínfisis
+T7	SINTOMA 537 629	lingual, la expansión de la tabla es solo en zona de canino y bicúspides inferiores derechos
+T8	SINTOMA 317 329	asintomático
+T9	SINTOMA 677 790	imagen radiolúcida de 10 cm de longitud, multiloculada, localizada desde distal del diente 46 hasta mesial del 33
+T10	SINTOMA 982 1031	conducto dentario inferior se encuentra rechazado
+T11	SINTOMA 4995 5027	parestesia del nervio mentoniano
+T12	SINTOMA 1203 1266	biopsia inicial se hizo aspirado produciendo un líquido citrino
+T13	SINTOMA 5374 5389	mordida abierta
+T14	SINTOMA 5522 5537	mordida abierta
+A1	IMAGEN T4
+A2	IMAGEN T9
+A3	RESULTADO T12

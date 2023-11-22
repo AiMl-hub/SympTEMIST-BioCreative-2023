@@ -1,0 +1,283 @@
+filename	ann_id	label	start_span	end_span	text
+es-S0212-16112011000600041-1	T1	SINTOMA	115	135	 de diarre
+es-S0212-16112011000600041-1	T2	SINTOMA	177	193	 pérdida de peso
+es-S0212-16112011000600041-1	T3	SINTOMA	236	259	 mucosa colónica normal
+es-S0212-16112011000600041-1	T4	SINTOMA	577	601	 reducción en la ingesta
+es-S1130-05582011000200005-1	T1	SINTOMA	229	370	 aumento de volumen cervical anterior al esternocleidomastoideo a la palp
+es-S1130-05582011000200005-1	T2	SINTOMA	423	434	 odinofagia
+es-S1130-05582011000200005-1	T3	SINTOMA	436	445	 disfonía
+es-S1130-05582011000200005-1	T4	SINTOMA	509	536	 imagen lobulada hiperdensa
+es-S1130-05582011000200005-1	T5	SINTOMA	743	782	 hipercaptación homogénea dele
+es-S1130-05582011000200005-1	T6	SINTOMA	1409	1446	 integr de las arterias carótidas
+es-S1130-63432016000500012-1	T1	SINTOMA	156	160	 leu
+es-S1130-63432016000500012-1	T2	SINTOMA	165	177	mbocitopenia
+es-S1130-63432016000500012-1	T3	SINTOMA	637	664	 carga viral ya es negativa
+es-S1130-63432016000500012-1	T4	SINTOMA	1290	1317	 carga viral ya es negativa
+es-S1699-695X2015000300010-1	T1	SINTOMA	31	55	 dificultad para caminar
+es-S1699-695X2015000300010-1	T2	SINTOMA	99	111	 debilidad y
+es-S1699-695X2015000300010-1	T3	SINTOMA	111	144	 dolor en los miembros inferiores
+es-S1699-695X2015000300010-1	T4	SINTOMA	202	212	 lumbalgia
+es-S1699-695X2015000300010-1	T5	SINTOMA	236	281	 cambios en la vozta más disfónica
+es-S1699-695X2015000300010-1	T6	SINTOMA	348	397	 debilidad en las manos o extremidades superiores
+es-S1699-695X2015000300010-1	T7	SINTOMA	410	427	 trastorno ocular
+es-S1699-695X2015000300010-1	T8	SINTOMA	431	484	 de control de esfínteres niveltivo
+es-S1699-695X2015000300010-1	T9	SINTOMA	499	519	 labilidad emocional
+es-S1699-695X2015000300010-1	T10	SINTOMA	613	646	 calambres ocasionales en gemelos
+es-S1699-695X2015000300010-1	T11	SINTOMA	748	753	 fall
+es-S1699-695X2015000300010-1	T12	SINTOMA	857	891	 habla hipofónica, facial centrado
+es-S1699-695X2015000300010-1	T13	SINTOMA	892	934	 Motilidad ocular interna y externa normal
+es-S1699-695X2015000300010-1	T14	SINTOMA	935	961	 Fasciculaciones linguales
+es-S1699-695X2015000300010-1	T15	SINTOMA	965	984	 debilidad cervical
+es-S1699-695X2015000300010-1	T16	SINTOMA	1020	1059	 paraparesia de predominio proximal 4/5
+es-S1699-695X2015000300010-1	T17	SINTOMA	1060	1091	 Dorsiflexión de ambos pies 5/5
+es-S1699-695X2015000300010-1	T18	SINTOMA	1107	1140	 debilidad en miembros superiores
+es-S1699-695X2015000300010-1	T19	SINTOMA	1144	1162	 déficit sensitivo
+es-S1699-695X2015000300010-1	T20	SINTOMA	1163	1201	 Reflejo osteo-tendinoso (ROT) +++/+++
+es-S1699-695X2015000300010-1	T21	SINTOMA	1205	1233	 Hoffmann positivo bilateral
+es-S1699-695X2015000300010-1	T22	SINTOMA	1235	1299	 reflejo cutáneo-plantar derecho indiferente izquierdo conserva
+es-S1699-695X2015000300010-1	T23	SINTOMA	1302	1369	 Fasciculaciones en deltoides, pectorales y de forma difusa en MMII
+es-S1699-695X2015000300010-1	T24	SINTOMA	1408	1436	 Exploración general anodina
+es-S1699-695X2015000300010-1	T25	SINTOMA	1554	1594	 estudio inmunológico y serología normal
+es-S1699-695X2015000300010-1	T26	SINTOMA	1595	1636	 Radiografía de tórax y lumbosacra normal
+es-S1699-695X2015000300010-1	T27	SINTOMA	1805	1822	 patrón neurógeno
+es-S1699-695X2015000300010-1	T28	SINTOMA	1826	1868	 denervación activa en ambos MMII miembro
+es-S1699-695X2015000300010-1	T29	SINTOMA	1887	1918	fiaciones y ondas positivas
+es-S1130-05582005000200003-1	T1	SINTOMA	66	87	 dolor hemimandíbular
+es-S1130-05582005000200003-1	T2	SINTOMA	99	106	 fiebre
+es-S1130-05582005000200003-1	T3	SINTOMA	222	299	 dolor a la palpación de los tejidos pericoronarios del tercer molar inferior
+es-S1130-05582005000200003-1	T4	SINTOMA	363	396	 aumento del número de leucocitos
+es-S1130-05582005000200003-1	T5	SINTOMA	1091	1131	 dolor a nivel del tercer molar inferior
+es-S1130-05582005000200003-1	T6	SINTOMA	1165	1240	 imagen radiolúcida de gran tamaño en torno a la corona del cordal inferior
+S0004-06142007000600011-1	T1	SINTOMA	153	198	 imagen neoformativa en el área retrotrigonal
+S0004-06142007000600011-1	T2	SINTOMA	226	244	 síntoma urológico
+S0004-06142007000600011-1	T3	SINTOMA	331	377	 defecto de replección en área lateral derecha
+S0004-06142007000600011-1	T4	SINTOMA	458	504	 área sobreelevada sin alteración de la mucosa
+es-S0376-78922015000400013-1	T1	SINTOMA	112	306	 asimetría de volumen de los miembros inferiorestu tejido cutáneo-adiposo del dorso del pie
+es-S0376-78922015000400013-1	T2	SINTOMA	685	1375	 eleva del miembro elevado
+es-S0376-78922015000400013-1	T3	SINTOMA	1413	1418	 exud
+es-S0376-78922015000400013-1	T4	SINTOMA	1868	1898	 reducción del volumen del pie
+es-S0004-06142010000500011-1	T1	SINTOMA	110	162	 hematuria macroscópica monosintomática con coágulos
+es-S0004-06142010000500011-1	T2	SINTOMA	329	337	 anémica
+es-S0004-06142010000500011-1	T3	SINTOMA	339	347	 hipoten
+es-S0004-06142010000500011-1	T4	SINTOMA	503	539	 vejiga completamente ocupada por un
+es-S0004-06142010000500011-1	T5	SINTOMA	544	560	 coágulo vesical
+es-S0004-06142010000500011-1	T6	SINTOMA	710	741	 mucosa vesical está hiperémica
+es-S0004-06142010000500011-1	T7	SINTOMA	746	762	 sangrado difuso
+es-S0004-06142010000500011-1	T8	SINTOMA	859	875	 sangrado activo
+es-S0004-06142010000500011-1	T9	SINTOMA	1082	1115	 vejiga está nuevamente coagulada
+es-S0004-06142010000500011-1	T10	SINTOMA	1138	1146	 anémica
+es-S0004-06142010000500011-1	T11	SINTOMA	1148	1168	 inestable hemodinám
+es-S0004-06142010000500011-1	T12	SINTOMA	1396	1414	 ocupación vesical
+es-S0004-06142010000500011-1	T13	SINTOMA	1436	1445	 sangrado
+es-S0004-06142010000500011-1	T14	SINTOMA	1753	1763	 hematuria
+es-S0365-66912005000600011-1	T1	SINTOMA	75	82	 dolor,
+es-S0365-66912005000600011-1	T2	SINTOMA	82	110	 lagrimeo y secreción en ojo
+es-S0365-66912005000600011-1	T3	SINTOMA	137	301	 ojo rojo severo y
+es-S0365-66912005000600011-1	T4	SINTOMA	632	687	 ampolla grande en sector nasal de la conjuntiva bulbar
+es-S0365-66912005000600011-1	T5	SINTOMA	699	709	 hiperemia
+es-S0365-66912005000600011-1	T6	SINTOMA	727	1189	 eros interlular
+es-S0365-66912005000600011-1	T7	SINTOMA	1351	1368	 síntomas oculare
+es-S0212-16112013000300055-1	T1	SINTOMA	102	125	 mal control metabólico
+es-S0212-16112013000300055-1	T2	SINTOMA	142	177	 mutación del gen de la protrombina
+es-S0212-16112013000300055-1	T3	SINTOMA	882	919	 edematización de miembros inferiores
+es-S0212-16112013000300055-1	T4	SINTOMA	1092	1123	 hipoalbuminemia severa persist
+es-S0212-16112013000300055-1	T5	SINTOMA	1198	1223	 deposiciones semiblandas
+es-S0212-16112013000300055-1	T6	SINTOMA	1232	1240	 vómitos
+es-S0212-16112013000300055-1	T7	SINTOMA	1415	1440	 aceptable estado general
+es-S0212-16112013000300055-1	T8	SINTOMA	1444	1464	 palidez mucocutánea
+es-S0212-16112013000300055-1	T9	SINTOMA	1625	1685	 Extremidades inferiores con edemas con fóvea hasta rodillas
+S0004-06142007000200011-1	T1	SINTOMA	133	170	 elevación de catecolaminas en sangre
+es-S0365-66912006000300011-1	T1	SINTOMA	537	561	 fondo de ojo fue normal
+es-S0365-66912006000300011-1	T2	SINTOMA	1129	1210	 serologías de las zoonosis transmitidas por las garas, que fueron negativas
+es-S1130-05582010000200006-1	T1	SINTOMA	64	114	 dolor leve recurrente a nivel de la hemimandíbula
+es-S1130-05582010000200006-1	T2	SINTOMA	240	282	 dolor al masticar en molares y premolares
+es-S1130-05582010000200006-1	T3	SINTOMA	341	358	 asimetría facial
+es-S1130-05582010000200006-1	T4	SINTOMA	365	453	 aumento de volumen ubicado en la zona más posterior del cuerpo mandibular y rama ascend
+es-S1130-05582010000200006-1	T5	SINTOMA	469	500	 aumento de volumen es indoloro
+es-S1130-05582010000200006-1	T6	SINTOMA	622	648	 expansión de ambas tablas
+es-S1130-05582010000200006-1	T7	SINTOMA	1075	1131	 tercer molar incluido en posición bajaversió
+es-S1130-01082008000800019-1	T1	SINTOMA	184	207	 dolor abdominal difuso
+es-S1130-01082008000800019-1	T2	SINTOMA	209	230	 distensión abdominal
+es-S1130-01082008000800019-1	T3	SINTOMA	294	308	 estreñimiento
+es-S1130-01082008000800019-1	T4	SINTOMA	310	335	 ausencia de deposiciones
+es-S1130-01082008000800019-1	T5	SINTOMA	735	769	 distensión timpanismo abdominal
+es-S1130-01082008000800019-1	T6	SINTOMA	787	810	 dolor abdominal difuso
+es-S1130-01082008000800019-1	T7	SINTOMA	850	874	 heces en ampolla rectal
+es-S1130-01082008000800019-1	T8	SINTOMA	878	920	 hemograma y la bioquímica fueron normales
+es-S1130-01082008000800019-1	T9	SINTOMA	1011	1022	 distensión
+es-S1130-01082008000800019-1	T10	SINTOMA	1155	1250	" ""pico de pájaro"". pasaba hacia el segmentolatado ángulo"
+es-S1130-01082008000800019-1	T11	SINTOMA	1401	1415	 heces y gases
+es-S1130-01082008000800019-1	T12	SINTOMA	1430	1443	 asintomático
+es-S1134-80462013000200002-1	T1	SINTOMA	99	105	 dolor
+es-S1134-80462013000200002-1	T2	SINTOMA	139	158	 espasmos vesicales
+es-S1134-80462013000200002-1	T3	SINTOMA	271	287	 hematuria macro
+es-S1134-80462013000200002-1	T4	SINTOMA	309	327	 dolor suprapúbico
+es-S1134-80462013000200002-1	T5	SINTOMA	387	412	 retención aguda de orina
+es-S1134-80462013000200002-1	T6	SINTOMA	460	475	 lumbociatalgia
+es-S1134-80462013000200002-1	T7	SINTOMA	579	601	 síndrome miccional cr
+es-S1134-80462013000200002-1	T8	SINTOMA	996	1013	" ""vejiga de lucha"
+es-S1134-80462013000200002-1	T9	SINTOMA	1142	1180	 engrosamiento parietal difuso vesical
+es-S1134-80462013000200002-1	T10	SINTOMA	1328	1350	 coágulos intraical
+es-S1134-80462013000200002-1	T11	SINTOMA	1418	1448	 dolor suprapúbico tipo cólico
+es-S1134-80462013000200002-1	T12	SINTOMA	1472	1496	 cortejo neurovegetativo
+es-S1134-80462013000200002-1	T13	SINTOMA	1498	1753	 reflujo de líquido vesical hematúrico vesi
+es-S1134-80462013000200002-1	T14	SINTOMA	1762	1790	 hiperactividad del detrusor
+es-S1134-80462013000200002-1	T15	SINTOMA	1997	2011	 clínica dolor
+es-S1134-80462004000600007-1	T1	SINTOMA	131	138	 fiebre
+es-S1134-80462004000600007-1	T2	SINTOMA	140	159	 sudoración nocturn
+es-S1134-80462004000600007-1	T3	SINTOMA	164	194	 afectación del estado general
+es-S1134-80462004000600007-1	T4	SINTOMA	241	259	 masa mediastínica
+es-S1134-80462004000600007-1	T5	SINTOMA	721	750	 dolor de intensidad moderada
+es-S1134-80462004000600007-1	T6	SINTOMA	995	1350	 dolor intenso mediastínico y dorsal interescapular vías periféricas
+es-S1130-01082007000500016-1	T1	SINTOMA	340	357	 malestar general
+es-S1130-01082007000500016-1	T2	SINTOMA	358	379	 sensación distérmica
+es-S1130-01082007000500016-1	T3	SINTOMA	381	416	 dolor sordo en hipocondrio derecho
+es-S1130-01082007000500016-1	T4	SINTOMA	423	472	 alteraciones en el tránsito intestinal
+es-S1130-01082007000500016-1	T5	SINTOMA	473	485	 rectorragia
+es-S1130-01082007000500016-1	T6	SINTOMA	487	520	 deposiciones de aspecto melénico
+es-S1130-01082007000500016-1	T7	SINTOMA	563	629	 palpación abdominal discretamente dolorosa en hipocondrio derecho
+es-S1130-01082007000500016-1	T8	SINTOMA	648	664	 visceromegalias
+es-S1130-01082007000500016-1	T9	SINTOMA	909	979	 serologías para virus hepatotropos, Brucella y Equinococcus así como
+es-S1130-01082007000500016-1	T10	SINTOMA	983	1087	 hemocultivos seriados y la determinación de marcadores tumorales, fueron negativos rangos normales
+es-S1130-01082007000500016-1	T11	SINTOMA	1374	1547	 zonasdens abundante material purulento
+es-S1130-01082007000500016-1	T12	SINTOMA	1668	1749	 cultivo microbiológico y el estudio de parásitos en el aspirado fueron negativos
+es-S1139-76322011000100011-1	T1	SINTOMA	123	130	 fiebre
+es-S1139-76322011000100011-1	T2	SINTOMA	145	167	 rechazo de la ingesta
+es-S1139-76322011000100011-1	T3	SINTOMA	169	177	 vómitos
+es-S1139-76322011000100011-1	T4	SINTOMA	363	382	 hiperemia faríngea
+es-S1139-76322011000100011-1	T5	SINTOMA	433	490	 hemograma con velocidad de sedimentación globular normal
+es-S1139-76322011000100011-1	T6	SINTOMA	526	630	 sodio, potasio, cloro, magnesio, calcio (Ca), fósforo (P), bilirrubina, proteínas y gasometría normales
+es-S1139-76322011000100011-1	T7	SINTOMA	635	686	 cultivos de sangre, orina y heces fueron negativos
+es-S1139-76322011000100011-1	T8	SINTOMA	887	1233	 elevación de FA GGT, vitamina D, hormona paratiroidea (PTH)
+es-S1139-76322011000100011-1	T9	SINTOMA	1235	1252	 isoenzimas de FA
+es-S1139-76322011000100011-1	T10	SINTOMA	1286	1302	 elevación de FA
+es-S1139-76322011000100011-1	T11	SINTOMA	1361	1412	 (GGT, isoenzimas de FA, vitamina D y PTH) normales
+es-S1139-76322011000100011-1	T12	SINTOMA	1463	1478	 proceso febril
+es-S1139-76322011000100011-1	T13	SINTOMA	1557	1575	 hiperfosfatasemia
+es-S1139-76322011000100011-1	T14	SINTOMA	1715	1741	 descenso progresivo de FA
+es-S1139-76322011000100011-1	T15	SINTOMA	1753	1761	 asintom
+es-S1139-76322011000100011-1	T16	SINTOMA	1772	1812	 exploración física rigurosamente normal
+es-S1139-76322011000100011-1	T17	SINTOMA	1892	1945	 determina de FA dentro de los valores normales
+es-S0378-48352006000300006-1	T1	SINTOMA	53	58	 cefa
+es-S0378-48352006000300006-1	T2	SINTOMA	58	61	lea
+es-S0378-48352006000300006-1	T3	SINTOMA	106	132	 inestabilidad a la marcha
+es-S0378-48352006000300006-1	T4	SINTOMA	213	236	 episodio depresión
+es-S0378-48352006000300006-1	T5	SINTOMA	275	293	 dismetría derecha
+es-S0378-48352006000300006-1	T6	SINTOMA	299	328	 maniobra de Romberg positiva
+es-S0378-48352006000300006-1	T7	SINTOMA	420	435	 proceso expans
+es-S0378-48352006000300006-1	T8	SINTOMA	772	778	 edema
+es-S0378-48352006000300006-1	T9	SINTOMA	826	922	 masa era heterogénea e hipointensa en relación al tejido cerebeloso en T1 e hiperintensa en T2.
+es-S0378-48352006000300006-1	T10	SINTOMA	1054	1065	 tumoración
+es-S0378-48352006000300006-1	T11	SINTOMA	1200	1208	 asintom
+es-S0378-48352006000300006-1	T12	SINTOMA	1275	1286	 tumoración
+es-S0378-48352006000300006-1	T13	SINTOMA	1963	1971	 asintom
+es-S1139-76322015000100012-3	T1	SINTOMA	45	62	 eritema perianal
+es-S1139-76322015000100012-3	T2	SINTOMA	124	185	 test de detección rápida de antígeno estreptocócico negativo
+es-S1139-76322015000100012-3	T3	SINTOMA	477	534	 cultivo de de la muestra rectal fue negativo para hongos
+es-S1139-76322015000100012-3	T4	SINTOMA	545	566	 crecimiento de EBHGA
+es-S1137-66272015000300013-1	T1	SINTOMA	79	81	 T
+es-S1137-66272015000300013-1	T2	SINTOMA	675	683	 cefalea
+es-S1137-66272015000300013-1	T3	SINTOMA	723	742	 diplopia binocular
+es-S1137-66272015000300013-1	T4	SINTOMA	744	767	 visión borrosa del ojo
+es-S1137-66272015000300013-1	T5	SINTOMA	791	839	 oftalmoparesia del III, IV y VI pares craneales
+es-S1137-66272015000300013-1	T6	SINTOMA	899	965	 masa en la porción posterior y lateral del seno cavernoso derecho
+es-S1137-66272015000300013-1	T7	SINTOMA	970	1009	 protusión hacia la cisterna prepontina
+es-S1137-66272015000300013-1	T8	SINTOMA	1031	1055	 capta homogéne de 
+es-S1137-66272015000300013-1	T9	SINTOMA	1211	1252	 TAC toraco-abdomino-pélvica fue negativa
+es-S1137-66272015000300013-1	T10	SINTOMA	1673	1686	 dolor dorsal
+es-S1137-66272015000300013-1	T11	SINTOMA	1690	1710	 clínica neurológica
+es-S1137-66272015000300013-1	T12	SINTOMA	1875	1883	 cefalea
+es-S0210-48062007001000004-4	T1	SINTOMA	101	117	 masa hipoecoica
+es-S0210-48062007001000004-4	T2	SINTOMA	250	281	 aumento indoloro del testículo
+es-S0210-48062007001000004-4	T3	SINTOMA	347	377	 testículo derecho en ascensor
+es-S0210-48062007001000004-4	T4	SINTOMA	453	473	 déficit neurológico
+es-S0210-48062007001000004-4	T5	SINTOMA	791	845	 lactato deshidrogenasa y la alfafetoproteína normales
+es-S0210-48062007001000004-4	T6	SINTOMA	873	905	 masa de 8 cm en teste izquierdo
+es-S0210-48062007001000004-4	T7	SINTOMA	919	939	 nódulos hipoecoicos
+es-S0210-48062007001000004-4	T8	SINTOMA	979	1013	 microcalficaciones en testículo
+es-S0210-48062007001000004-4	T9	SINTOMA	1496	1527	 nódulo hipoecoico en testículo
+es-S0210-48062007001000004-4	T10	SINTOMA	1563	1902	 exploración física y los marcadores tumorales son normales vasculares, albugínea y cordón espermático libres de tumor
+es-S0210-48062007001000004-4	T11	SINTOMA	1988	2011	 aumento de la beta-HCG
+es-S1130-01082008000100009-1	T1	SINTOMA	169	190	 hemorragia digestiva
+es-S1130-01082008000100009-1	T2	SINTOMA	192	199	melenas
+es-S1130-01082008000100009-1	T3	SINTOMA	228	259	 elevación de las transaminasas
+es-S1130-01082008000100009-1	T4	SINTOMA	276	327	 alteración en las pruebas de coagulación sanguínea
+es-S1130-01082008000100009-1	T5	SINTOMA	369	374	 fall
+es-S0365-66912012000500005-1	T1	SINTOMA	52	525	 pérdida de visión brusca e indoloramicroscopiaMC) de polo anterior noban altera ojo (FO) se apreciaba un moteado marronáceo, más prominente temporal a la fóvea
+es-S0365-66912012000500005-1	T2	SINTOMA	567	593	 «o en piel de naranja
+es-S0365-66912012000500005-1	T3	SINTOMA	843	854	 hemgia
+es-S0365-66912012000500005-1	T4	SINTOMA	959	1037	 autofluorescencia de fondo (FA) de AO un moteado difuso hiperautofluorescente
+es-S0365-66912012000500005-1	T5	SINTOMA	1116	1243	 moteado hiper-FA lechoFA
+es-S0365-66912012000500005-1	T6	SINTOMA	1292	1366	 enado hiper e hipofluorescente del e pigmentario
+es-S0365-66912012000500005-1	T7	SINTOMA	1461	1465	 NVC
+es-S0365-66912012000500005-1	T8	SINTOMA	1529	1614	 desestructuración de la banda una
+es-S0210-48062007000100011-1	T1	SINTOMA	186	204	 opresión torácica
+es-S0210-48062007000100011-1	T2	SINTOMA	205	222	 malestar general
+es-S0210-48062007000100011-1	T3	SINTOMA	223	231	 astenia
+es-S0210-48062007000100011-1	T4	SINTOMA	233	621	 diaforesis y sus signos vitales eran normales
+es-S0210-48062007000100011-1	T5	SINTOMA	677	692	 paro cardiorre
+es-S0210-48062007000100011-1	T6	SINTOMA	834	941	 elevación del segmento ST en las derivadas de la cara inferior2-V
+es-S0210-48062007000100011-1	T7	SINTOMA	947	973	 cambios recíprocos en aVL
+es-S0210-48062007000100011-1	T8	SINTOMA	990	1028	 extensión electrocardi vent
+es-S0210-48062007000100011-1	T9	SINTOMA	1176	1807	 electrolitos, las pruebas de coagulación y los conteos de células sanguíneas fueron normaleso A-V cara inferior
+es-S0210-48062007000100011-1	T10	SINTOMA	1813	1864	 progres tard de la onda R anterior
+es-S0210-48062007000100011-1	T11	SINTOMA	1900	1931	 aumento de CK y de la fracción
+S0004-06142005000900015-1	T1	SINTOMA	113	168	 masa inguinoescrotal izquierda dolorosa a la palpación
+S0004-06142005000900015-1	T2	SINTOMA	199	215	 pérdida de peso
+S0004-06142005000900015-1	T3	SINTOMA	218	237	 síndrome miccional
+S0004-06142005000900015-1	T4	SINTOMA	260	306	 testes eran de tamaño y consistencia normales
+S0004-06142005000900015-1	T5	SINTOMA	314	367	 cordón espermático izquierdo indurado y muy doloroso
+S0004-06142005000900015-1	T6	SINTOMA	371	403	 ecografía testicular fue normal
+S0004-06142005000900015-1	T7	SINTOMA	435	562	 masa de 6 x 3 centímetros en el trayecto del cordón espermático izquierdotone
+S0004-06142005000900015-1	T8	SINTOMA	653	680	 masa en cordón espermático
+S0004-06142005000900015-1	T9	SINTOMA	927	974	 cordón espermático, teste y epidídimo normales
+S0004-06142006000900014-1	T1	SINTOMA	90	98	 astenia
+S0004-06142006000900014-1	T2	SINTOMA	99	108	 anorexia
+S0004-06142006000900014-1	T3	SINTOMA	110	123	 dolor lumbar
+S0004-06142006000900014-1	T4	SINTOMA	158	184	 Hemodinamicamente estable
+S0004-06142006000900014-1	T5	SINTOMA	191	198	 fiebre
+S0004-06142006000900014-1	T6	SINTOMA	380	447	 dolor a la palpación profunda localizado en el hemiabdomen derecho
+S0004-06142006000900014-1	T7	SINTOMA	463	517	 irritación peritoneal masa palpable
+S0004-06142006000900014-1	T8	SINTOMA	519	541	 Murphy renal positivo
+S0004-06142006000900014-1	T9	SINTOMA	577	626	 leucitosis a la izquierda
+S0004-06142006000900014-1	T10	SINTOMA	665	713	 función renal dentro de los parámetros normales
+S0004-06142006000900014-1	T11	SINTOMA	714	725	 leucituria
+S0004-06142006000900014-1	T12	SINTOMA	727	746	 hematuria microscó
+S0004-06142006000900014-1	T13	SINTOMA	966	1000	 riñón derecho aumentado de tamaño
+S0004-06142006000900014-1	T14	SINTOMA	1005	1037	 desorganización córtico medular
+S0004-06142006000900014-1	T15	SINTOMA	1200	1218	 deterioro general
+S0004-06142006000900014-1	T16	SINTOMA	1293	1350	 salida de abundante líquido purulento por la nefrostomía
+S0004-06142006000900014-1	T17	SINTOMA	1382	1752	 flora polimicrobianairenal
+S0004-06142006000900014-1	T18	SINTOMA	1764	1800	 dilat del árbol pielo-calicial
+S0004-06142006000900014-1	T19	SINTOMA	1882	1902	 contenido purulento
+es-S0210-56912006000300007-2	T1	SINTOMA	312	325	 proctorragia
+es-S0210-56912006000300007-2	T2	SINTOMA	494	555	 dolor cólico periumbilical e hipogástrico de gran intensidad
+es-S0210-56912006000300007-2	T3	SINTOMA	556	568	 hematocrito
+es-S0210-56912006000300007-2	T4	SINTOMA	577	598	 sangrado incoercible
+es-S0210-56912006000300007-2	T5	SINTOMA	740	787	 imagen lineal superior a la cicatriz umbilical
+es-S0210-56912006000300007-2	T6	SINTOMA	825	844	 zona hipoecogénica
+es-S0210-56912006000300007-2	T7	SINTOMA	1049	1074	 paro cardiorrespiratorio
+es-S0210-56912006000300007-2	T8	SINTOMA	1076	1082	 óbito
+es-S0365-66912008000100007-1	T1	SINTOMA	116	142	 Cariotipo femenino normal
+es-S0365-66912008000100007-1	T2	SINTOMA	461	496	 ano de la migración neuronal
+es-S0365-66912008000100007-1	T3	SINTOMA	501	557	 registros electroencefalográficos (EEG) fueron normales
+es-S0365-66912008000100007-1	T4	SINTOMA	594	635	 cociente de desarrollo psicomotor normal
+es-S0365-66912008000100007-1	T5	SINTOMA	680	712	 apariencia normal
+es-S0365-66912008000100007-1	T6	SINTOMA	746	767	 papila óptica normal
+es-S0365-66912008000100007-1	T7	SINTOMA	781	822	 lagunas coriorretinianas hipopigmentadas
+es-S0365-66912008000100007-1	T8	SINTOMA	836	855	 afectación macular
+es-S0365-66912008000100007-1	T9	SINTOMA	1004	1018	 afecta ma
+es-S0365-66912006000300009-1	T1	SINTOMA	128	158	 disminución de agudeza visual
+es-S0365-66912006000300009-1	T2	SINTOMA	843	881	 destrucción de la función de esfínter
+es-S0365-66912006000300009-1	T3	SINTOMA	915	955	 líquido subretiniano en el área macular
+es-S0365-66912006000300009-1	T4	SINTOMA	1158	1203	 pérdida de agudeza visual ha sido permanente
+es-S1134-80462009000800005-1	T1	SINTOMA	66	72	 dolor
+es-S1134-80462009000800005-1	T2	SINTOMA	112	125	 cuadro dolor
+es-S1134-80462009000800005-1	T3	SINTOMA	522	535	 dolor ocular
+es-S1134-80462009000800005-1	T4	SINTOMA	645	682	 viento el frío sequedad ocular
+es-S1134-80462009000800005-1	T5	SINTOMA	718	740	 déficits neurológicos
+es-S1134-80462009000800005-1	T6	SINTOMA	744	750	 dolor
+es-S1134-80462009000800005-1	T7	SINTOMA	1094	1100	 dolor
+es-S1134-80462009000800005-1	T8	SINTOMA	1147	1155	 vómitos
+es-S1134-80462009000800005-1	T9	SINTOMA	1157	1169	 somnolencia
+es-S1134-80462009000800005-1	T10	SINTOMA	1298	1304	 dolor

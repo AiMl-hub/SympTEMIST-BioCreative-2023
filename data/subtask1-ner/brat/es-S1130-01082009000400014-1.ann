@@ -1,0 +1,7 @@
+T1	SINTOMA 523 544	deterioro neurológico
+T2	SINTOMA 560 574	desorientación
+T3	SINTOMA 576 588	bradipsiquia
+T4	SINTOMA 590 608	tendencia al sueño
+T5	SINTOMA 728 779	test intradérmico de tiamina. Este resultó negativo
+T6	SINTOMA 633 647	oftalmoparesia
+A1	RESULTADO T5

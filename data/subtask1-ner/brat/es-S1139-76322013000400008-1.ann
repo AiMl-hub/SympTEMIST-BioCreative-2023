@@ -1,0 +1,6 @@
+T1	SINTOMA 349 359	odinofagia
+T2	SINTOMA 1475 1487	asintomática
+T3	SINTOMA 1292 1334	examen de heces no se observaron parásitos
+T4	SINTOMA 904 1002	bioquímica, hemograma, velocidad de sedimentación globular, hormonas tiroideas y orina) fue normal
+A1	RESULTADO T3
+A2	RESULTADO T4

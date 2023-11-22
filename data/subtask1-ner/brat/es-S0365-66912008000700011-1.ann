@@ -1,0 +1,12 @@
+T1	SINTOMA 222 266	tumefacción eritematosa del párpado superior
+T2	SINTOMA 736 766	tumoración de párpado superior
+T3	SINTOMA 781 815	infiltración de la grasa preseptal
+T4	SINTOMA 821 865	infiltración ósea ni de grasa retroorbitaria
+T5	SINTOMA 482 514	afectación conjuntival o corneal
+T6	SINTOMA 1196 1203	fallece
+T7	SINTOMA 1064 1074	tumoración
+T8	SINTOMA 385 394	madarosis
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	IMAGEN T4
+A4	EXITUS T6

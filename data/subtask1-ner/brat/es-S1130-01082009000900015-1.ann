@@ -1,0 +1,6 @@
+T1	SINTOMA 787 823	tumoración en cara anterior gástrica
+T2	SINTOMA 1021 1047	drenaje se torna purulento
+T3	SINTOMA 527 543	páncreas divisum
+T4	SINTOMA 650 666	páncreas divisum
+A1	IMAGEN T3
+A2	RESULTADO T4

@@ -1,0 +1,6 @@
+T1	SINTOMA 1050 1062	asintomático
+T2	SINTOMA 87 122	tumoración blanda en el hemiescroto
+T3	SINTOMA 230 272	bolsa escrotal derecha aumentada de tamaño
+T4	SINTOMA 340 376	próstata de tamaño medio, bilobulada
+T5	SINTOMA 470 494	PSA total que fue normal
+A1	RESULTADO T5

@@ -1,0 +1,7 @@
+T1	SINTOMA 161 170	lumbalgia
+T2	SINTOMA 503 546	serología de hidatidosis, resultan normales
+T3	SINTOMA 613 661	tumoración en región interpolar y polar superior
+T4	SINTOMA 883 893	tumoración
+A1	RESULTADO T2
+A2	IMAGEN T3
+A3	IMAGEN T4

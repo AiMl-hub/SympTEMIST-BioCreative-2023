@@ -1,0 +1,20 @@
+T1	SINTOMA 1511 1539	deterioro del estado general
+T2	SINTOMA 1291 1303	dolor lumbar
+T3	SINTOMA 843 861	lumbalgia postural
+T4	SINTOMA 1036 1052	malestar general
+T5	SINTOMA 1055 1061	fiebre
+T6	SINTOMA 2218 2223	dolor
+T7	SINTOMA 1720 1760	microbiológicos positivos para S. aureus
+T8	SINTOMA 2247 2254	afebril
+T9	SINTOMA 1074 1124	control bacteriológico del monitor que es negativo
+T10	SINTOMA 1582 1647	aumento proteína C reactiva y velocidad de sedimentación globular
+T11	SINTOMA 1985 2020	compromiso de estructuras nerviosas
+T12	SINTOMA 2550 2557	estable
+T13	SINTOMA 1483 1501	lumbalgia mecánica
+T14	SINTOMA 2284 2334	disminución progresiva de reactantes de fase aguda
+T27	SINTOMA 1224 1231	estable
+A1	RESULTADO T7
+A2	RESULTADO T9
+A3	RESULTADO T10
+A4	IMAGEN T11
+A5	RESULTADO T14

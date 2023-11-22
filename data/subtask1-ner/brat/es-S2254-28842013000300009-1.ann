@@ -1,0 +1,16 @@
+T1	SINTOMA 958 1016	dolor a la palpación profunda de predominio en fosa iliaca
+T2	SINTOMA 839 854	dolor abdominal
+T3	SINTOMA 856 863	diarrea
+T4	SINTOMA 865 872	nauseas
+T5	SINTOMA 1026 1041	palidez cutánea
+T6	SINTOMA 877 884	vómitos
+T7	SINTOMA 887 898	escalofríos
+T8	SINTOMA 903 909	fiebre
+T9	SINTOMA 1094 1101	afebril
+T10	SINTOMA 386 402	pseudotumoración
+T11	SINTOMA 1440 1459	fugas del contraste
+T12	SINTOMA 1061 1067	edemas
+T13	SINTOMA 1238 1282	catéter de diálisis peritoneal bien colocado
+T14	SINTOMA 1833 1857	Líquido peritoneal claro
+A1	IMAGEN T11
+A2	IMAGEN T13

@@ -1,0 +1,8 @@
+T1	SINTOMA 61 111	tumefacción en la región posterior del hemipaladar
+T2	SINTOMA 712 798	lesión bien delimitada a nivel de fosa nasal con extensión hacia la región pterigoidea
+T3	SINTOMA 432 460	ortopantomografía era normal
+T4	SINTOMA 589 596	T4N2CMx
+T5	SINTOMA 1819 1838	libre de enfermedad
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	RESULTADO T4

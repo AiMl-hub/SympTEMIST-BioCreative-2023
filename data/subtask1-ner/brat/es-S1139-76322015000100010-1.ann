@@ -1,0 +1,8 @@
+T1	SINTOMA 112 131	dolor periorbitario
+T2	SINTOMA 212 219	afebril
+T3	SINTOMA 225 232	nauseas
+T4	SINTOMA 235 242	vómitos
+T5	SINTOMA 1293 1298	dolor
+T6	SINTOMA 654 672	afectación pupilar
+T7	SINTOMA 727 1060	hemograma y una bioquímica general, velocidad de sedimentación globular, proteína C reactiva, hemoglobina glicosilada, anticuerpos anti-ADN, anticuerpos antinucleares (ANA), anticuerpos extraíbles del núcleo (ENA), anticuerpos anticitoplasma de neutrófilos (ANCA), y resonancia magnética craneal, siendo todos los resultados normales
+A1	RESULTADO T7

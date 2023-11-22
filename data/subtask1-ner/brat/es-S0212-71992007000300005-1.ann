@@ -1,0 +1,50 @@
+T1	SINTOMA 960 967	astenia
+T2	SINTOMA 1076 1100	expectoración hemoptoica
+T3	SINTOMA 1102 1131	disnea de moderados esfuerzos
+T4	SINTOMA 1137 1143	fiebre
+T5	SINTOMA 1210 1229	buen estado general
+T6	SINTOMA 2176 2210	infiltrados alveolares bilaterales
+T7	SINTOMA 2642 2661	esputos hemoptoicos
+T8	SINTOMA 2668 2706	infiltrados en la radiografía de tórax
+T9	SINTOMA 3059 3077	esputos hemoptoico
+T10	SINTOMA 3179 3234	infiltrados pulmonares bilaterales y vidrio deslustrado
+T11	SINTOMA 3860 3879	esputos hemoptoicos
+T12	SINTOMA 2244 2327	hemocultivos y el cultivo de esputo para bacterias y mycobacterias fueron negativos
+T13	SINTOMA 2791 2879	cultivo del broncoaspirado no mostró crecimiento para bacterias, hongos ni mycobacterias
+T14	SINTOMA 2936 2997	espirometría, volúmenes pulmonares y difusión fueron normales
+T15	SINTOMA 3540 3616	elevados los niveles de anticuerpos anticardiolipina y anticoagulante lúpico
+T16	SINTOMA 4051 4078	áreas de vidrio deslustrado
+T17	SINTOMA 3901 4005	radiografía de tórax y la función pulmonar (espirometría, difusión y gases arteriales) se mantuvo normal
+T18	SINTOMA 1615 1666	bioquímica, los iones y transaminasas eran normales
+T19	SINTOMA 2020 2049	electrocardiograma fue normal
+T20	SINTOMA 2723 2773	broncoscopia en la que no se encontraron anomalías
+T21	SINTOMA 163 187	función sistólica normal
+T22	SINTOMA 893 932	proteína S y proteína C fueron normales
+T23	SINTOMA 970 989	fiebre intermitente
+T24	SINTOMA 1485 1518	recuento de leucocitos era normal
+T25	SINTOMA 1671 1714	sedimento urinario no mostraba alteraciones
+T26	SINTOMA 2215 2238	silueta cardiaca normal
+T27	SINTOMA 2612 2618	fiebre
+T28	SINTOMA 2888 2931	citología no se observaron células malignas
+T29	SINTOMA 1716 1948	Factor reumatoide, crioglobulinas, anticuerpos antinucleares (ANA), anticuerpos anticitoplasma del neutrófilo (ANCA), antimembrana basal glomerular, antiperoxidasa, antihistona, anti-Ro, anti-SSA y antiSM fueron normales o negativos
+T30	SINTOMA 2091 2116	válvula aórtica bicúspide
+A1	IMAGEN T6
+A2	IMAGEN T8
+A3	IMAGEN T10
+A4	RESULTADO T12
+A5	RESULTADO T13
+A6	RESULTADO T14
+A7	RESULTADO T15
+A8	IMAGEN T16
+A9	RESULTADO T17
+A10	RESULTADO T18
+A11	RESULTADO T19
+A12	RESULTADO T20
+A13	RESULTADO T21
+A14	RESULTADO T22
+A15	RESULTADO T24
+A16	RESULTADO T25
+A17	IMAGEN T26
+A18	RESULTADO T28
+A19	RESULTADO T29
+A20	IMAGEN T30

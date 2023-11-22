@@ -1,0 +1,14 @@
+T1	SINTOMA 106 113	disuria
+T2	SINTOMA 1055 1062	disuria
+T3	SINTOMA 760 780	tumoración polipoide
+T4	SINTOMA 166 203	mucosas son húmedas y normocoloreadas
+T5	SINTOMA 613 661	defecto de llenado a nivel de la uretra anterior
+T6	SINTOMA 208 250	auscultación cardio-respiratoria es normal
+T7	SINTOMA 255 274	abdomen es negativo
+T8	SINTOMA 276 297	fosas lumbares libres
+T9	SINTOMA 302 377	tacto rectal, los genitales externos y las regiones inguinales son normales
+T10	SINTOMA 393 426	ecografía urológica que es normal
+T11	SINTOMA 1068 1080	uretrorragia
+A1	RESULTADO T3
+A2	IMAGEN T5
+A3	IMAGEN T10

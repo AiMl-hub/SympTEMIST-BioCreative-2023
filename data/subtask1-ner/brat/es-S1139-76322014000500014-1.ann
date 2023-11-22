@@ -1,0 +1,15 @@
+T1	SINTOMA 829 861	desarrollo psicomotor fue normal
+T2	SINTOMA 202 209	vómitos
+T3	SINTOMA 1229 1332	región frontoparietotemporal derecha un contenido hipointenso en secuencias de T1 e hiperintensas en T2
+T4	SINTOMA 270 277	cefalea
+T5	SINTOMA 292 301	sonofobia
+T6	SINTOMA 964 1012	dificultades de aprendizaje de la lectoescritura
+T7	SINTOMA 304 313	fonofobia
+T8	SINTOMA 707 737	ecografías prenatales normales
+T9	SINTOMA 1101 1133	desplazamiento de la línea media
+T10	SINTOMA 431 465	exploración neurológica fue normal
+T11	SINTOMA 896 928	lenguaje y sociabilidad adecuada
+T12	SINTOMA 1136 1170	colapso de las astas ventriculares
+A1	IMAGEN T3
+A2	IMAGEN T9
+A3	IMAGEN T12

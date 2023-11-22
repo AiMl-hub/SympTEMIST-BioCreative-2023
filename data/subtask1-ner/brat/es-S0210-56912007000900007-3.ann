@@ -1,0 +1,14 @@
+T1	SINTOMA 48 60	obnubilación
+T2	SINTOMA 100 115	dolor abdominal
+T3	SINTOMA 118 125	vómitos
+T4	SINTOMA 386 400	desorientación
+T5	SINTOMA 402 425	respiración de Kussmaul
+T6	SINTOMA 427 442	dolor abdominal
+T7	SINTOMA 657 701	aumento del tamaño de la cabeza del páncreas
+T8	SINTOMA 1315 1345	deposiciones mucosas repetidas
+T9	SINTOMA 481 498	defensa abdominal
+T10	SINTOMA 63 69	anuria
+T11	SINTOMA 447 466	peristaltismo débil
+T12	SINTOMA 575 590	hiperamilasemia
+A1	IMAGEN T7
+A2	RESULTADO T12

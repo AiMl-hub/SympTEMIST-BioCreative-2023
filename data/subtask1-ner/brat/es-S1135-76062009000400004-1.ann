@@ -1,0 +1,16 @@
+T1	SINTOMA 2720 2816	incremento difuso de la señal en secuencias T2 en áreas posteriores de ambos lóbulos occipitales
+T2	SINTOMA 2414 2464	reflejo fotomotor y consensual estaban conservados
+T3	SINTOMA 2037 2064	pérdida hemática fue mínima
+T4	SINTOMA 2384 2409	tensión ocular fue normal
+T5	SINTOMA 2528 2583	imagen en circulación coroidea intraventricular derecha
+T6	SINTOMA 2599 2613	burbuja de gas
+T7	SINTOMA 2821 2841	angio-RNM fue normal
+T8	SINTOMA 3262 3312	percibía halos cromáticos alrededor de las figuras
+T9	SINTOMA 3070 3129	refirió percibir formas cromáticas indistinguibles y tenues
+T10	SINTOMA 1650 1695	pulso pedio y tibial posterior en ambos lados
+T11	SINTOMA 3438 3458	imágenes occipitales
+A1	IMAGEN T1
+A2	IMAGEN T5
+A3	IMAGEN T6
+A4	IMAGEN T7
+A5	IMAGEN T11

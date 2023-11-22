@@ -1,0 +1,13 @@
+T1	SINTOMA 200 207	astenia
+T2	SINTOMA 210 218	anorexia
+T3	SINTOMA 247 262	pérdida de peso
+T4	SINTOMA 530 563	dolor al roce y a la movilización
+T5	SINTOMA 1808 1816	falleció
+T6	SINTOMA 738 795	elevación de diafragma izquierdo y una elongación aórtica
+T7	SINTOMA 1006 1048	engrosamiento de la unión esófago-gástrica
+T8	SINTOMA 1758 1769	neutropenia
+T9	SINTOMA 1770 1776	febril
+A1	EXITUS T5
+A2	IMAGEN T6
+A3	IMAGEN T7
+A4	RESULTADO T8

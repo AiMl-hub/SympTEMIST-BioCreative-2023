@@ -1,0 +1,8 @@
+T1	SINTOMA 171 216	tumoración en la porción derecha de la frente
+T2	SINTOMA 1249 1336	tumoración dependiente del hueso, con múltiples canales vasculares dilatados en su seno
+T3	SINTOMA 299 335	masa dura, indolora y no movilizable
+T4	SINTOMA 1532 1544	defecto óseo
+T5	SINTOMA 897 907	tumoración
+T6	SINTOMA 616 732	hemograma, frotis hematológico, marcadores tumorales, proteinograma y TAC cervico-toraco-abdominal) fueron negativos
+T7	SINTOMA 346 368	piel de aspecto normal
+A1	RESULTADO T6

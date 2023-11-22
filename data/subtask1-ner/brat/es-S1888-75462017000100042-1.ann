@@ -1,0 +1,11 @@
+T1	SINTOMA 195 260	edema difuso en cara volar de la zona cubital de la muñeca y mano
+T2	SINTOMA 34 110	dolor con parestesias en el borde cubital de la mano y dedos cuarto y quinto
+T3	SINTOMA 1296 1323	hipoestesia del cuarto dedo
+T4	SINTOMA 759 764	dolor
+T5	SINTOMA 1500 1514	fusión parcial
+T6	SINTOMA 305 346	radiología y la ecografía fueron normales
+T7	SINTOMA 1561 1575	unión completa
+T8	SINTOMA 266 281	Tinnel positivo
+A1	IMAGEN T5
+A2	IMAGEN T6
+A3	IMAGEN T7

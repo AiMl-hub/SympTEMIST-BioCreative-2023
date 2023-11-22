@@ -1,0 +1,49 @@
+T1	SINTOMA 33 61	deterioro del estado general
+T2	SINTOMA 1910 1992	engrosamiento difuso de asas de intestino delgado a nivel de yeyuno distal e íleon
+T3	SINTOMA 63 70	astenia
+T4	SINTOMA 72 80	anorexia
+T5	SINTOMA 83 98	pérdida de peso
+T6	SINTOMA 2067 2084	masas abdominales
+T7	SINTOMA 2115 2178	engrosamiento de la grasa perirrectal, pared vesical y de recto
+T8	SINTOMA 3051 3090	deterioro progresivo del estado general
+T9	SINTOMA 389 416	cambio del ritmo intestinal
+T10	SINTOMA 437 444	diarrea
+T11	SINTOMA 447 460	estreñimiento
+T12	SINTOMA 463 478	dolores cólicos
+T13	SINTOMA 506 536	urgencia y tenesmo defecatorio
+T14	SINTOMA 590 629	abdomen blando, depresible, no doloroso
+T15	SINTOMA 677 696	signos obstructivos
+T16	SINTOMA 698 703	masas
+T17	SINTOMA 733 739	fiebre
+T18	SINTOMA 803 815	leucocitosis
+T19	SINTOMA 1105 1166	Transaminasas y enzimas de colestasis dentro de la normalidad
+T20	SINTOMA 1172 1256	anticuerpos anti-nucleares, anti-mitocondriales y anti-músculo liso fueron negativos
+T21	SINTOMA 2317 2376	engrosamiento de las válvulas conniventes a nivel de yeyuno
+T22	SINTOMA 2382 2425	asas de íleon pélvico de calibre disminuido
+T23	SINTOMA 3556 3568	asintomático
+T24	SINTOMA 2830 2852	eosinofilia periférica
+T25	SINTOMA 3511 3533	eosinofilia periférica
+T26	SINTOMA 1383 1426	radiografía de tórax no mostró alteraciones
+T27	SINTOMA 2615 2667	asa ileal de calibre normal con pliegues conservados
+T28	SINTOMA 2757 2773	cuadro abdominal
+T29	SINTOMA 3246 3257	eosinofilia
+T30	SINTOMA 635 656	ruidos muy aumentados
+T31	SINTOMA 2492 2524	íleon por engrosamiento parietal
+T32	SINTOMA 1025 1040	hipoalbuminemia
+T33	SINTOMA 3575 3604	controles analíticos normales
+T36	SINTOMA 707 715	megalias
+A1	IMAGEN T2
+A2	IMAGEN T7
+A3	RESULTADO T18
+A4	RESULTADO T19
+A5	RESULTADO T20
+A6	RESULTADO T21
+A7	RESULTADO T22
+A8	RESULTADO T24
+A9	RESULTADO T25
+A10	IMAGEN T26
+A11	RESULTADO T27
+A12	RESULTADO T29
+A13	RESULTADO T31
+A14	RESULTADO T32
+A15	RESULTADO T33

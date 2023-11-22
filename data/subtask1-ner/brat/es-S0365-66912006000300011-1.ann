@@ -1,0 +1,8 @@
+T1	SINTOMA 1130 1210	serologías de las zoonosis transmitidas por las garrapatas, que fueron negativas
+T2	SINTOMA 538 561	fondo de ojo fue normal
+T3	SINTOMA 446 491	agudeza visual era de la unidad en ambos ojos
+T4	SINTOMA 913 933	RS o garrapata común
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T4

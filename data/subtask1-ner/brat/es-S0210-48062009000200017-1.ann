@@ -1,0 +1,14 @@
+T1	SINTOMA 116 152	masa en la zona inferior del abdomen
+T2	SINTOMA 1817 1824	T4bN2M0
+T3	SINTOMA 2407 2415	falleció
+T4	SINTOMA 246 251	dolor
+T5	SINTOMA 1088 1092	masa
+T6	SINTOMA 2092 2140	induración de los bordes de la herida quirúrgica
+T7	SINTOMA 2250 2303	rastreo óseo en este momento continuó siendo negativo
+T8	SINTOMA 990 1019	anulación funcional del riñón
+T9	SINTOMA 2330 2393	masa heterogénea de bordes mal definidos en el lecho quirúrgico
+T10	SINTOMA 447 489	formación exofítica en el seno de la placa
+A1	EXITUS T3
+A2	IMAGEN T7
+A3	RESULTADO T8
+A4	IMAGEN T9

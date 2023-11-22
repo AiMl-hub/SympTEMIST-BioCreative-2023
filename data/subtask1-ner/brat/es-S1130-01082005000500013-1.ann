@@ -1,0 +1,6 @@
+T1	SINTOMA 789 801	tumoraciones
+T2	SINTOMA 1804 1841	captación en la línea media abdominal
+T3	SINTOMA 464 487	tumoración intraluminal
+T4	SINTOMA 138 146	pT3bN0M0
+T5	SINTOMA 2021 2040	libre de enfermedad
+A1	IMAGEN T2

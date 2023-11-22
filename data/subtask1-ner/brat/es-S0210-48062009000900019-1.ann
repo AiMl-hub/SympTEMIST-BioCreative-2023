@@ -1,0 +1,28 @@
+T1	SINTOMA 157 182	masa dependiente de riñón
+T2	SINTOMA 825 841	masa en el riñón
+T3	SINTOMA 347 362	dolor abdominal
+T4	SINTOMA 364 371	astenia
+T5	SINTOMA 1015 1019	T2N0
+T6	SINTOMA 374 389	pérdida de peso
+T7	SINTOMA 405 414	hematuria
+T8	SINTOMA 418 436	síndrome miccional
+T9	SINTOMA 483 497	masa abdominal
+T10	SINTOMA 255 294	vena renal izquierda y cava desplazadas
+T11	SINTOMA 1109 1160	punción-aspiración con aguja fina (células atípicas
+T12	SINTOMA 1225 1272	desplazamiento y rotación de la aorta abdominal
+T13	SINTOMA 2012 2072	(analíticas sangre y orina, TC toracoabdominal) son normales
+T14	SINTOMA 2356 2465	tumoración multiloculada que infiltraba bazo, la cola de páncreas, la curvatura mayor gástrica y el diafragma
+T15	SINTOMA 3053 3090	TC de control dentro de la normalidad
+T16	SINTOMA 3250 3258	falleció
+T17	SINTOMA 2163 2182	masa en celda renal
+T18	SINTOMA 2509 2519	tumoración
+T19	SINTOMA 527 639	análisis sistemático de sangre, bioquímica de sangre y de orina, coagulación) estuvieron dentro de la normalidad
+A1	IMAGEN T2
+A2	RESULTADO T5
+A3	RESULTADO T11
+A4	IMAGEN T12
+A5	RESULTADO T13
+A6	IMAGEN T15
+A7	EXITUS T16
+A8	IMAGEN T17
+A9	RESULTADO T19

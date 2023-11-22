@@ -1,0 +1,20 @@
+T1	SINTOMA 187 204	dolor ocular leve
+T2	SINTOMA 240 258	inflamación ocular
+T3	SINTOMA 1281 1296	hiperemia grave
+T4	SINTOMA 699 739	reacción inflamatoria en cámara anterior
+T5	SINTOMA 2112 2132	signos inflamatorios
+T6	SINTOMA 2189 2203	visión borrosa
+T7	SINTOMA 1274 1279	dolor
+T8	SINTOMA 483 500	tonometría normal
+T9	SINTOMA 503 561	fondo de ojo sin alteraciones significativas en ambos ojos
+T10	SINTOMA 1050 1096	cultivo mostró crecimiento de Candida albicans
+T11	SINTOMA 1638 1695	cultivo (aerobio y anaerobio) fue negativo para bacterias
+T12	SINTOMA 2235 2264	aumento leve de LDH en sangre
+T13	SINTOMA 1392 1400	hipopion
+T14	SINTOMA 1403 1422	hipertensión ocular
+A1	RESULTADO T4
+A2	RESULTADO T8
+A3	RESULTADO T9
+A4	RESULTADO T10
+A5	RESULTADO T11
+A6	RESULTADO T12

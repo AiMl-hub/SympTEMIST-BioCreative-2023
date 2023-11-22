@@ -1,0 +1,44 @@
+T1	SINTOMA 3860 3908	marcapasos VDD con cable único, normofuncionante
+T2	SINTOMA 1623 1631	nicturia
+T3	SINTOMA 1668 1675	diarrea
+T4	SINTOMA 1792 1807	pérdida de peso
+T5	SINTOMA 2155 2176	sensación presincopal
+T6	SINTOMA 3665 3698	ventrículo izquierdo hipertrófico
+T7	SINTOMA 2243 2259	taquicardización
+T8	SINTOMA 948 976	TC abdominal, que fue normal
+T9	SINTOMA 2373 2401	signos de liberación frontal
+T10	SINTOMA 2813 2836	Perfil hepático: Normal
+T11	SINTOMA 981 1015	exploración neurológica fue normal
+T12	SINTOMA 1837 1886	anamnesis por órganos y aparatos resultó negativa
+T13	SINTOMA 1937 1970	caída de la TA con la sedestación
+T14	SINTOMA 3589 3647	tinciones especificas para amiloide que resultan negativas
+T15	SINTOMA 3763 3781	hipocinesia global
+T16	SINTOMA 4163 4186	Serología VIH: Negativa
+T17	SINTOMA 4188 4226	Rx tórax: Sin hallazgos significativos
+T18	SINTOMA 4433 4462	catecolaminas en orina: bajos
+T19	SINTOMA 4287 4362	catecolaminas en plasma en decúbito y en sedestación: niveles basales bajos
+T20	SINTOMA 2218 2224	sudaba
+T21	SINTOMA 2317 2341	desinhibición conductual
+T22	SINTOMA 2418 2462	exploración neurológica y general fue normal
+T23	SINTOMA 3142 3167	Sangre en heces: negativo
+T24	SINTOMA 3703 3751	función sistólica limites bajos de la normalidad
+T25	SINTOMA 327 351	síncopes al ortostatismo
+T26	SINTOMA 1083 1104	sincopes ortostaticos
+T27	SINTOMA 1260 1284	síncopes al ortostatismo
+T28	SINTOMA 1360 1370	presíncope
+T29	SINTOMA 2092 2103	caída de TA
+T30	SINTOMA 3526 3575	mucosa colorrectal: de características habituales
+T31	SINTOMA 3978 4002	ritmo ventricular propio
+A1	RESULTADO T1
+A2	IMAGEN T6
+A3	IMAGEN T8
+A4	RESULTADO T14
+A5	IMAGEN T15
+A6	RESULTADO T16
+A7	IMAGEN T17
+A8	RESULTADO T18
+A9	RESULTADO T19
+A10	RESULTADO T23
+A11	IMAGEN T24
+A12	RESULTADO T30
+A13	RESULTADO T31

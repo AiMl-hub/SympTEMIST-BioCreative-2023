@@ -1,0 +1,8 @@
+T1	SINTOMA 841 850	epistaxis
+T2	SINTOMA 852 861	otorragia
+T3	SINTOMA 480 523	mano izquierda (ésta en espasmo de disparo)
+T4	SINTOMA 1054 1128	orificio de salida en relación con la gran mancha de sangre bajo la cabeza
+T5	SINTOMA 4605 4650	negativos tanto para alcohol como para drogas
+T6	SINTOMA 752 761	fallecido
+A1	RESULTADO T5
+A2	EXITUS T6

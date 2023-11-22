@@ -1,0 +1,12 @@
+T1	SINTOMA 130 165	dolor abdominal difuso intermitente
+T2	SINTOMA 225 231	vómito
+T3	SINTOMA 289 333	dolorimiento difuso a la palpación abdominal
+T4	SINTOMA 348 369	irritación peritoneal
+T5	SINTOMA 794 884	vena porta de calibre aumentado (1,6 cm de diámetro), con ausencia de flujo en su interior
+T6	SINTOMA 1964 1976	asintomático
+T7	SINTOMA 198 216	sensación nauseosa
+T8	SINTOMA 1665 1744	vena porta de calibre aumentado pero permeable con transformación cavernomatosa
+T9	SINTOMA 1335 1555	normales o negativos el factor V de Leiden, la resistencia a la proteína C activada, el anticoagulante lúpico, los anticuerpos anticardiolipina IgG e IgM, las proteínas C y S, la antitrombina y la homocisteína plasmática
+A1	IMAGEN T5
+A2	IMAGEN T8
+A3	RESULTADO T9

@@ -1,0 +1,9 @@
+T1	SINTOMA 117 136	ataxia de la marcha
+T2	SINTOMA 138 165	incontinencia de esfínteres
+T3	SINTOMA 168 201	trastorno de funciones superiores
+T4	SINTOMA 423 431	cefaleas
+T5	SINTOMA 434 441	vómitos
+T6	SINTOMA 479 513	deterioro del nivel de consciencia
+T7	SINTOMA 672 686	efecto de masa
+T8	SINTOMA 457 469	ortostatismo
+A1	IMAGEN T7

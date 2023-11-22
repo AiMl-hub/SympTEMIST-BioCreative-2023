@@ -1,0 +1,38 @@
+T1	SINTOMA 314 321	cefalea
+T2	SINTOMA 326 340	malestar bucal
+T3	SINTOMA 621 652	tumefacción parotídea bilateral
+T4	SINTOMA 759 768	disartria
+T5	SINTOMA 773 796	signo de Bell bilateral
+T6	SINTOMA 816 824	lagrimeo
+T7	SINTOMA 844 899	Alteración del gusto en el tercio anterior de la lengua
+T8	SINTOMA 954 986	parestesias en dedos de la manos
+T9	SINTOMA 1602 1631	debilidad en ambos cuadriceps
+T10	SINTOMA 3102 3127	debilidad en extremidades
+T11	SINTOMA 1055 1117	pérdida de fuerza en las 4 extremidades de predominio proximal
+T12	SINTOMA 1457 1512	reflejos osteotendinosos rotulianos y aquíleos abolidos
+T13	SINTOMA 2112 2130	citología negativa
+T14	SINTOMA 1255 1302	arreflexia tricipital bilateral y estilo-radial
+T15	SINTOMA 1354 1430	paresia en extremidades inferiores 4/5 de los flexores de cadera bilaterales
+T16	SINTOMA 1514 1546	Marcha independiente con torpeza
+T17	SINTOMA 1548 1592	conservando la marcha de puntillas y talones
+T18	SINTOMA 1646 1661	Rx tórax normal
+T19	SINTOMA 1666 1725	hemograma, bioquímica y coagulación dentro de la normalidad
+T20	SINTOMA 1971 2023	TC y RNM cerebral, no mostraron hallazgos de interés
+T21	SINTOMA 2171 2196	Test de Tensilon negativo
+T22	SINTOMA 2269 2306	respuesta facial periférica bilateral
+T23	SINTOMA 2149 2169	bandas oligoclonales
+T24	SINTOMA 2093 2107	pandy positivo
+T25	SINTOMA 1162 1234	paresia 4/5 en extremidad superior derecha y 4+/5 en extremidad superior
+T26	SINTOMA 1875 1941	ECA en sangre y cuantificación de immunoglobulinas fueron normales
+T27	SINTOMA 1739 1873	Borrelia, Brucella, toxoplasma, rubéola, lúes, VEB, CMV, VHS, VIH, Varicela-Zoster, sarampión y parotiditis) en sangre y LCR negativas
+T28	SINTOMA 2028 2090	LCR mostró incremento de proteínas (1,5 gr/dl), sin leucocitos
+A1	RESULTADO T13
+A2	IMAGEN T18
+A3	RESULTADO T19
+A4	IMAGEN T20
+A5	RESULTADO T21
+A6	RESULTADO T23
+A7	RESULTADO T24
+A8	RESULTADO T26
+A9	RESULTADO T27
+A10	RESULTADO T28

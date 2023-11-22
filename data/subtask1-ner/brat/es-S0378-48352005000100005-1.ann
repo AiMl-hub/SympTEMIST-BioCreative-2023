@@ -1,0 +1,13 @@
+T1	SINTOMA 49 70	tumoración en la mama
+T2	SINTOMA 445 457	dolor dorsal
+T3	SINTOMA 460 477	disnea progresiva
+T4	SINTOMA 1056 1072	dolores dorsales
+T5	SINTOMA 738 759	captaciones múltiples
+T6	SINTOMA 1527 1565	atenuación de las zonas hipercaptantes
+T7	SINTOMA 1743 1751	Falleció
+T8	SINTOMA 819 863	nódulo que sobresalía sobre el lecho mamario
+T9	SINTOMA 651 666	derrame pleural
+A1	RESULTADO T5
+A2	IMAGEN T6
+A3	EXITUS T7
+A4	IMAGEN T9

@@ -1,0 +1,15 @@
+T1	SINTOMA 61 74	epigastralgia
+T2	SINTOMA 90 123	elevaciones mínimas de la amilasa
+T3	SINTOMA 189 206	dolor epigástrico
+T4	SINTOMA 702 767	colédoco y el Wirsung desembocaban separados en la pared duodenal
+T5	SINTOMA 963 976	epigastralgia
+T6	SINTOMA 1229 1266	papila presentaba un aspecto fláccido
+T7	SINTOMA 209 229	distensión abdominal
+T8	SINTOMA 368 396	leve elevación de la amilasa
+T9	SINTOMA 1968 1973	dolor
+T10	SINTOMA 477 586	ecografía abdominal trancutánea, gastroscopia, colonoscopia y TC abdominal. Todas las pruebas fueron normales
+A1	RESULTADO T2
+A2	IMAGEN T4
+A3	RESULTADO T6
+A4	RESULTADO T8
+A5	IMAGEN T10

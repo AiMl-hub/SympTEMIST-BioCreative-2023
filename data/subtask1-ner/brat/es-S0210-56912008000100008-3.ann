@@ -1,0 +1,26 @@
+T1	SINTOMA 43 59	dolor precordial
+T2	SINTOMA 174 207	depresión pronunciada del punto J
+T3	SINTOMA 480 516	onda J marcada en derivaciones V1-V2
+T4	SINTOMA 645 677	onda J en las derivaciones V1-V2
+T5	SINTOMA 608 639	inversión inferior de la onda T
+T6	SINTOMA 684 696	E-ST cóncava
+T7	SINTOMA 992 1042	onda J en las derivaciones inferiores y anteriores
+T8	SINTOMA 1050 1062	E-ST cóncava
+T9	SINTOMA 220 262	D-ST descendente en las derivaciones V1-V2
+T10	SINTOMA 269 295	D-ST horizontal en V3 a V5
+T11	SINTOMA 531 561	desplazamiento del segmento ST
+T12	SINTOMA 701 746	ondas T positivas en las derivaciones V2 a V4
+T13	SINTOMA 1067 1110	onda T positiva en las derivaciones V2 a V4
+T14	SINTOMA 462 467	dolor
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T7
+A7	RESULTADO T8
+A8	RESULTADO T9
+A9	RESULTADO T10
+A10	RESULTADO T11
+A11	RESULTADO T12
+A12	RESULTADO T13

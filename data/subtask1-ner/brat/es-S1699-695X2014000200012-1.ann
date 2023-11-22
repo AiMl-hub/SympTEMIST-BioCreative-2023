@@ -1,0 +1,13 @@
+T1	SINTOMA 288 297	ciatalgia
+T2	SINTOMA 410 452	masas duras e indoloras en ambas parótidas
+T3	SINTOMA 1204 1244	citología negativa para células malignas
+T4	SINTOMA 1313 1353	citología negativa para células malignas
+T5	SINTOMA 300 329	edemas en miembros inferiores
+T6	SINTOMA 752 785	lesiones nodulares hipoecogénicas
+T7	SINTOMA 975 1040	lesión nodular hipoecogénica y heterogénea (sólida/microquística)
+T8	SINTOMA 1470 1501	lesiones nodulares heterogéneas
+A1	RESULTADO T3
+A2	RESULTADO T4
+A3	IMAGEN T6
+A4	IMAGEN T7
+A5	IMAGEN T8

@@ -1,0 +1,21 @@
+T1	SINTOMA 339 351	asintomática
+T2	SINTOMA 2552 2593	asimetría a la altura del colículo facial
+T3	SINTOMA 402 409	cefalea
+T4	SINTOMA 412 419	vómitos
+T5	SINTOMA 432 485	hemihipoestesia con parestesias de hemicuerpo derecho
+T6	SINTOMA 3957 3970	déficit motor
+T7	SINTOMA 3989 4014	inestabilidad a la marcha
+T8	SINTOMA 4066 4094	nivel de conciencia es bueno
+T9	SINTOMA 4100 4143	funciones superiores cognitivas conservadas
+T10	SINTOMA 968 976	sangrado
+T11	SINTOMA 488 511	hemiparesia 4/5 derecha
+T12	SINTOMA 2997 3024	efecto de masa del hematoma
+T13	SINTOMA 915 940	hemosiderina perilesional
+T14	SINTOMA 999 1025	deformaba el IV ventrículo
+T15	SINTOMA 3524 3554	paresia transitoria de X y XII
+T16	SINTOMA 597 644	hemihipoestesia derecha con extinción sensitiva
+T17	SINTOMA 3812 3848	paresia nuclear del VI par izquierdo
+T18	SINTOMA 3863 3885	paresia facial nuclear
+T19	SINTOMA 567 590	hemiparesia derecha 4/5
+A1	IMAGEN T13
+A2	IMAGEN T14

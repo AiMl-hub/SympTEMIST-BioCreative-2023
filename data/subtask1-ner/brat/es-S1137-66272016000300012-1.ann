@@ -1,0 +1,29 @@
+T1	SINTOMA 921 947	elevación de transaminasas
+T2	SINTOMA 149 201	disnea progresiva hasta hacerse de mínimos esfuerzos
+T3	SINTOMA 217 223	edemas
+T4	SINTOMA 225 230	mareo
+T5	SINTOMA 1105 1134	deterioro de la función renal
+T6	SINTOMA 246 260	dolor torácico
+T7	SINTOMA 264 272	ortopnea
+T8	SINTOMA 1857 1961	ventrículo derecho así como la porción inicial de la arteria pulmonar aparecían completamente colapsados
+T9	SINTOMA 781 801	hipotensión arterial
+T10	SINTOMA 817 838	ingurgitación yugular
+T11	SINTOMA 3218 3228	bajo gasto
+T12	SINTOMA 757 779	regular estado general
+T13	SINTOMA 1192 1272	serologías para VHA, VHB, VHC, VIH, VEB, CMV y la autoinmunidad fueron negativas
+T14	SINTOMA 1533 1565	estudio vascular hepático normal
+T15	SINTOMA 3051 3074	compromiso hemodinámico
+T16	SINTOMA 1008 1050	cifras de bilirrubina ligeramente elevadas
+T17	SINTOMA 1345 1399	electrocardiograma no mostraba alteraciones de interés
+T18	SINTOMA 2484 2530	estudio microbiológico y la citología normales
+T19	SINTOMA 1460 1521	alteración difusa de la ecogenicidad en relación a esteatosis
+A1	RESULTADO T1
+A2	RESULTADO T5
+A3	RESULTADO T8
+A4	RESULTADO T13
+A5	IMAGEN T14
+A6	RESULTADO T15
+A7	RESULTADO T16
+A8	RESULTADO T17
+A9	RESULTADO T18
+A10	IMAGEN T19

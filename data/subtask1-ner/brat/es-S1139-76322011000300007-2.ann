@@ -1,0 +1,14 @@
+T1	SINTOMA 551 565	deshidratación
+T2	SINTOMA 569 594	alteraciones neurológicas
+T3	SINTOMA 793 826	coprocultivo se detectó rotavirus
+T4	SINTOMA 158 179	desconexión ambiental
+T5	SINTOMA 181 195	mirada perdida
+T6	SINTOMA 198 221	hipertonía generalizada
+T7	SINTOMA 290 297	diarrea
+T8	SINTOMA 300 307	vómitos
+T9	SINTOMA 486 501	crisis febriles
+T10	SINTOMA 329 335	fiebre
+T11	SINTOMA 884 912	desarrollo psicomotor normal
+T12	SINTOMA 610 672	hemograma, bioquímica y gasometría venosa, que fueron normales
+A1	RESULTADO T3
+A2	RESULTADO T12

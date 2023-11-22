@@ -1,0 +1,9 @@
+T1	SINTOMA 673 678	dolor
+T2	SINTOMA 288 318	inflamación y dolor mandibular
+T3	SINTOMA 552 557	dolor
+T4	SINTOMA 122 136	dolor de muela
+T5	SINTOMA 750 756	fiebre
+T6	SINTOMA 179 185	fiebre
+T7	SINTOMA 1352 1410	microorganismos (con técnicas Grocot, Gram y Ziehl-Neelsen
+T8	SINTOMA 943 996	borde submaxilar derecho, rojo, doloroso y supurativo
+A1	RESULTADO T7

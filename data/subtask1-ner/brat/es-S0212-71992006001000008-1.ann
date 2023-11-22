@@ -1,0 +1,22 @@
+T1	SINTOMA 170 256	coloración violácea en falange distal del segundo, tercer y cuarto dedo de ambas manos
+T2	SINTOMA 454 461	palidez
+T3	SINTOMA 472 477	rubor
+T4	SINTOMA 636 702	coloración violácea y frialdad en extremos distales de ambas manos
+T5	SINTOMA 1155 1415	Hemograma, electrolitos, coagulación, función hepática, función renal, gasometría arterial, análisis de orina, velocidad de sedimentación globular, niveles de complemento, inmunoglobulinas, crioaglutininas, crioglobulinas y marcadores tumorales fueron normales
+T6	SINTOMA 1549 1607	serologías de VHB, VHC, VIH y sífilis resultaron negativas
+T7	SINTOMA 1794 1830	TC torácico fue rigurosamente normal
+T8	SINTOMA 1946 2000	induración de piel preesternal y región laterocervical
+T9	SINTOMA 805 844	pulsos distales se hallaban conservados
+T10	SINTOMA 1030 1083	exploración cardiopulmonar no reveló ninguna anomalía
+T11	SINTOMA 1488 1543	anticuerpos antitiroglobulina y antiperoxidasa normales
+T12	SINTOMA 292 313	sensación de frialdad
+T13	SINTOMA 1641 1654	ANA positivos
+T14	SINTOMA 923 938	esclerodactilia
+T15	SINTOMA 1694 1789	anticuerpos antiDNA, ENA, anticardiolipina, scl70, anticentrómero y factor reumatoide negativos
+T16	SINTOMA 1882 1897	esclerodactilia
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	IMAGEN T7
+A4	RESULTADO T11
+A5	RESULTADO T13
+A6	RESULTADO T15

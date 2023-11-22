@@ -1,0 +1,11 @@
+T1	SINTOMA 3075 3081	edemas
+T2	SINTOMA 1901 1936	edemas con fóvea hasta las rodillas
+T3	SINTOMA 2279 2290	Proteinuria
+T4	SINTOMA 3333 3344	Proteinuria
+T5	SINTOMA 2306 2345	Colesterol total: 180 (valores normales
+T6	SINTOMA 2362 2398	Triglicéridos: 110 (valores normales
+T7	SINTOMA 2414 2445	HDL: 44 mg/dL (valores normales
+A1	RESULTADO T3
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T6

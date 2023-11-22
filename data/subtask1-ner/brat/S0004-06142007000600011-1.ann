@@ -1,0 +1,7 @@
+T1	SINTOMA 154 198	imagen neoformativa en el área retrotrigonal
+T2	SINTOMA 227 244	síntoma urológico
+T3	SINTOMA 481 504	alteración de la mucosa
+T4	SINTOMA 332 377	defecto de replección en área lateral derecha
+A1	IMAGEN T1
+A2	RESULTADO T3
+A3	IMAGEN T4

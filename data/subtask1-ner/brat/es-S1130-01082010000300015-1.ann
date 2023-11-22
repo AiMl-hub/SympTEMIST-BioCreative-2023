@@ -1,0 +1,16 @@
+T1	SINTOMA 183 198	dolor abdominal
+T2	SINTOMA 212 235	síndrome constitucional
+T3	SINTOMA 299 306	afebril
+T4	SINTOMA 309 334	hemodinámicamente estable
+T5	SINTOMA 414 444	tumoración en flanco izquierdo
+T6	SINTOMA 704 708	masa
+T7	SINTOMA 995 999	masa
+T8	SINTOMA 626 649	función hepática normal
+T9	SINTOMA 776 835	desplazamiento de los vasos renales y sistema pielocalicial
+T10	SINTOMA 1117 1127	tumoración
+T11	SINTOMA 1013 1021	falleció
+T12	SINTOMA 343 405	abdomen globuloso, blando, depresible, doloroso a la palpación
+A1	IMAGEN T6
+A2	RESULTADO T8
+A3	IMAGEN T9
+A4	EXITUS T11

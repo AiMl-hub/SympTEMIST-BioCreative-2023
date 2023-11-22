@@ -1,0 +1,9 @@
+T1	SINTOMA 64 85	dolor anal al defecar
+T2	SINTOMA 87 94	afebril
+T3	SINTOMA 376 383	eritema
+T4	SINTOMA 419 432	estreñimiento
+T5	SINTOMA 158 216	detección de estreptococo, que resulta positivo en el anal
+T6	SINTOMA 228 254	EBHGA en el cultivo rectal
+T7	SINTOMA 33 49	eritema perianal
+A1	RESULTADO T5
+A2	RESULTADO T6

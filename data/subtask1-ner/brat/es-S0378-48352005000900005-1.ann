@@ -1,0 +1,12 @@
+T1	SINTOMA 455 474	dolor en epigastrio
+T2	SINTOMA 493 508	pérdida de peso
+T3	SINTOMA 1095 1107	dolor dorsal
+T4	SINTOMA 588 633	masa de aspecto tumoral en el cuerpo gástrico
+T5	SINTOMA 1147 1168	captaciones múltiples
+T6	SINTOMA 1561 1636	receptores de estrógeno y de progesterona en las células en anillo de sello
+T7	SINTOMA 791 798	ascitis
+T8	SINTOMA 975 1001	células en anillo de sello
+A1	RESULTADO T4
+A2	IMAGEN T5
+A3	RESULTADO T6
+A4	RESULTADO T8

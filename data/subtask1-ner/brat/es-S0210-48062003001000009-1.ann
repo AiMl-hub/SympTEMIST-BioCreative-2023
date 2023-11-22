@@ -1,0 +1,26 @@
+T1	SINTOMA 34 68	goteo terminal o "micción babeante
+T2	SINTOMA 1199 1227	Buen estado de salud general
+T3	SINTOMA 71 82	dispareunia
+T4	SINTOMA 925 941	Dolor lumbosacro
+T5	SINTOMA 1331 1345	Abdomen blando
+T6	SINTOMA 1901 1934	formaciones líquidas en la pelvis
+T7	SINTOMA 285 293	nicturia
+T8	SINTOMA 1480 1560	abultamiento en el área suburetral cerca del cuello vesical y de la uretra media
+T9	SINTOMA 3036 3073	alteraciones en el resto de la vejiga
+T10	SINTOMA 456 473	urgencia urinaria
+T11	SINTOMA 476 501	incontinencia de urgencia
+T12	SINTOMA 527 547	micción entrecortada
+T13	SINTOMA 552 608	sensación de presión vesical o de vaciamiento incompleto
+T14	SINTOMA 682 705	Ritmo intestinal normal
+T15	SINTOMA 710 736	disfunción sexual femenina
+T16	SINTOMA 762 773	dispareunia
+T17	SINTOMA 624 633	hematuria
+T18	SINTOMA 1664 1667	pus
+T19	SINTOMA 1244 1302	cabeza, cuello y cardio-pulmonar sin hallazgos patológicos
+T20	SINTOMA 2594 2615	drenaje por la uretra
+T21	SINTOMA 2973 3016	orificios ureterales normales y ortotópicos
+T22	SINTOMA 3371 3393	incontinencia urinaria
+T25	SINTOMA 1357 1365	doloroso
+A1	IMAGEN T6
+A2	IMAGEN T9
+A3	IMAGEN T21

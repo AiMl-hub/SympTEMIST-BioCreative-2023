@@ -1,0 +1,40 @@
+T1	SINTOMA 165 173	cefaleas
+T2	SINTOMA 175 194	dolor en epigastrio
+T3	SINTOMA 197 211	visión borrosa
+T4	SINTOMA 364 417	edema (+ + +) en ambos miembros inferiores, con fóvea
+T5	SINTOMA 461 511	elevación de las transaminasas y de la bilirrubina
+T6	SINTOMA 527 552	descenso de las plaquetas
+T7	SINTOMA 895 906	proteinuria
+T8	SINTOMA 1048 1077	edema de ambos discos ópticos
+T9	SINTOMA 1680 1688	oliguria
+T10	SINTOMA 3491 3531	hiper e hipopigmentación donde la retina
+T11	SINTOMA 693 712	coagulación: normal
+T12	SINTOMA 3077 3092	edema de papila
+T13	SINTOMA 647 664	hemoconcentración
+T14	SINTOMA 933 951	mal estado general
+T15	SINTOMA 2093 2137	biomicroscopia de cámara anterior era normal
+T16	SINTOMA 3099 3110	hemorragias
+T17	SINTOMA 2498 2580	ojo izquierdo era posible distinguir una línea de demarcación temporal a la mácula
+T18	SINTOMA 2274 2296	edema del disco óptico
+T19	SINTOMA 3136 3166	línea de demarcación en el ojo
+T20	SINTOMA 1217 1265	hemorragias en el polo posterior de los dos ojos
+T21	SINTOMA 2649 2753	fases precoces de la angiografía fluoresceínica se observaba un retraso en el llenado de la coriocapilar
+T22	SINTOMA 2793 2895	fases más avanzadas mostraban focos de difusión progresiva en el espacio subpigmentario y subretiniano
+T23	SINTOMA 3260 3301	áreas focales de hiper e hipopigmentación
+T24	SINTOMA 3499 3515	hipopigmentación
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	RESULTADO T7
+A4	RESULTADO T8
+A5	RESULTADO T11
+A6	RESULTADO T12
+A7	RESULTADO T13
+A8	RESULTADO T15
+A9	RESULTADO T16
+A10	RESULTADO T18
+A11	RESULTADO T19
+A12	RESULTADO T20
+A13	RESULTADO T21
+A14	RESULTADO T22
+A15	RESULTADO T23
+A16	RESULTADO T24

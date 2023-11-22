@@ -1,0 +1,11 @@
+T1	SINTOMA 1370 1432	cultivo del drenaje abdominal se aisló un Enterobacter cloacae
+T2	SINTOMA 1238 1270	incremento de los valores de PCT
+T3	SINTOMA 158 179	molestias abdominales
+T4	SINTOMA 1039 1062	valores de PCR normales
+T5	SINTOMA 1081 1107	PCT discretamente elevados
+T6	SINTOMA 1311 1343	PCR sólo se elevaron ligeramente
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6

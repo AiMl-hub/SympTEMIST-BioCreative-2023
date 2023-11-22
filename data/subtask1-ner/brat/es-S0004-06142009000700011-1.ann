@@ -1,0 +1,6 @@
+T1	SINTOMA 253 285	aumento de tamaño de hemiescroto
+T2	SINTOMA 327 333	fiebre
+T3	SINTOMA 390 455	hemiescroto izquierdo mayor de lo normal, a tensión, con una masa
+T4	SINTOMA 317 322	dolor
+T5	SINTOMA 552 614	beta-HCG y alfafetoproteína dentro de los rangos de referencia
+A1	RESULTADO T5

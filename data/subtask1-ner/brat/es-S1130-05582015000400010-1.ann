@@ -1,0 +1,13 @@
+T1	SINTOMA 70 103	tumoración indolora submandibular
+T2	SINTOMA 238 261	síndrome constitucional
+T3	SINTOMA 386 404	masa submandibular
+T4	SINTOMA 518 538	dolor a la palpación
+T5	SINTOMA 555 592	alteraciones en la movilidad cervical
+T6	SINTOMA 939 954	masa submaxilar
+T7	SINTOMA 2445 2455	pT3-N0, MX
+T8	SINTOMA 2299 2348	ganglios linfáticos son negativos para malignidad
+T9	SINTOMA 1131 1166	respeta la cortical ósea mandibular
+A1	IMAGEN T6
+A2	RESULTADO T7
+A3	RESULTADO T8
+A4	IMAGEN T9

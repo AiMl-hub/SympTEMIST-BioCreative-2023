@@ -1,0 +1,12 @@
+T1	SINTOMA 725 767	masa de 5cm de diámetro en riñón izquierdo
+T2	SINTOMA 413 428	palidez cutánea
+T3	SINTOMA 107 129	hematuria macroscópica
+T4	SINTOMA 531 658	hemograma, bioquímica, coagulación, urocultivo, función renal, enolasa, alfa feto proteína, radiografía de tórax y ECG normales
+T5	SINTOMA 302 319	enúresis nocturna
+T6	SINTOMA 1280 1284	masa
+T7	SINTOMA 1388 1392	masa
+T8	SINTOMA 972 1049	masa dependiente del riñón izquierdo, en cara anterior, de contenido quístico
+T9	SINTOMA 680 689	hematuria
+A1	IMAGEN T1
+A2	RESULTADO T4
+A3	RESULTADO T9

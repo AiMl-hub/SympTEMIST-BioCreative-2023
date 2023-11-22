@@ -1,0 +1,6 @@
+T1	SINTOMA 4083 4100	congestión venosa
+T2	SINTOMA 570 631	limitación para los movimientos laterales de la zona cervical
+T3	SINTOMA 1419 1429	tumoración
+T4	SINTOMA 850 861	masa solida
+A1	IMAGEN T3
+A2	IMAGEN T4

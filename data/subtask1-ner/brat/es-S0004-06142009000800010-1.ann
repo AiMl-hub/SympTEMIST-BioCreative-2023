@@ -1,0 +1,36 @@
+T1	SINTOMA 186 203	orina con atipias
+T2	SINTOMA 274 302	masa vesical en cara lateral
+T3	SINTOMA 760 786	TAC toracoabdominal normal
+T4	SINTOMA 788 811	gammagrafía ósea normal
+T5	SINTOMA 1389 1397	pT4aN1M0
+T6	SINTOMA 1476 1487	trombopenia
+T7	SINTOMA 1553 1584	función renal permaneció normal
+T8	SINTOMA 1775 1786	trombopenia
+T9	SINTOMA 2035 2046	trombopenia
+T10	SINTOMA 2204 2214	hemolítico
+T11	SINTOMA 2227 2245	bilirrubina normal
+T12	SINTOMA 2349 2360	trombopenia
+T13	SINTOMA 2635 2646	falleciendo
+T14	SINTOMA 964 993	estudio de extensión negativo
+T15	SINTOMA 149 158	hematuria
+T16	SINTOMA 2102 2110	sangrado
+T17	SINTOMA 1956 1971	sangrado activo
+T18	SINTOMA 429 456	vejiga resecándose una masa
+T19	SINTOMA 922 952	masa dentro de la luz ureteral
+T20	SINTOMA 2051 2081	coagulación fue siempre normal
+T21	SINTOMA 2248 2279	test de Coombs directo negativo
+A1	RESULTADO T1
+A2	IMAGEN T2
+A3	IMAGEN T3
+A4	IMAGEN T4
+A5	RESULTADO T6
+A6	RESULTADO T7
+A7	RESULTADO T8
+A8	RESULTADO T9
+A9	RESULTADO T11
+A10	RESULTADO T12
+A11	EXITUS T13
+A12	RESULTADO T14
+A13	IMAGEN T19
+A14	RESULTADO T20
+A15	RESULTADO T21

@@ -1,0 +1,14 @@
+T1	SINTOMA 999 1042	debilidad progresiva en miembros inferiores
+T2	SINTOMA 1066 1092	incapacidad para la marcha
+T3	SINTOMA 131 152	disminución de visión
+T4	SINTOMA 586 612	restos celulares en vítreo
+T5	SINTOMA 784 793	snowballs
+T6	SINTOMA 796 805	snowbanks
+T7	SINTOMA 1915 1934	clínica neurológica
+T8	SINTOMA 1259 1277	cuadro neurológico
+T9	SINTOMA 1378 1399	hiperreflexia patelar
+T10	SINTOMA 1413 1458	serología para el VLHT-1 que resultó positiva
+T11	SINTOMA 1710 1751	presencia de anticuerpos frente al HTLV-1
+A1	RESULTADO T4
+A2	RESULTADO T10
+A3	RESULTADO T11

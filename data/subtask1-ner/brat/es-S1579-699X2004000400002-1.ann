@@ -1,0 +1,33 @@
+T1	SINTOMA 2791 2804	palpitaciones
+T2	SINTOMA 2807 2814	temblor
+T3	SINTOMA 4236 4288	aumento de la intensidad en la señal periventricular
+T4	SINTOMA 2909 2929	molestias pectorales
+T5	SINTOMA 4291 4351	hipointensidad moderada del tálamo y de los ganglios basales
+T6	SINTOMA 2257 2264	vértigo
+T7	SINTOMA 2266 2293	tensión psíquica y somática
+T8	SINTOMA 2295 2306	parestesias
+T9	SINTOMA 2308 2332	debilidad en las piernas
+T10	SINTOMA 3494 3534	pérdida de la capacidad de concentración
+T11	SINTOMA 4456 4505	alteraciones de la intensidad intraparenquimatosa
+T12	SINTOMA 3613 3628	dolor emocional
+T13	SINTOMA 637 685	niveles elevados de los metabolitos del estireno
+T14	SINTOMA 3630 3642	somatización
+T15	SINTOMA 3644 3655	inseguridad
+T16	SINTOMA 4581 4600	alteración cerebral
+T17	SINTOMA 3658 3673	humor depresivo
+T18	SINTOMA 3750 3766	signos orgánicos
+T19	SINTOMA 3856 3868	neuroticismo
+T20	SINTOMA 1106 1113	vértigo
+T21	SINTOMA 1115 1124	temblores
+T22	SINTOMA 1126 1146	debilidad de piernas
+T23	SINTOMA 1344 1359	dolor de cabeza
+T24	SINTOMA 1365 1372	vértigo
+T25	SINTOMA 1149 1160	parestesias
+T26	SINTOMA 4174 4234	pobre diferenciación entre sustancia gris y sustancia blanca
+T27	SINTOMA 4509 4543	áreas intracraneales de hiperseñal
+A1	IMAGEN T3
+A2	IMAGEN T5
+A3	IMAGEN T11
+A4	RESULTADO T13
+A5	IMAGEN T26
+A6	IMAGEN T27

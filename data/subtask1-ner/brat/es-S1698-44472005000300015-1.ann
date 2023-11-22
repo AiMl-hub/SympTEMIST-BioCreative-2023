@@ -1,0 +1,15 @@
+T1	SINTOMA 270 287	chasquidos de ATM
+T2	SINTOMA 835 904	desplazamiento anterior del disco que se reducía a la apertura en ATM
+T3	SINTOMA 454 459	dolor
+T4	SINTOMA 476 492	chasquido de ATM
+T5	SINTOMA 161 213	molestias en la articulación témporomandibular (ATM)
+T6	SINTOMA 920 1037	ATM izquierda llamaba la atención la morfología del cóndilo: bifidez anteroposterior y presencia de derrame articular
+T7	SINTOMA 594 651	Dolor selectivo a la palpación de masétero y pterigoideos
+T8	SINTOMA 1243 1264	cambios degenerativos
+T9	SINTOMA 725 745	duplicación condilar
+T10	SINTOMA 1185 1199	cóndilo bífido
+A1	IMAGEN T2
+A2	IMAGEN T6
+A3	IMAGEN T8
+A4	IMAGEN T9
+A5	IMAGEN T10

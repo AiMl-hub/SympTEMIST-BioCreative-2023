@@ -1,0 +1,6 @@
+T1	SINTOMA 114 141	serología para CMV positiva
+T2	SINTOMA 716 736	carga viral positiva
+T3	SINTOMA 2600 2624	carga viral indetectable
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3

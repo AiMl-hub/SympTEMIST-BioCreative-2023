@@ -1,0 +1,10 @@
+T1	SINTOMA 21 30	dispepsia
+T2	SINTOMA 500 510	tumoración
+T3	SINTOMA 884 925	PAAF: celulariad epitelial sin malignidad
+T4	SINTOMA 1920 1932	asintomática
+T5	SINTOMA 270 289	congestión moderada
+T6	SINTOMA 431 483	defecto de repleción con pérdida de pliegues mucosos
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T5
+A4	RESULTADO T6

@@ -1,0 +1,12 @@
+T1	SINTOMA 45 96	sangrado gingival en los dientes postero-superiores
+T2	SINTOMA 363 448	inflamación difusa de 1 x 3 cm en el alvéolo correspondiente a los molares superiores
+T3	SINTOMA 176 226	dolor leve y una gradual desviación de los dientes
+T4	SINTOMA 246 252	fiebre
+T5	SINTOMA 255 258	pus
+T6	SINTOMA 607 656	dientes mencionados se desviaban hacia el paladar
+T7	SINTOMA 728 818	dientes afectados no respondían al calor, ni al frío ni a estímulos electricos de la pulpa
+T8	SINTOMA 921 964	masa de tejido blando en el alveolo maxilar
+T9	SINTOMA 978 990	erosión ósea
+T10	SINTOMA 462 471	hinchazón
+T11	SINTOMA 677 686	hinchazón
+A1	IMAGEN T8

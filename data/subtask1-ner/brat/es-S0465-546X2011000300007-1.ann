@@ -1,0 +1,11 @@
+T1	SINTOMA 453 463	lipotimias
+T2	SINTOMA 465 477	convulsiones
+T3	SINTOMA 479 507	respiración nocturna agónica
+T4	SINTOMA 510 523	palpitaciones
+T5	SINTOMA 1453 1459	fiebre
+T6	SINTOMA 170 182	asintomático
+T7	SINTOMA 1620 1632	asintomático
+T8	SINTOMA 443 451	síncopes
+T9	SINTOMA 1409 1422	cuadro febril
+T10	SINTOMA 393 406	muerte súbita
+A1	EXITUS T10

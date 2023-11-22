@@ -1,0 +1,13 @@
+T1	SINTOMA 114 129	diarrea intensa
+T2	SINTOMA 132 139	vómitos
+T3	SINTOMA 339 348	taquipnea
+T4	SINTOMA 351 363	bradipsiquia
+T5	SINTOMA 423 431	doloroso
+T6	SINTOMA 372 391	respondía a órdenes
+T7	SINTOMA 396 417	abdomen estaba blando
+T8	SINTOMA 1105 1145	infiltración de la grasa peripancreática
+T9	SINTOMA 1150 1173	líquido libre abdominal
+T10	SINTOMA 999 1050	normalidad del calcio iónico y de los triglicéridos
+A1	IMAGEN T8
+A2	IMAGEN T9
+A3	RESULTADO T10

@@ -1,0 +1,11 @@
+T1	SINTOMA 925 930	masas
+T2	SINTOMA 537 543	nódulo
+T3	SINTOMA 611 663	nódulos presentaban un aumento de la vascularización
+T4	SINTOMA 803 810	nódulos
+T5	SINTOMA 75 122	tumoración ligeramente dolorosa en el testículo
+T6	SINTOMA 710 742	estudio de extensión es negativo
+T7	SINTOMA 205 243	aumento testicular con zonas nodulares
+T8	SINTOMA 248 291	testículo izquierdo no muestra alteraciones
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	RESULTADO T6

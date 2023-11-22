@@ -1,0 +1,27 @@
+T2	SINTOMA 78 108	disminución de la AV bilateral
+T3	SINTOMA 111 118	cefalea
+T4	SINTOMA 862 894	hipofluorescencia en la coroides
+T5	SINTOMA 966 988	hipoperfusión coroidea
+T6	SINTOMA 1066 1089	engrosamiento retiniano
+T7	SINTOMA 364 404	pupilas son isocóricas y normorreactivas
+T8	SINTOMA 410 452	biomicroscopía del polo anterior es normal
+T9	SINTOMA 1645 1688	HLA B-7 y HLA DR2, que resultó ser positivo
+T10	SINTOMA 1094 1153	hiperreflectividad a nivel de las capas retinianas externas
+T11	SINTOMA 1907 1946	leve limitación de la abducción del ojo
+T12	SINTOMA 2314 2365	aumento de la reflectividad retiniana en ambos ojos
+T13	SINTOMA 209 222	cuadro gripal
+T14	SINTOMA 298 322	ojo derecho es de bultos
+T15	SINTOMA 673 728	áreas de hipofluorescencia marcadas en tiempos precoces
+T16	SINTOMA 750 796	áreas de hiperfluorescencia en tiempos tardíos
+T17	SINTOMA 1803 1831	diplopía en la visión lejana
+T18	SINTOMA 2118 2126	diplopía
+T19	SINTOMA 2148 2156	diplopía
+T20	SINTOMA 1290 1305	cefalea intensa
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	IMAGEN T6
+A4	RESULTADO T8
+A5	RESULTADO T9
+A6	IMAGEN T10
+A7	RESULTADO T15
+A8	RESULTADO T16

@@ -1,0 +1,11 @@
+T1	SINTOMA 711 762	mucosa vesical está hiperémica, con sangrado difuso
+T2	SINTOMA 1754 1763	hematuria
+T3	SINTOMA 340 349	hipotensa
+T4	SINTOMA 1149 1176	inestable hemodinámicamente
+T5	SINTOMA 860 875	sangrado activo
+T6	SINTOMA 111 162	hematuria macroscópica monosintomática con coágulos
+T7	SINTOMA 2836 2845	hematuria
+T8	SINTOMA 1437 1445	sangrado
+T9	SINTOMA 2536 2577	proteína AA del amiloide resultó positiva
+T10	SINTOMA 1083 1115	vejiga está nuevamente coagulada
+A1	RESULTADO T9

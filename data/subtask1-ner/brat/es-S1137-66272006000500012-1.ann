@@ -1,0 +1,30 @@
+T1	SINTOMA 546 556	consciente
+T2	SINTOMA 558 567	orientada
+T3	SINTOMA 570 580	febricular
+T4	SINTOMA 610 622	rubor facial
+T5	SINTOMA 625 656	inyección conjuntival bilateral
+T6	SINTOMA 1364 1374	linfopenia
+T7	SINTOMA 493 500	cefalea
+T8	SINTOMA 1035 1045	meningismo
+T9	SINTOMA 1052 1072	hepatoesplenomegalia
+T10	SINTOMA 1974 2006	presencia de parásitos hemáticos
+T11	SINTOMA 1616 1636	transaminitis de ALT
+T12	SINTOMA 1415 1435	linfocitos activados
+T13	SINTOMA 1500 1538	pruebas de coagulación fueron normales
+T14	SINTOMA 1649 1698	gota gruesa y la extensión sanguínea fue negativa
+T15	SINTOMA 1756 1782	AcIgM contra CMV negativos
+T16	SINTOMA 1784 1814	AcHBc, AgHBs y AgHBs negativos
+T17	SINTOMA 1816 1851	AcIgM contra P. falciparum negativo
+T18	SINTOMA 1854 1904	AcIgM contra dengue (IFI) que resultaron positivos
+T19	SINTOMA 1281 1299	plaquetas normales
+A1	RESULTADO T6
+A2	RESULTADO T10
+A3	RESULTADO T11
+A4	RESULTADO T12
+A5	RESULTADO T13
+A6	RESULTADO T14
+A7	RESULTADO T15
+A8	RESULTADO T16
+A9	RESULTADO T17
+A10	RESULTADO T18
+A11	RESULTADO T19

@@ -1,0 +1,34 @@
+T1	SINTOMA 2189 2206	exudado amigdalar
+T2	SINTOMA 844 853	exantemas
+T3	SINTOMA 932 951	exudación amigdalar
+T4	SINTOMA 953 968	Abdomen: blando
+T5	SINTOMA 143 153	odinofagia
+T6	SINTOMA 158 164	fiebre
+T7	SINTOMA 1094 1115	focalidad neurológica
+T8	SINTOMA 302 324	comportamiento anómalo
+T9	SINTOMA 329 343	hiperactividad
+T10	SINTOMA 346 369	movimientos compulsivos
+T11	SINTOMA 648 671	alteración del lenguaje
+T12	SINTOMA 674 746	confusión en relación con su familia y el entorno en el que se encuentra
+T13	SINTOMA 756 775	síntomas catarrales
+T14	SINTOMA 778 795	dolor de garganta
+T15	SINTOMA 802 809	afebril
+T16	SINTOMA 1853 1865	asintomático
+T17	SINTOMA 858 895	auscultación cardiopulmonar es normal
+T18	SINTOMA 252 299	confunde algunos nombres de personas que conoce
+T19	SINTOMA 238 249	no recuerda
+T20	SINTOMA 374 394	pierde la conciencia
+T21	SINTOMA 405 433	alteración del tono muscular
+T22	SINTOMA 974 989	visceromegalias
+T23	SINTOMA 994 1070	sensibilidad, el tono, la fuerza y los reflejos osteotendinosos son normales
+T24	SINTOMA 1871 1920	exploración física y neurológica sin alteraciones
+T25	SINTOMA 1934 2008	resonancia magnética craneal y electroencefalograma, que resultan normales
+T26	SINTOMA 1571 1596	clínica neuropsiquiátrica
+T27	SINTOMA 1364 1436	frotis de garganta que es positivo para Streptococcus pyogenes (grupo A)
+T28	SINTOMA 490 511	alteración conductual
+T29	SINTOMA 1682 1701	buen estado general
+T30	SINTOMA 1265 1292	Bioquímica sin alteraciones
+T32	SINTOMA 612 621	tranquilo
+A1	RESULTADO T25
+A2	RESULTADO T27
+A3	RESULTADO T30

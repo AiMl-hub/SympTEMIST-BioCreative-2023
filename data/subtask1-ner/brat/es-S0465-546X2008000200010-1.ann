@@ -1,0 +1,14 @@
+T1	SINTOMA 708 728	enrojecimiento bucal
+T2	SINTOMA 1403 1423	disconfort abdominal
+T3	SINTOMA 1426 1435	disgeusia
+T4	SINTOMA 1738 1750	asintomático
+T5	SINTOMA 1440 1469	exploración física era normal
+T6	SINTOMA 1632 1671	estudio ecográfico abdominal fue normal
+T7	SINTOMA 733 760	quelitis del labio inferior
+T8	SINTOMA 762 774	aftas orales
+T9	SINTOMA 1105 1191	analítica general y unas radiografías simples de tórax y abdomen, que fueron normales,
+T10	SINTOMA 1761 1802	bilirrubina persistía ligeramente elevada
+T11	SINTOMA 777 799	dolor abdominal difuso
+A1	IMAGEN T6
+A2	RESULTADO T9
+A3	RESULTADO T10

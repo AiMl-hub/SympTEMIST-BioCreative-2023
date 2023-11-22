@@ -1,0 +1,46 @@
+T1	SINTOMA 150 168	síndrome miccional
+T2	SINTOMA 989 1003	desorientación
+T3	SINTOMA 2727 2736	dispraxia
+T4	SINTOMA 1293 1302	dispraxia
+T5	SINTOMA 1006 1024	tendencia al sueño
+T6	SINTOMA 2739 2757	tendencia al sueño
+T7	SINTOMA 2208 2241	ligera elevación de transaminasas
+T8	SINTOMA 1304 1322	tendencia al sueño
+T9	SINTOMA 1324 1344	lenguaje incoherente
+T10	SINTOMA 1722 1740	cuadro confusional
+T11	SINTOMA 1896 1914	síntomas centrales
+T12	SINTOMA 1347 1359	obnubilación
+T13	SINTOMA 1939 1948	dispraxia
+T14	SINTOMA 1400 1411	pico febril
+T15	SINTOMA 311 317	pTa G3
+T16	SINTOMA 575 581	pT2 G3
+T17	SINTOMA 2004 2015	somnolencia
+T18	SINTOMA 2018 2030	obnubilación
+T19	SINTOMA 1471 1483	leucocitosis
+T20	SINTOMA 1487 1498	neutrofilia
+T21	SINTOMA 2959 2965	fiebre
+T22	SINTOMA 888 895	pT2a N1
+T23	SINTOMA 2129 2136	afebril
+T24	SINTOMA 1593 1620	TAC cerebral que fue normal
+T25	SINTOMA 3038 3079	alteración severa del nivel de conciencia
+T26	SINTOMA 3510 3564	TAC cerebral y la radiografía de tórax fueron normales
+T27	SINTOMA 1950 2002	dificultad repentina para realizar tareas cotidianas
+T28	SINTOMA 2419 2451	TAC cerebral no mostró anomalías
+T29	SINTOMA 3826 3845	acidosis metabólica
+T30	SINTOMA 1842 1861	deterioro cognitivo
+T31	SINTOMA 3289 3299	leucopenia
+T32	SINTOMA 3304 3315	neutropenia
+T33	SINTOMA 4543 4566	episodios confusionales
+T34	SINTOMA 3610 3630	síndrome confusional
+T35	SINTOMA 1442 1465	hemograma eran normales
+T36	SINTOMA 2310 2355	ondas lentas sobre áreas de ambos hemisferios
+T37	SINTOMA 2095 2099	coma
+A1	RESULTADO T7
+A2	IMAGEN T24
+A3	IMAGEN T26
+A4	IMAGEN T28
+A5	RESULTADO T29
+A6	RESULTADO T31
+A7	RESULTADO T32
+A8	RESULTADO T35
+A9	RESULTADO T36

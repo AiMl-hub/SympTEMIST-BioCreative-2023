@@ -1,0 +1,19 @@
+T1	SINTOMA 542 601	aumento de volumen que comprometía cuerpo y rama mandibular
+T2	SINTOMA 189 228	aumento de volumen en la zona mandibula
+T3	SINTOMA 2599 2647	expansión en la tabla ósea vestibular mandibular
+T4	SINTOMA 1794 1848	desplazamiento inferior del conducto dentario inferior
+T5	SINTOMA 239 251	asintomático
+T6	SINTOMA 722 742	compromiso sensitivo
+T7	SINTOMA 411 431	impotencia funcional
+T8	SINTOMA 757 799	examen funcional mandibular resultó normal
+T9	SINTOMA 1111 1140	lesión radiolúcida unilocular
+T10	SINTOMA 403 408	dolor
+T11	SINTOMA 619 642	indoloro a la palpación
+T12	SINTOMA 996 1019	indoloro a la palpación
+T13	SINTOMA 648 669	compromiso de la piel
+T14	SINTOMA 883 931	aumento de volumen que comprometía cuerpo y rama
+T15	SINTOMA 1477 1553	desplazamiento hacia el borde basilar del germen del primer molar permanente
+T16	SINTOMA 1751 1788	expansión de la tabla ósea vestibular
+A1	IMAGEN T4
+A2	IMAGEN T9
+A3	IMAGEN T16

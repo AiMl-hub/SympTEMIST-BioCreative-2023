@@ -1,0 +1,15 @@
+T1	SINTOMA 341 357	malestar general
+T2	SINTOMA 359 379	sensación distérmica
+T3	SINTOMA 382 416	dolor sordo en hipocondrio derecho
+T4	SINTOMA 488 520	deposiciones de aspecto melénico
+T5	SINTOMA 564 629	palpación abdominal discretamente dolorosa en hipocondrio derecho
+T6	SINTOMA 1529 1547	material purulento
+T7	SINTOMA 424 472	alteraciones recientes en el tránsito intestinal
+T8	SINTOMA 474 485	rectorragia
+T9	SINTOMA 1669 1749	cultivo microbiológico y el estudio de parásitos en el aspirado fueron negativos
+T10	SINTOMA 910 1066	serologías para virus hepatotropos, Brucella y Equinococcus, así como los hemocultivos seriados y la determinación de marcadores tumorales, fueron negativos
+T11	SINTOMA 1272 1413	tomografía computadorizada (TC) abdómino-pélvica con contraste se confirmó esta imagen, que presentaba zonas hipodensas con realce periférico
+A1	RESULTADO T6
+A2	RESULTADO T9
+A3	RESULTADO T10
+A4	IMAGEN T11

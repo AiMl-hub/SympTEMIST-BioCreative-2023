@@ -1,0 +1,17 @@
+T1	SINTOMA 132 138	fiebre
+T2	SINTOMA 142 160	síndrome miccional
+T3	SINTOMA 231 277	Eco renal y testículo-prostática sin hallazgos
+T4	SINTOMA 290 319	deterioro de la función renal
+T5	SINTOMA 720 768	serología viral y marcadores tumorales, normales
+T6	SINTOMA 377 388	proteinuria
+T7	SINTOMA 71 126	dolor en teste izquierdo irradiado a flanco ipsilateral
+T8	SINTOMA 393 409	sedimento activo
+T9	SINTOMA 770 847	Proteinograma-inmunofijación con banda monoclonal inmunoglobulina (Ig)A-kappa
+T10	SINTOMA 1040 1094	Perfil hepático, lipídico y resto de hemograma, normal
+A1	IMAGEN T3
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T6
+A5	RESULTADO T8
+A6	RESULTADO T9
+A7	RESULTADO T10

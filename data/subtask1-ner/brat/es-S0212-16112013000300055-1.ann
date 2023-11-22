@@ -1,0 +1,16 @@
+T1	SINTOMA 1199 1223	deposiciones semiblandas
+T2	SINTOMA 1233 1240	vómitos
+T3	SINTOMA 2289 2295	edemas
+T4	SINTOMA 2328 2347	buen estado general
+T5	SINTOMA 1445 1464	palidez mucocutánea
+T6	SINTOMA 883 919	edematización de miembros inferiores
+T7	SINTOMA 1416 1440	aceptable estado general
+T8	SINTOMA 1563 1572	sobrepeso
+T9	SINTOMA 2255 2262	estable
+T10	SINTOMA 1093 1115	hipoalbuminemia severa
+T11	SINTOMA 1626 1685	Extremidades inferiores con edemas con fóvea hasta rodillas
+T12	SINTOMA 1882 1892	ferropenia
+T13	SINTOMA 2400 2458	densitometría ósea realizada durante su ingreso fue normal
+A1	RESULTADO T10
+A2	RESULTADO T12
+A3	IMAGEN T13

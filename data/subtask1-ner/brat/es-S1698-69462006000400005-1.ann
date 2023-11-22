@@ -1,0 +1,10 @@
+T1	SINTOMA 3107 3147	disminución progresiva de agudeza visual
+T2	SINTOMA 2614 2627	masa en riñón
+T3	SINTOMA 2693 2735	características radiológicas de malignidad
+T4	SINTOMA 2155 2196	aumento de tamaño progresivo del tiroides
+T5	SINTOMA 459 485	lengua de aspecto escrotal
+T6	SINTOMA 698 739	aspecto empedrado de las lesiones mucosas
+T7	SINTOMA 3665 3701	mutación c1093lnaGGAT en el gen PTEN
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	RESULTADO T7

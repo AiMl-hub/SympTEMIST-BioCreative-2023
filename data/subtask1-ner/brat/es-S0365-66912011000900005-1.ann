@@ -1,0 +1,11 @@
+T1	SINTOMA 112 120	nistagmo
+T2	SINTOMA 1176 1186	ortotropia
+T3	SINTOMA 416 435	nistagmo horizontal
+T4	SINTOMA 447 476	tono ocular digital aumentado
+T5	SINTOMA 600 623	pirámide nasal estrecha
+T6	SINTOMA 648 666	alas nasales finas
+T7	SINTOMA 1306 1326	signos inflamatorios
+T8	SINTOMA 628 645	narinas estrechas
+T9	SINTOMA 1192 1230	buena fijación y seguimiento de la luz
+T10	SINTOMA 520 558	papilas de características conservadas
+A1	RESULTADO T10

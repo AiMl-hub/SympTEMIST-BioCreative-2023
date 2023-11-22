@@ -1,0 +1,20 @@
+T1	SINTOMA 1106 1115	febrícula
+T2	SINTOMA 95 122	lesiones cutáneas en tronco
+T3	SINTOMA 1117 1128	decaimiento
+T4	SINTOMA 1131 1162	dolor a la palpación de la piel
+T5	SINTOMA 172 179	Afebril
+T6	SINTOMA 839 855	exudado faríngeo
+T7	SINTOMA 867 874	afebril
+T8	SINTOMA 886 891	dolor
+T9	SINTOMA 360 377	exudado amigdalar
+T10	SINTOMA 125 145	prurito generalizado
+T11	SINTOMA 1668 1695	hemocultivo resulta estéril
+T12	SINTOMA 1178 1190	leucocitosis
+T13	SINTOMA 1208 1219	neutrofilia
+T14	SINTOMA 382 432	test rápido de estreptococo en faringe es negativo
+T15	SINTOMA 1554 1663	Se aísla Staphylococcus aureus meticilin-sensible en el exudado conjuntival, faríngeo y en una lesión cutánea
+A1	RESULTADO T11
+A2	RESULTADO T12
+A3	RESULTADO T13
+A4	RESULTADO T14
+A5	RESULTADO T15

@@ -1,0 +1,12 @@
+T1	SINTOMA 62 69	diarrea
+T2	SINTOMA 327 392	masa hepática con crecimiento exofítico hacia fosa iliaca derecha
+T3	SINTOMA 1001 1013	asintomática
+T4	SINTOMA 72 88	síndrome general
+T5	SINTOMA 426 480	páncreas, bazo, riñones, útero y ovarios eran normales
+T6	SINTOMA 486 535	serologías de virus hepatotropos fueron negativas
+T7	SINTOMA 542 616	niveles séricos de alfafetoproteína se encontraban dentro de la normalidad
+T8	SINTOMA 152 188	masa palpable en fosa iliaca derecha
+A1	IMAGEN T2
+A2	IMAGEN T5
+A3	RESULTADO T6
+A4	RESULTADO T7

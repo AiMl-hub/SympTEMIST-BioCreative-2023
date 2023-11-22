@@ -1,0 +1,26 @@
+T1	SINTOMA 1124 1132	delgadez
+T2	SINTOMA 1840 1872	livideces en miembros inferiores
+T3	SINTOMA 891 912	sensación de plenitud
+T4	SINTOMA 914 921	náuseas
+T5	SINTOMA 1207 1235	abdomen globuloso, timpánico
+T6	SINTOMA 1875 1901	debilidad de pulsos pedios
+T7	SINTOMA 924 931	vómitos
+T8	SINTOMA 947 982	ingerido gran cantidad de alimentos
+T9	SINTOMA 172 193	dolor abdominal agudo
+T10	SINTOMA 1042 1048	vómito
+T11	SINTOMA 399 405	estrés
+T12	SINTOMA 1241 1268	escasos ruidos intestinales
+T13	SINTOMA 2353 2369	nivel hidroaéreo
+T14	SINTOMA 828 843	dolor abdominal
+T15	SINTOMA 2101 2120	acidosis metabólica
+T16	SINTOMA 3064 3108	disminución de volumen de la cámara gástrica
+T17	SINTOMA 348 367	atracones de comida
+T18	SINTOMA 530 539	atracones
+T19	SINTOMA 762 778	vómito provocado
+T20	SINTOMA 1799 1807	preshock
+T21	SINTOMA 2560 2631	bajo coeficiente de atenuación que se identifican en páncreas y riñones
+T22	SINTOMA 3641 3664	buena situación clínica
+A1	IMAGEN T13
+A2	RESULTADO T15
+A3	IMAGEN T16
+A4	IMAGEN T21

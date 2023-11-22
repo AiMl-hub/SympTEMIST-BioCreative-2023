@@ -1,0 +1,7 @@
+T1	SINTOMA 55 91	disminución reciente de visión en OD
+T2	SINTOMA 1582 1614	inflamación intraocular moderada
+T3	SINTOMA 605 628	cristalino transparente
+T4	SINTOMA 1892 1926	pupila ovalada en sentido vertical
+T5	SINTOMA 853 966	OCT muestra una pared anterior fina en contacto discontinuo con el endotelio corneal y contenido claro del quiste
+A1	RESULTADO T4
+A2	IMAGEN T5

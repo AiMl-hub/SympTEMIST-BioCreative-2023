@@ -1,0 +1,8 @@
+T1	SINTOMA 220 235	ojo rojo, dolor
+T2	SINTOMA 262 303	infiltrado corneal periférico en semiluna
+T3	SINTOMA 694 712	infiltrado corneal
+T4	SINTOMA 327 363	Cultivo del raspado corneal negativo
+T5	SINTOMA 238 247	fotofobia
+T6	SINTOMA 46 126	títulos altos de factor reumatoide y anticuerpos antipéptido cíclico citrulinado
+A1	RESULTADO T4
+A2	RESULTADO T6

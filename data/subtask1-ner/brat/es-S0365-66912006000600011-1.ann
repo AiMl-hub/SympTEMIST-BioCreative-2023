@@ -1,0 +1,13 @@
+T1	SINTOMA 66 77	mala visión
+T2	SINTOMA 110 121	talla corta
+T3	SINTOMA 897 936	ángulo estrecho simétrico en ambos ojos
+T4	SINTOMA 629 657	cámara anterior era estrecha
+T5	SINTOMA 470 510	motilidad ocular extrínseca e intrínseca
+T6	SINTOMA 672 698	iridofacodonesis bilateral
+T7	SINTOMA 735 809	desplazamiento anterior de ambos cristalinos dentro de la cámara posterior
+T8	SINTOMA 1067 1105	fondo de ojo no mostraron alteraciones
+T9	SINTOMA 432 450	diplopía monocular
+T10	SINTOMA 1127 1141	cierre angular
+T11	SINTOMA 1281 1289	diplopía
+T12	SINTOMA 1789 1794	sanos
+A1	RESULTADO T8

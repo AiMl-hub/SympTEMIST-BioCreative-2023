@@ -1,0 +1,16 @@
+T1	SINTOMA 1443 1451	malestar
+T2	SINTOMA 1453 1458	mareo
+T3	SINTOMA 1461 1476	cefalea intensa
+T4	SINTOMA 2182 2191	debilidad
+T5	SINTOMA 2198 2231	movimiento de vaivén de la cabeza
+T6	SINTOMA 324 413	dolor quemante, de intensidad moderada a severa, todos los días en su extremidad superior
+T7	SINTOMA 1825 1830	mareo
+T8	SINTOMA 1833 1839	fatiga
+T9	SINTOMA 1855 1870	dolor de cabeza
+T10	SINTOMA 1873 1877	hipo
+T11	SINTOMA 518 580	edema, cambios de color y cambios tróficos en dicha extremidad
+T12	SINTOMA 659 682	neurológicamente normal
+T13	SINTOMA 1557 1576	taquicardia sinusal
+T14	SINTOMA 1930 2017	ECG, examen neurológico y una TAC craneal, estos exámenes no revelaron ninguna anomalía
+T15	SINTOMA 629 657	buen estado general de salud
+A1	RESULTADO T14

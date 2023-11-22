@@ -1,0 +1,15 @@
+T1	SINTOMA 527 545	nódulo mesentérico
+T2	SINTOMA 87 119	infiltrados nodulares pulmonares
+T3	SINTOMA 193 199	fiebre
+T4	SINTOMA 202 217	dolor abdominal
+T5	SINTOMA 2318 2330	masa ovárica
+T6	SINTOMA 222 234	masa anexial
+T7	SINTOMA 273 285	masa ovárica
+T8	SINTOMA 848 866	nódulo mesentérico
+T9	SINTOMA 412 431	tumoración en muslo
+T10	SINTOMA 38 50	HIV negativo
+T11	SINTOMA 2249 2257	falleció
+T12	SINTOMA 1759 1776	nódulos tumorales
+A1	IMAGEN T2
+A2	RESULTADO T10
+A3	EXITUS T11

@@ -1,0 +1,19 @@
+T1	SINTOMA 278 284	fiebre
+T2	SINTOMA 286 297	escalofríos
+T3	SINTOMA 332 343	neutropenia
+T4	SINTOMA 367 380	plaquetopenia
+T5	SINTOMA 2076 2140	positivas con las técnicas de PAS y plata metanamina para hongos
+T6	SINTOMA 300 307	melenas
+T7	SINTOMA 714 729	sangrado activo
+T8	SINTOMA 481 506	hemorragia digestiva baja
+T9	SINTOMA 1123 1169	engrosamiento de la pared intestinal en yeyuno
+T10	SINTOMA 1255 1319	afectación lítica en cuerpos vertebrales a nivel dorsal y lumbar
+T11	SINTOMA 1485 1514	plastrón localizado en yeyuno
+T12	SINTOMA 2244 2248	vivo
+A1	RESULTADO T3
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T7
+A5	IMAGEN T9
+A6	IMAGEN T10
+A7	IMAGEN T11

@@ -1,0 +1,11 @@
+T1	SINTOMA 105 149	parestesias en ambas extremidades superiores
+T2	SINTOMA 165 176	somnolencia
+T3	SINTOMA 409 419	consciente
+T4	SINTOMA 422 431	orientado
+T5	SINTOMA 437 455	tendencia al sueño
+T6	SINTOMA 469 477	cianosis
+T7	SINTOMA 1581 1606	hemodinamicamente estable
+T8	SINTOMA 721 809	RX de tórax y electrocardiograma) no se hallaron alteraciones patológicas significativas
+T9	SINTOMA 1223 1257	metahemoglobina continuaba elevado
+A1	RESULTADO T8
+A2	RESULTADO T9

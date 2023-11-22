@@ -1,0 +1,10 @@
+T1	SINTOMA 685 713	hematomas en hombro y glúteo
+T2	SINTOMA 774 808	prominencia de las venas cefálicas
+T3	SINTOMA 468 515	serología positiva (IgM) para el Parvovirus B19
+T4	SINTOMA 2034 2091	fenotipo HPA-1a negativo materno y positivo en el neonato
+T5	SINTOMA 2118 2159	anticuerpos con especificidad anti-HPA-1a
+T6	SINTOMA 579 598	buen estado general
+T7	SINTOMA 743 771	fontanela anterior a tensión
+A1	RESULTADO T3
+A2	RESULTADO T4
+A3	RESULTADO T5

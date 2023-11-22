@@ -1,0 +1,21 @@
+T1	SINTOMA 2630 2664	infiltrados alveolares bilaterales
+T2	SINTOMA 2676 2699	oligoperfusión pulmonar
+T3	SINTOMA 2707 2760	lavado broncoalveolar se aisló Pseudomonas aeruginosa
+T4	SINTOMA 400 427	curva ponderal era adecuada
+T5	SINTOMA 1029 1037	cianosis
+T6	SINTOMA 1198 1276	determinación de virus respiratorio sincitial (VRS) en moco nasal fue negativa
+T7	SINTOMA 1306 1328	oligoanuria progresiva
+T8	SINTOMA 1333 1351	edema generalizado
+T9	SINTOMA 1039 1062	crepitantes bilaterales
+T10	SINTOMA 784 797	diarrea grave
+T11	SINTOMA 1010 1027	disnea progresiva
+T12	SINTOMA 2884 2890	edemas
+T13	SINTOMA 1067 1078	sibilancias
+T14	SINTOMA 226 253	peso adecuado al nacimiento
+T15	SINTOMA 1737 1751	soplo cardíaco
+T16	SINTOMA 2069 2081	desaturación
+T17	SINTOMA 2084 2095	hipotensión
+A1	IMAGEN T1
+A2	IMAGEN T2
+A3	RESULTADO T3
+A4	RESULTADO T6

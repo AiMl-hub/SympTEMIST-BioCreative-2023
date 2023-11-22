@@ -1,0 +1,35 @@
+T1	SINTOMA 569 609	deterioro importante de la función renal
+T2	SINTOMA 634 658	elevación marcada de PTH
+T3	SINTOMA 450 462	deshidratado
+T4	SINTOMA 464 471	confuso
+T5	SINTOMA 473 486	bradipsíquico
+T6	SINTOMA 493 507	temblor distal
+T7	SINTOMA 1742 1786	nódulos hipodensos suprarrenales bilaterales
+T8	SINTOMA 2449 2461	asintomático
+T9	SINTOMA 340 362	debilidad generalizada
+T10	SINTOMA 1596 1615	masa retroesofágica
+T11	SINTOMA 1360 1395	proteinuria de Bence-Jones negativa
+T12	SINTOMA 1493 1517	riñones de tamaño normal
+T13	SINTOMA 1520 1559	adecuada diferenciación cortico-medular
+T14	SINTOMA 1914 1961	catecolaminas y metanefrinas en orina negativas
+T15	SINTOMA 311 337	inestabilidad de la marcha
+T16	SINTOMA 2467 2484	calcemia en rango
+T17	SINTOMA 1320 1358	componente monoclonal en proteinograma
+T18	SINTOMA 835 871	severidad de la clínica neurológica,
+T19	SINTOMA 1104 1117	hipercalcemia
+T20	SINTOMA 1408 1441	infecciosa (serologías negativas)
+T21	SINTOMA 2204 2232	síndrome de hueso hambriento
+T22	SINTOMA 2310 2329	hipocalcemia severa
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	IMAGEN T7
+A4	IMAGEN T10
+A5	RESULTADO T11
+A6	IMAGEN T12
+A7	IMAGEN T13
+A8	RESULTADO T14
+A9	RESULTADO T16
+A10	RESULTADO T17
+A11	RESULTADO T19
+A12	RESULTADO T20
+A13	RESULTADO T22

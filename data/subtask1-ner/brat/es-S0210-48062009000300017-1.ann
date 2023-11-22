@@ -1,0 +1,13 @@
+T1	SINTOMA 2147 2202	dolor en hombro de súbita aparición y severa intensidad
+T2	SINTOMA 1020 1057	normalidad de los estudios urológicos
+T3	SINTOMA 2207 2212	dolor
+T4	SINTOMA 2713 2759	a nivel del cardias masa mamelonada y ulcerada
+T5	SINTOMA 2993 3004	falleciendo
+T6	SINTOMA 131 146	dolor en glande
+T7	SINTOMA 411 459	alteraciones tróficas en extremidades inferiores
+T8	SINTOMA 713 802	determinación de PSA, realización de ecografías etc. sin aportar estos estudios anomalías
+T9	SINTOMA 865 936	dos tercios anteriores del glande se encuentras tumefactos, endurecidos
+T11	SINTOMA 972 979	exudado
+A1	RESULTADO T4
+A2	EXITUS T5
+A3	RESULTADO T8

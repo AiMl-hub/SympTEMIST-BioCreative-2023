@@ -1,0 +1,13 @@
+T1	SINTOMA 327 356	deterioro de la función renal
+T2	SINTOMA 439 450	oligoanuria
+T3	SINTOMA 793 802	hematuria
+T4	SINTOMA 805 811	piuria
+T5	SINTOMA 717 737	anisopoiquilocitosis
+T6	SINTOMA 994 1043	anticuerpos irregulares de especificidad anti-Tja
+T7	SINTOMA 742 754	policromasia
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T7

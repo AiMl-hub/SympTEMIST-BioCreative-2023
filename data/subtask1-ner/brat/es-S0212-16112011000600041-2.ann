@@ -1,0 +1,10 @@
+T1	SINTOMA 235 276	aumento paulatino del perímetro abdominal
+T2	SINTOMA 301 334	edemas en extremidades inferiores
+T3	SINTOMA 398 418	coagulación alterada
+T4	SINTOMA 634 655	circulación colateral
+T5	SINTOMA 743 785	estudio virológico para hepatitis negativo
+T6	SINTOMA 658 665	ascitis
+A1	RESULTADO T3
+A2	IMAGEN T4
+A3	RESULTADO T5
+A4	IMAGEN T6

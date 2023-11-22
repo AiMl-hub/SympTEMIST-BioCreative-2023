@@ -1,0 +1,19 @@
+T1	SINTOMA 44 70	dolor en el hueco poplíteo
+T2	SINTOMA 73 80	vómitos
+T3	SINTOMA 250 284	constantes vitales fueron normales
+T4	SINTOMA 349 440	analítica sanguínea mostró normalidad iónica, hematológica y de la función renal y hepática
+T5	SINTOMA 771 778	vómitos
+T6	SINTOMA 840 855	dolor abdominal
+T7	SINTOMA 860 867	astenia
+T8	SINTOMA 869 876	vómitos
+T9	SINTOMA 878 897	trastornos visuales
+T10	SINTOMA 900 908	oliguria
+T11	SINTOMA 1059 1069	midriática
+T12	SINTOMA 1071 1078	anúrica
+T13	SINTOMA 1582 1601	acidosis metabólica
+T14	SINTOMA 1646 1660	hiperpotasemia
+T15	SINTOMA 1784 1792	falleció
+A1	RESULTADO T4
+A2	RESULTADO T13
+A3	RESULTADO T14
+A4	EXITUS T15

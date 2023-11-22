@@ -1,0 +1,22 @@
+T1	SINTOMA 1159 1165	T3N0M0
+T2	SINTOMA 1282 1311	dolor e induración en el pene
+T3	SINTOMA 1899 1936	incremento progresivo del dolor local
+T4	SINTOMA 194 203	hematuria
+T5	SINTOMA 1366 1370	masa
+T6	SINTOMA 1448 1502	masa que ocupa y expande el cuerpo cavernoso izquierdo
+T7	SINTOMA 305 315	masa renal
+T8	SINTOMA 2394 2412	nódulos pulmonares
+T9	SINTOMA 2187 2199	obnubilación
+T10	SINTOMA 410 420	tumoración
+T11	SINTOMA 525 558	afectación del seno e hilio renal
+T12	SINTOMA 1964 1983	buen estado general
+T13	SINTOMA 2202 2231	alteración motora y sensitiva
+T14	SINTOMA 2499 2506	fallece
+T18	SINTOMA 2068 2104	borde quirúrgico libre de enfermedad
+A1	IMAGEN T1
+A2	IMAGEN T6
+A3	IMAGEN T7
+A4	IMAGEN T8
+A5	IMAGEN T10
+A6	IMAGEN T11
+A7	EXITUS T14

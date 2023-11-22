@@ -1,0 +1,11 @@
+T1	SINTOMA 824 832	ojo rojo
+T2	SINTOMA 834 861	dolor intenso periorbitario
+T3	SINTOMA 864 873	fotofobia
+T4	SINTOMA 884 934	infiltrado corneal periférico superior en semiluna
+T5	SINTOMA 1438 1456	infiltrado corneal
+T6	SINTOMA 997 1033	cultivo del raspado corneal negativo
+T7	SINTOMA 1412 1417	dolor
+T8	SINTOMA 655 718	cultivo de líquido sinovial positivo para Staphylococcus aureus
+T9	SINTOMA 939 962	adelgazamiento estromal
+A1	RESULTADO T6
+A2	RESULTADO T8

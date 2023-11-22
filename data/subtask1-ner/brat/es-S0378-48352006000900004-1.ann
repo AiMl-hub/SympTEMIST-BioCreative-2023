@@ -1,0 +1,11 @@
+T1	SINTOMA 1096 1197	incremento de la captación en la región del tumor esternal y ambas articulaciones esternoclaviculares
+T2	SINTOMA 381 438	tumoración de 5-6 cm. de diámetro en el manubrio esternal
+T3	SINTOMA 421 463	manubrio esternal con destrucción cortical
+T4	SINTOMA 627 705	estudio de las inmunoglobulinas (IgG, IgA, IgM y beta 2 microglobulina) normal
+T5	SINTOMA 1319 1343	proteínas de Bence-Jones
+T6	SINTOMA 123 165	tumoración de rápido crecimiento, indolora
+A1	IMAGEN T1
+A2	IMAGEN T2
+A3	IMAGEN T3
+A4	RESULTADO T4
+A5	RESULTADO T5

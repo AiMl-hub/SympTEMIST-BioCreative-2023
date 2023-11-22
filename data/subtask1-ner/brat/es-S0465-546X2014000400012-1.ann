@@ -1,0 +1,5 @@
+T1	SINTOMA 800 805	edema
+T2	SINTOMA 597 606	secreción
+T3	SINTOMA 658 694	crecimiento de Staphylococcus Aureus
+T4	SINTOMA 586 594	flogosis
+A1	RESULTADO T3

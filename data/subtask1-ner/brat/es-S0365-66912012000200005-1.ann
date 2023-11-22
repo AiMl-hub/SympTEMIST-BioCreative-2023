@@ -1,0 +1,27 @@
+T1	SINTOMA 567 592	orina reveló hipodensidad
+T2	SINTOMA 34 70	alteraciones en la visión periférica
+T3	SINTOMA 816 849	dilatación del ventrículo lateral
+T4	SINTOMA 1987 2090	papila ligeramente verticalizada con palidez en región temporal acompañada de atrofia peripapilar en OD
+T5	SINTOMA 861 985	afectación periventricular del tercer ventrículo, del hipotálamo, así como de la región del quiasma y de los nervios ópticos
+T6	SINTOMA 2096 2143	OI palidez total y atrofia peripapilar temporal
+T7	SINTOMA 367 437	defecto arciforme superior con algunas alteraciones periféricas en ojo
+T8	SINTOMA 2195 2314	disminución de la capa de fibras nerviosas en cuadrante superior, nasal e inferior en OD y en todos los sectores del OI
+T9	SINTOMA 2439 2487	leve aumento de las latencias al estimular el OI
+T10	SINTOMA 1812 1819	estable
+T11	SINTOMA 253 301	presión intraocular y fondo de ojo (FO) normales
+T12	SINTOMA 456 549	ojo izquierdo (OI) se apreciaba un defecto altitudinal superior así como defectos periféricos
+T13	SINTOMA 667 689	FSH y LH indetectables
+T14	SINTOMA 691 769	testosterona y la hormona de crecimiento en niveles inferiores a la normalidad
+T15	SINTOMA 1604 1662	disminución de las hormonas de crecimiento y antidiurética
+T16	SINTOMA 2386 2421	disminución en todas las respuestas
+T17	SINTOMA 1852 1873	alteraciones en el CV
+A1	RESULTADO T1
+A2	IMAGEN T3
+A3	IMAGEN T5
+A4	IMAGEN T8
+A5	RESULTADO T9
+A6	RESULTADO T11
+A7	RESULTADO T13
+A8	RESULTADO T14
+A9	RESULTADO T15
+A10	RESULTADO T16

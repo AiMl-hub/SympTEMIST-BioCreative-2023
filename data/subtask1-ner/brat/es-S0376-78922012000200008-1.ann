@@ -1,0 +1,10 @@
+T1	SINTOMA 1233 1297	depresión a nivel del borde medial de la cicatriz de mastectomía
+T2	SINTOMA 2278 2337	interior de la prótesis mamaria una imagen ovoidea quística
+T3	SINTOMA 2483 2567	en la prótesis una imagen nodular, localizada en la zona de intercuadrantes internos
+T4	SINTOMA 2651 2671	signos inflamatorios
+T5	SINTOMA 186 217	receptores hormonales positivos
+T6	SINTOMA 2618 2645	imagen de contenido líquido
+A1	IMAGEN T2
+A2	IMAGEN T3
+A3	RESULTADO T5
+A4	IMAGEN T6

@@ -1,0 +1,24 @@
+T1	SINTOMA 348 354	disnea
+T2	SINTOMA 357 381	expectoración hemoptoica
+T3	SINTOMA 443 452	febrícula
+T4	SINTOMA 497 528	roncus y sibilantes bilaterales
+T5	SINTOMA 892 921	patrón micronodular bilateral
+T6	SINTOMA 1024 1057	afectación intersticial bilateral
+T7	SINTOMA 1246 1311	formaciones mamelonadas en su interior a nivel de lóbulo superior
+T8	SINTOMA 926 967	conglomerados en ambos lóbulos superiores
+T9	SINTOMA 1474 1507	cultivo de lowestein fue negativo
+T10	SINTOMA 1513 1568	cultivo para hongos positivo para Aspergillus fumigatus
+T11	SINTOMA 1120 1160	masas de fibrosis masiva progresiva (FMP
+T12	SINTOMA 1179 1189	cavitación
+T13	SINTOMA 1342 1398	fibrobroncoscopia que no mostró hallazgos significativos
+T14	SINTOMA 1404 1455	citología del broncoaspirado no demostró malignidad
+A1	IMAGEN T5
+A2	IMAGEN T6
+A3	IMAGEN T7
+A4	IMAGEN T8
+A5	RESULTADO T9
+A6	RESULTADO T10
+A7	IMAGEN T11
+A8	IMAGEN T12
+A9	RESULTADO T13
+A10	RESULTADO T14

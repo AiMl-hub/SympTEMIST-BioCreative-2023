@@ -1,0 +1,20 @@
+T1	SINTOMA 447 517	valores séricos de la hormona paratiroidea intacta (iPTH) fueron altos
+T2	SINTOMA 744 772	niveles más elevados de iPTH
+T3	SINTOMA 2371 2400	supresión excesiva de la iPTH
+T4	SINTOMA 856 935	imagen seudonodular hiperecogénica en la zona posteromedial del lóbulo tiroideo
+T5	SINTOMA 3029 3031	CV
+T6	SINTOMA 3037 3061	calcificaciones lineales
+T7	SINTOMA 3095 3122	calcificaciones irregulares
+T8	SINTOMA 1044 1112	signos de hiperparatiroidismo en los huesos de ambas manos y muñecas
+T9	SINTOMA 1115 1158	CV en las arterias radiales e interdigitale
+T10	SINTOMA 1202 1204	CV
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	IMAGEN T4
+A5	IMAGEN T5
+A6	IMAGEN T6
+A7	IMAGEN T7
+A8	IMAGEN T8
+A9	IMAGEN T9
+A10	IMAGEN T10

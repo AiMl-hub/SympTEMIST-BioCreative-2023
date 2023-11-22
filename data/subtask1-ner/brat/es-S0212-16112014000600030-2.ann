@@ -1,0 +1,8 @@
+T1	SINTOMA 646 659	mucho apetito
+T2	SINTOMA 731 742	perder peso
+T3	SINTOMA 1290 1297	vómitos
+T4	SINTOMA 426 446	hipertrigliceridemia
+T5	SINTOMA 1322 1335	menos apetito
+T6	SINTOMA 1569 1587	déficit vitamínico
+A1	RESULTADO T4
+A2	RESULTADO T6

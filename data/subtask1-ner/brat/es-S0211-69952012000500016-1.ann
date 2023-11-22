@@ -1,0 +1,49 @@
+T1	SINTOMA 66 99	elevación de la creatinina sérica
+T2	SINTOMA 373 381	disfagia
+T3	SINTOMA 384 403	pesadez posprandial
+T4	SINTOMA 415 449	manifestaciones gastrointestinales
+T5	SINTOMA 514 532	episodios febriles
+T6	SINTOMA 846 871	Exploración física normal
+T7	SINTOMA 1690 1701	proteinuria
+T8	SINTOMA 1716 1727	albuminuria
+T9	SINTOMA 2396 2423	síntomas gastrointestinales
+T10	SINTOMA 2425 2433	disfagia
+T11	SINTOMA 2435 2444	dispepsia
+T12	SINTOMA 3258 3269	proteinuria
+T13	SINTOMA 4179 4189	leucopenia
+T14	SINTOMA 3113 3133	signos inflamatorios
+T15	SINTOMA 1210 1236	Factor reumatoide negativo
+T16	SINTOMA 1782 1807	Sedimento de orina normal
+T17	SINTOMA 1809 1882	Radiografías de tórax y columna vertebral sin alteraciones significativas
+T18	SINTOMA 1884 1938	Ecografía abdominal, renal y de vías urinarias: normal
+T19	SINTOMA 2109 2120	proteinuria
+T20	SINTOMA 2232 2243	proteinuria
+T21	SINTOMA 1088 1132	iones, enzimas hepáticas y lípidos: normales
+T22	SINTOMA 1134 1208	Proteínas totales, proteinograma, inmunoglobulinas y complemento: normales
+T23	SINTOMA 2135 2146	albuminuria
+T24	SINTOMA 459 500	dolor lumbar de características mecánicas
+T25	SINTOMA 534 555	inflamación articular
+T26	SINTOMA 294 315	deficiencia de hierro
+T27	SINTOMA 318 341	reflujo gastroesofágico
+T28	SINTOMA 1308 1457	anticuerpos antinucleares, anticuerpos anti-DNA, anticuerpos anticitoplásmicos de neutrófilos y antígenos de histocompatibilidad-B27 fueron negativos
+T29	SINTOMA 2262 2315	deficiencias de hierro y vitaminas B12 y ácido fólico
+T30	SINTOMA 2485 2519	deficiencias de hierro y vitaminas
+T31	SINTOMA 3923 3929	fiebre
+A1	RESULTADO T1
+A2	RESULTADO T7
+A3	RESULTADO T8
+A4	RESULTADO T12
+A5	RESULTADO T13
+A6	RESULTADO T15
+A7	RESULTADO T16
+A8	IMAGEN T17
+A9	IMAGEN T18
+A10	RESULTADO T19
+A11	RESULTADO T20
+A12	RESULTADO T21
+A13	RESULTADO T22
+A14	RESULTADO T23
+A15	RESULTADO T26
+A16	RESULTADO T28
+A17	RESULTADO T29
+A18	RESULTADO T30

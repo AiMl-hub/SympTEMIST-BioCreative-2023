@@ -1,0 +1,5 @@
+T1	SINTOMA 348 368	tumoración exofítica
+T2	SINTOMA 811 821	tumoración
+T3	SINTOMA 409 431	mucosa vesical íntegra
+A1	IMAGEN T1
+A2	IMAGEN T3

@@ -1,0 +1,8 @@
+T1	SINTOMA 124 156	disminución de la agudeza visual
+T2	SINTOMA 1690 1747	mutación 2785+3 del AAGT en el intrón 19 del gen Jagged 1
+T3	SINTOMA 1877 1954	agudeza visual de percepción de luz en OD y 0,1 con fijación excéntrica en OI
+T4	SINTOMA 418 439	embriotoxon posterior
+T5	SINTOMA 621 682	coroides con límites precisos que abarca todo el área macular
+A1	RESULTADO T2
+A2	RESULTADO T4
+A3	RESULTADO T5

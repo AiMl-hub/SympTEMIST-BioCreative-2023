@@ -1,0 +1,7 @@
+T1	SINTOMA 60 81	hemiparesia izquierda
+T2	SINTOMA 1560 1615	síntomas neurológicos en territorio carotídeo izquierdo
+T3	SINTOMA 449 468	signos de disección
+T4	SINTOMA 502 525	suplencia contralateral
+T5	SINTOMA 1461 1488	permeabilidad de la arteria
+A1	IMAGEN T3
+A2	IMAGEN T4

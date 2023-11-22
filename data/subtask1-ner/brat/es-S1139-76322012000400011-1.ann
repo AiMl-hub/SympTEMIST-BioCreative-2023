@@ -1,0 +1,8 @@
+T1	SINTOMA 79 101	hematuria macroscópica
+T2	SINTOMA 141 148	disuria
+T3	SINTOMA 193 199	fiebre
+T4	SINTOMA 831 853	engrosamiento parietal
+T5	SINTOMA 341 370	exploración física es anodina
+T6	SINTOMA 709 774	estudio microbiológico demostró huevos de Schistosoma haematobium
+A1	IMAGEN T4
+A2	RESULTADO T6

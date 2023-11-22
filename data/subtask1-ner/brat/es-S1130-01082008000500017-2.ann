@@ -1,0 +1,24 @@
+T1	SINTOMA 828 841	masa hepática
+T2	SINTOMA 132 139	vómitos
+T3	SINTOMA 142 157	dolor abdominal
+T4	SINTOMA 189 196	astenia
+T5	SINTOMA 199 207	anorexia
+T6	SINTOMA 236 264	molestias difusas en abdomen
+T7	SINTOMA 462 518	dolor a la palpación en epigastrio e hipocondrio derecho
+T8	SINTOMA 619 640	irritación peritoneal
+T9	SINTOMA 718 738	hipertransaminasemia
+T10	SINTOMA 406 430	aceptable estado general
+T11	SINTOMA 499 556	hipocondrio derecho, palpándose una zona de empastamiento
+T12	SINTOMA 1236 1247	falleciendo
+T13	SINTOMA 340 347	vómitos
+T14	SINTOMA 895 912	nódulos satélites
+T15	SINTOMA 535 576	zona de empastamiento compatible con masa
+T16	SINTOMA 663 681	defensa voluntaria
+T17	SINTOMA 745 762	leve coagulopatía
+T18	SINTOMA 933 957	naturaleza hipervascular
+A1	IMAGEN T1
+A2	RESULTADO T9
+A3	EXITUS T12
+A4	IMAGEN T14
+A5	RESULTADO T17
+A6	IMAGEN T18

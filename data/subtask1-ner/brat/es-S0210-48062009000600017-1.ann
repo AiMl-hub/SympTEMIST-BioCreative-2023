@@ -1,0 +1,26 @@
+T1	SINTOMA 164 173	lumbalgia
+T2	SINTOMA 1859 1878	buena función renal
+T3	SINTOMA 176 187	polaquiuria
+T4	SINTOMA 587 628	cultivo de Lowestein positivo en la orina
+T5	SINTOMA 893 918	riñón derecho sin función
+T6	SINTOMA 106 140	incontinencia urinaria de esfuerzo
+T7	SINTOMA 276 313	parénquima renal izquierdo conservado
+T8	SINTOMA 316 364	riñón derecho de cortical fina y desestructurada
+T9	SINTOMA 3179 3202	escapes entre micciones
+T10	SINTOMA 2978 3011	estanqueidad de la sutura vesical
+T11	SINTOMA 3751 3769	continencia diurna
+T12	SINTOMA 3354 3376	incontinencia nocturna
+T13	SINTOMA 3606 3646	escapes de orina son escasos y nocturnos
+T14	SINTOMA 924 965	riñón izquierdo con morfología conservada
+T15	SINTOMA 3047 3088	reflujo vésico-ureteral, con alta presión
+T16	SINTOMA 3227 3263	maniobra de Credé para vaciar vejiga
+T17	SINTOMA 3299 3339	vejiga de más capacidad y escaso reflujo
+T18	SINTOMA 3795 3875	vaciado vesical a expensas de maniobra de Credé y Valsalva sin residuo posterior
+A1	RESULTADO T2
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	IMAGEN T7
+A5	IMAGEN T8
+A6	RESULTADO T10
+A7	RESULTADO T14
+A8	RESULTADO T15

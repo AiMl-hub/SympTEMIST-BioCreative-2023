@@ -1,0 +1,48 @@
+T1	SINTOMA 576 600	función renal era normal
+T2	SINTOMA 59 70	proteinuria
+T3	SINTOMA 658 684	Hemoglobinuria persistente
+T4	SINTOMA 718 729	proteinuria
+T5	SINTOMA 747 758	albuminuria
+T6	SINTOMA 772 785	aminoaciduria
+T7	SINTOMA 475 483	disfagia
+T8	SINTOMA 485 500	dolor abdominal
+T9	SINTOMA 467 473	fatiga
+T10	SINTOMA 503 515	orina oscura
+T11	SINTOMA 689 714	sedimento urinario normal
+T12	SINTOMA 391 407	ferritina normal
+T13	SINTOMA 270 281	LDH elevada
+T14	SINTOMA 302 327	haptoglobina indetectable
+T15	SINTOMA 818 872	estado ácido-base, fosfato y ácido úrico eran normales
+T16	SINTOMA 1177 1194	normalidad del FG
+T17	SINTOMA 236 256	actividad hemolítica
+T18	SINTOMA 355 365	leucopenia
+T19	SINTOMA 368 389	trombocitopenia leves
+T20	SINTOMA 1308 1322	hemoglobinuria
+T21	SINTOMA 1630 1649	proteinuria tubular
+T22	SINTOMA 988 1027	hipointensidad cortical renal bilateral
+T23	SINTOMA 1571 1600	bajos niveles de haptoglobina
+T24	SINTOMA 1766 1837	hipointensidad de señal en la corteza renal del 34 y 51% en los riñones
+T25	SINTOMA 1916 1947	depósitos de hierro en el riñón
+T26	SINTOMA 1043 1061	depósito de hierro
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T4
+A5	RESULTADO T5
+A6	RESULTADO T6
+A7	RESULTADO T11
+A8	RESULTADO T12
+A9	RESULTADO T13
+A10	RESULTADO T14
+A11	RESULTADO T15
+A12	RESULTADO T16
+A13	RESULTADO T17
+A14	RESULTADO T18
+A15	RESULTADO T19
+A16	RESULTADO T20
+A17	RESULTADO T21
+A18	IMAGEN T22
+A19	RESULTADO T23
+A20	IMAGEN T24
+A21	IMAGEN T25
+A22	IMAGEN T26

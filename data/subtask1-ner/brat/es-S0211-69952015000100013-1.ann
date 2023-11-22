@@ -1,0 +1,31 @@
+T1	SINTOMA 1590 1607	cefalea occipital
+T2	SINTOMA 148 156	cefaleas
+T3	SINTOMA 1610 1628	debilidad muscular
+T4	SINTOMA 248 356	ecografía renal, el ecocardiograma y el cateterismo de aorta y arterias renales no evidenciaron alteraciones
+T5	SINTOMA 1846 1867	imagen nodular sólida
+T6	SINTOMA 2252 2278	niveles elevados de renina
+T7	SINTOMA 3873 3885	asintomática
+T8	SINTOMA 3887 3897	normotensa
+T9	SINTOMA 3903 3971	niveles de renina plasmática, aldosterona y potasio séricos normales
+T10	SINTOMA 373 459	actividad de renina plasmática (ARP) y aldosterona plasmática (AP) resultaron elevados
+T11	SINTOMA 1163 1199	niveles de ARP y AP estaban elevados
+T12	SINTOMA 482 582	niveles de ácido vanilmandélico en orina y los de TSH, T4 libre y T3 plasmáticos resultaron normales
+T13	SINTOMA 1032 1082	polo inferior de riñón izquierdo formación nodular
+T14	SINTOMA 2104 2177	Doppler de arterias renales y el ecocardiograma no mostraron alteraciones
+T15	SINTOMA 159 172	hipopotasemia
+T16	SINTOMA 925 938	hipopotasemia
+T17	SINTOMA 1726 1737	hipokalemia
+T18	SINTOMA 1965 2099	formación ocupante de espacio, sólida, en sector interpolar y polo inferior del riñón izquierdo de 65mm de diámetro, hipovascularizada
+A1	RESULTADO T4
+A2	IMAGEN T5
+A3	RESULTADO T6
+A4	RESULTADO T9
+A5	RESULTADO T10
+A6	RESULTADO T11
+A7	RESULTADO T12
+A8	IMAGEN T13
+A9	IMAGEN T14
+A10	RESULTADO T15
+A11	RESULTADO T16
+A12	RESULTADO T17
+A13	IMAGEN T18

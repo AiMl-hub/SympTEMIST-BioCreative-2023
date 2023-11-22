@@ -1,0 +1,16 @@
+T1	SINTOMA 939 949	masa renal
+T2	SINTOMA 404 486	polo superior del riñón derecho y en situación interna, se aprecia una masa sólida
+T3	SINTOMA 2081 2107	masa en el lóbulo tiroideo
+T4	SINTOMA 78 115	masa sólida en polo superior de riñón
+T5	SINTOMA 1993 2001	disfonía
+T6	SINTOMA 768 817	masa encapsulada con respecto al parénquima renal
+T7	SINTOMA 2004 2041	sensación de cuerpo extraño en cuello
+T8	SINTOMA 1603 1635	origen tiroideo de la tumoración
+T9	SINTOMA 221 233	asintomática
+T10	SINTOMA 1029 1096	captación a nivel de la 5ª vértebra lumbar, y otro a nivel cervical
+A1	IMAGEN T1
+A2	IMAGEN T2
+A3	IMAGEN T3
+A4	IMAGEN T4
+A5	IMAGEN T6
+A6	IMAGEN T10

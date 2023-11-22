@@ -1,0 +1,14 @@
+T1	SINTOMA 1573 1604	spiders localizados en el tórax
+T2	SINTOMA 1113 1120	astenia
+T3	SINTOMA 148 155	astenia
+T4	SINTOMA 1123 1152	disnea de moderados esfuerzos
+T5	SINTOMA 1560 1568	sangrado
+T6	SINTOMA 1760 1768	sangrado
+T7	SINTOMA 1355 1409	paso de suero desde la aurícula derecha a la izquierda
+T8	SINTOMA 336 367	spiders en región nasal y tórax
+T9	SINTOMA 1862 1870	sangrado
+T10	SINTOMA 652 693	hígado heteroecoico, superficie irregular
+T11	SINTOMA 730 745	Porta permeable
+A1	IMAGEN T7
+A2	IMAGEN T10
+A3	IMAGEN T11

@@ -1,0 +1,13 @@
+T1	SINTOMA 392 421	dificultad respiratoria nasal
+T2	SINTOMA 772 848	imagen hipodensa en la línea interhemisférica a nivel de las astas frontales
+T3	SINTOMA 480 526	masa intraoral pediculada en la encía superior
+T4	SINTOMA 1898 1958	estudio cromosómico fue masculino 46 XY con cariotipo normal
+T5	SINTOMA 1037 1095	electroencefalograma estuvo dentro de los límites normales
+T6	SINTOMA 1139 1160	actividad paroxística
+T7	SINTOMA 555 566	Normocéfalo
+T8	SINTOMA 1817 1823	alerta
+T10	SINTOMA 1828 1868	desarrollo sicomotor acorde para su edad
+A1	IMAGEN T2
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T6

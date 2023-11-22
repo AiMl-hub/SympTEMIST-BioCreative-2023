@@ -1,0 +1,22 @@
+T1	SINTOMA 629 658	sedimento de orina fue normal
+T2	SINTOMA 201 237	aumento de tamaño escrotal bilateral
+T3	SINTOMA 1469 1517	teste de coloración violácea y aspecto necrótico
+T4	SINTOMA 1119 1164	testículo izquierdo es normal ecográficamente
+T5	SINTOMA 1762 1774	asintomático
+T6	SINTOMA 360 385	transiluminación positiva
+T7	SINTOMA 896 943	teste derecho flujo doppler arterial conservado
+T8	SINTOMA 390 436	teste izquierdo es de características normales
+T9	SINTOMA 603 624	moderada leucocitosis
+T10	SINTOMA 959 993	índice de resistencia (IR) elevado
+T11	SINTOMA 1088 1114	áreas de desestructuración
+T12	SINTOMA 1051 1075	ecogenicidad heterogénea
+T13	SINTOMA 1036 1048	flujo venoso
+A1	RESULTADO T1
+A2	IMAGEN T4
+A3	RESULTADO T6
+A4	IMAGEN T7
+A5	RESULTADO T9
+A6	IMAGEN T10
+A7	IMAGEN T11
+A8	IMAGEN T12
+A9	IMAGEN T13

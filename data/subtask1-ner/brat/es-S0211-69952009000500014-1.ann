@@ -1,0 +1,34 @@
+T1	SINTOMA 73 88	dolor abdominal
+T2	SINTOMA 90 98	diarreas
+T3	SINTOMA 349 399	título elevado de anticuerpos antitransglutaminasa
+T4	SINTOMA 537 612	poliartralgias de medianas articulaciones, de predominio en carpos y tarsos
+T5	SINTOMA 624 635	parestesias
+T6	SINTOMA 815 844	edemas en miembros inferiores
+T7	SINTOMA 1200 1242	serología frente a VHB, VHC y VIH negativa
+T8	SINTOMA 1248 1302	anticuerpos antitransglutaminasa tisular IgA positivos
+T9	SINTOMA 1410 1435	ecografía renal es normal
+T10	SINTOMA 891 923	hemograma y coagulación normales
+T11	SINTOMA 660 685	micropápulas pruriginosas
+T12	SINTOMA 723 734	proteinuria
+T13	SINTOMA 1106 1184	anticuerpos anticardiolipina, anticoagulante lúpico y crioglobulinas negativos
+T14	SINTOMA 2135 2193	anticuerpos antitiroglobulina y antimicrosomales negativos
+T15	SINTOMA 101 124	síndrome constitucional
+T16	SINTOMA 1947 1958	proteinuria
+T17	SINTOMA 429 463	atrofia de vellosidades en duodeno
+T18	SINTOMA 466 488	hiperplasia de criptas
+T19	SINTOMA 847 872	pápulas en codos y brazos
+T20	SINTOMA 1464 1485	proteinuria nefrótica
+T21	SINTOMA 1863 1917	negativización de los anticuerpos antitransglutaminasa
+A1	RESULTADO T3
+A2	RESULTADO T7
+A3	RESULTADO T8
+A4	IMAGEN T9
+A5	RESULTADO T10
+A6	RESULTADO T12
+A7	RESULTADO T13
+A8	RESULTADO T14
+A9	RESULTADO T16
+A10	RESULTADO T17
+A11	RESULTADO T18
+A12	RESULTADO T20
+A13	RESULTADO T21

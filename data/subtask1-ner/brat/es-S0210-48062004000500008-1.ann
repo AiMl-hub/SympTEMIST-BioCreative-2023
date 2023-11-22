@@ -1,0 +1,14 @@
+T1	SINTOMA 108 135	erección levemente dolorosa
+T2	SINTOMA 1179 1205	disminución de la erección
+T3	SINTOMA 524 531	astenia
+T4	SINTOMA 533 541	anorexia
+T5	SINTOMA 544 550	fiebre
+T6	SINTOMA 2455 2487	alteración en la potencia sexual
+T7	SINTOMA 1818 1835	flaccidez peneana
+T8	SINTOMA 938 943	dolor
+T9	SINTOMA 729 738	priapismo
+T10	SINTOMA 815 824	priapismo
+T11	SINTOMA 1887 1896	flaccidez
+T12	SINTOMA 1955 2018	elevación de las cifras de leucocitos (414 x 109/L) y plaquetas
+T13	SINTOMA 2380 2389	priapismo
+A1	RESULTADO T12

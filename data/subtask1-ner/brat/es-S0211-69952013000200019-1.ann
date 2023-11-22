@@ -1,0 +1,8 @@
+T1	SINTOMA 1174 1263	paso de material de contraste peritoneal a través del cordón espermático hasta el escroto
+T2	SINTOMA 1771 1775	fuga
+T3	SINTOMA 978 982	fuga
+T4	SINTOMA 902 945	ecografía testicular, se descarta patología
+A1	IMAGEN T1
+A2	IMAGEN T2
+A3	IMAGEN T3
+A4	IMAGEN T4

@@ -1,0 +1,15 @@
+T1	SINTOMA 416 430	hablaba normal
+T2	SINTOMA 1437 1472	portadores de la mutación p.Phe55fs
+T3	SINTOMA 887 917	niveles de Phe fueron normales
+T4	SINTOMA 1149 1176	fenotipo PKU suave-moderado
+T5	SINTOMA 369 377	falleció
+T6	SINTOMA 256 268	microcefalia
+T7	SINTOMA 271 292	retraso mental severo
+T8	SINTOMA 725 753	retraso mental leve-moderado
+T9	SINTOMA 1237 1289	metabolismo de las pterinas, cuyo estudio fue normal
+T10	SINTOMA 1321 1405	cambios mutacionales en el gen PAH: c.165delT (p.Phe55fs) / c.q62G > A (p.Val388Met)
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	EXITUS T5
+A4	RESULTADO T9
+A5	RESULTADO T10

@@ -1,0 +1,9 @@
+T1	SINTOMA 1354 1386	alteración de los test hepáticos
+T2	SINTOMA 756 767	descamación
+T3	SINTOMA 920 940	abundantes levaduras
+T4	SINTOMA 1166 1199	afectación pulmonar y neurológica
+T5	SINTOMA 502 618	eritematosas, sobre zonas induradas, pruriginosas y dolorosas, en dorso del pie derecho y cara interna de los muslos
+T6	SINTOMA 1008 1055	cultivo da hongo levaduriforme, ureasa positivo
+A1	RESULTADO T1
+A2	RESULTADO T4
+A3	RESULTADO T6

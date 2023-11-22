@@ -1,0 +1,9 @@
+T1	SINTOMA 153 185	antígeno estreptocócico negativo
+T2	SINTOMA 358 439	positivo para la detección rápida de antígeno estreptocócico en la muestra rectal
+T3	SINTOMA 395 473	antígeno estreptocócico en la muestra rectal y negativo en la faringoamigdalar
+T4	SINTOMA 478 566	cultivo de de la muestra rectal fue negativo para hongos y demostró crecimiento de EBHGA
+T5	SINTOMA 46 62	eritema perianal
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T4

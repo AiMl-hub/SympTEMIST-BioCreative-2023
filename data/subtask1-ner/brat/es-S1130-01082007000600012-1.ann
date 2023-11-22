@@ -1,0 +1,52 @@
+T1	SINTOMA 30 45	dolor abdominal
+T2	SINTOMA 510 520	consciente
+T3	SINTOMA 522 531	orientada
+T4	SINTOMA 533 547	normohidratada
+T5	SINTOMA 2607 2614	afebril
+T6	SINTOMA 236 266	dolor en hipocondrio izquierdo
+T7	SINTOMA 1142 1177	elevación de los dos hemidiafragmas
+T8	SINTOMA 322 353	aumento del perímetro abdominal
+T9	SINTOMA 1645 1661	mantoux negativo
+T10	SINTOMA 355 362	náuseas
+T11	SINTOMA 1221 1260	desplazamiento de las asas intestinales
+T12	SINTOMA 365 371	fiebre
+T13	SINTOMA 426 441	síndrome tóxico
+T14	SINTOMA 445 477	alteración del hábito intestinal
+T15	SINTOMA 2311 2326	dolor abdominal
+T16	SINTOMA 560 585	palidez de piel y mucosas
+T17	SINTOMA 640 681	Auscultación cardiaca y pulmonar normales
+T18	SINTOMA 686 715	abdomen es blando, depresible
+T19	SINTOMA 1182 1217	alteración de los hilios pulmonares
+T20	SINTOMA 1575 1607	estudios citogenéticos negativos
+T21	SINTOMA 1609 1643	serología hepática vírica negativa
+T22	SINTOMA 1663 1686	estudio hormonal normal
+T23	SINTOMA 1688 1725	metabolitos del ácido fólico normales
+T24	SINTOMA 1820 1872	coombs directo eritrocitario poliespecífico negativo
+T25	SINTOMA 1892 1928	leve incremento de la gammaglobulina
+T26	SINTOMA 1955 1979	leve descenso del hierro
+T27	SINTOMA 2011 2048	marcadores tumorales fueron negativos
+T28	SINTOMA 2275 2300	estable hemodinámicamente
+T29	SINTOMA 1786 1797	trombopenia
+T30	SINTOMA 2557 2564	afebril
+T31	SINTOMA 2629 2634	dolor
+T32	SINTOMA 1799 1818	haptoglobina normal
+T33	SINTOMA 2926 2978	parámetros normales de las tres series hematológicas
+T34	SINTOMA 1268 1304	efecto masa en hipocondrio izquierdo
+T35	SINTOMA 1025 1073	bioquímica con parámetros estrictamente normales
+A1	IMAGEN T7
+A2	RESULTADO T9
+A3	IMAGEN T11
+A4	IMAGEN T19
+A5	RESULTADO T20
+A6	RESULTADO T21
+A7	RESULTADO T22
+A8	RESULTADO T23
+A9	RESULTADO T24
+A10	RESULTADO T25
+A11	RESULTADO T26
+A12	RESULTADO T27
+A13	RESULTADO T29
+A14	RESULTADO T32
+A15	RESULTADO T33
+A16	IMAGEN T34
+A17	RESULTADO T35

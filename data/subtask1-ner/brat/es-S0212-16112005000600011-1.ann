@@ -1,0 +1,24 @@
+T1	SINTOMA 1051 1073	dolor ocular bilateral
+T2	SINTOMA 1100 1109	fotofobia
+T3	SINTOMA 1112 1144	disminución de la agudeza visual
+T4	SINTOMA 1483 1518	cultivos cornéales fueron negativos
+T5	SINTOMA 1684 1699	pérdida de peso
+T6	SINTOMA 1075 1089	enrojecimiento
+T7	SINTOMA 1091 1098	escozor
+T8	SINTOMA 2413 2484	vita-minas del complejo B y vitamina C como el zinc resultaron normales
+T9	SINTOMA 1439 1477	pruebas de imagen resultaron negativas
+T10	SINTOMA 839 936	heces que resulta con aumento de grasas y restos alimenticios, olor fétido y consistencia pastosa
+T11	SINTOMA 1389 1396	hiphema
+T12	SINTOMA 1524 1630	exploraciones por especialistas de otorrinolaringología, digestivo y reumatología fueron no significativas
+T13	SINTOMA 1850 1885	pérdida del 23% de su peso habitual
+T14	SINTOMA 2069 2084	hipoproteinemia
+T15	SINTOMA 2196 2236	déficit severo de vitaminas liposolubles
+T16	SINTOMA 2563 2580	malabsorción leve
+T17	SINTOMA 1416 1433	percepción de luz
+A1	RESULTADO T4
+A2	RESULTADO T8
+A3	IMAGEN T9
+A4	RESULTADO T12
+A5	RESULTADO T14
+A6	RESULTADO T15
+A7	RESULTADO T16

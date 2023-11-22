@@ -1,0 +1,18 @@
+T1	SINTOMA 848 870	dolor testicular agudo
+T2	SINTOMA 905 956	teste derecho horinzontalizado, aumentado de tamaño
+T3	SINTOMA 169 175	T4N2M1
+T4	SINTOMA 1018 1053	engrosamiento de cordón espermático
+T5	SINTOMA 2179 2187	Falleció
+T6	SINTOMA 1093 1168	testículo derecho presentó aumento de calibre de las estructuras vasculares
+T7	SINTOMA 1170 1234	epidídimo engrosado, hipoecoico y con vascularización periférica
+T8	SINTOMA 542 549	diarrea
+T9	SINTOMA 1463 1498	induración de la vaginal testicular
+T10	SINTOMA 649 716	5HIAA en orina de 24 horas estaba dentro de los parámetros normales
+T11	SINTOMA 722 797	rastreo corporal con In.111 pentreótida y SPECT no presentaron alteraciones
+T12	SINTOMA 1257 1304	escrotal anecoico con contenido ecogénico móvil
+A1	RESULTADO T3
+A2	EXITUS T5
+A3	IMAGEN T6
+A4	IMAGEN T7
+A5	RESULTADO T10
+A6	IMAGEN T11

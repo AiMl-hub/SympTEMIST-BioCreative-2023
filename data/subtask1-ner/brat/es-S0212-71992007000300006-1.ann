@@ -1,0 +1,42 @@
+T1	SINTOMA 485 495	consciente
+T2	SINTOMA 498 507	orientado
+T3	SINTOMA 521 533	bradicárdico
+T4	SINTOMA 576 594	sudoración profusa
+T5	SINTOMA 596 605	sialorrea
+T6	SINTOMA 617 635	secreción lacrimal
+T7	SINTOMA 639 666	dolor difuso de tipo cólico
+T8	SINTOMA 671 678	náuseas
+T9	SINTOMA 681 688	vómitos
+T10	SINTOMA 722 735	déficit motor
+T11	SINTOMA 751 792	fasciculación perceptible en ambos muslos
+T12	SINTOMA 860 884	mioclonías generalizadas
+T13	SINTOMA 895 907	desaturación
+T14	SINTOMA 886 892	miosis
+T15	SINTOMA 964 1024	fasciculaciones de la musculatura periférica y del diafragma
+T16	SINTOMA 1212 1227	fasciculaciones
+T17	SINTOMA 1398 1410	convulsiones
+T18	SINTOMA 1936 1942	miosis
+T19	SINTOMA 1945 1966	peristaltismo elevado
+T20	SINTOMA 2002 2011	midriasis
+T21	SINTOMA 2174 2192	midriasis reactiva
+T22	SINTOMA 2309 2333	mioclonías generalizadas
+T23	SINTOMA 2336 2363	debilidad muscular torácica
+T24	SINTOMA 2530 2549	mioclonías faciales
+T25	SINTOMA 2586 2605	clínica neurológica
+T26	SINTOMA 2853 2889	debilidad muscular proximal y facial
+T27	SINTOMA 2910 2924	hipoventilació
+T28	SINTOMA 2930 2945	fatiga muscular
+T29	SINTOMA 3305 3320	hipoventilación
+T30	SINTOMA 3325 3340	fatiga muscular
+T31	SINTOMA 3521 3542	agitación psicomotriz
+T32	SINTOMA 3671 3686	hipoventilación
+T33	SINTOMA 546 574	manifestaciones muscarínicas
+T34	SINTOMA 2084 2109	ausencia de peristaltismo
+T35	SINTOMA 2371 2380	debilidad
+T36	SINTOMA 912 931	cianosis periférica
+T37	SINTOMA 509 518	hipotenso
+T38	SINTOMA 1160 1180	síntomas periféricos
+T39	SINTOMA 1250 1269	cólicos abdominales
+T40	SINTOMA 2469 2478	agitación
+T41	SINTOMA 2962 2982	clínica respiratoria
+T42	SINTOMA 2014 2059	tolerancia dificultada a la nutrición enteral

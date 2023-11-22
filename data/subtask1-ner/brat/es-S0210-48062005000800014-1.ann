@@ -1,0 +1,10 @@
+T1	SINTOMA 510 527	tumoración sólida
+T2	SINTOMA 243 286	inflamación pancreática difusa con exudados
+T3	SINTOMA 317 356	tumoraciones en valva anterior de riñón
+T4	SINTOMA 647 657	tumoración
+T5	SINTOMA 831 841	tumoración
+A1	IMAGEN T1
+A2	IMAGEN T2
+A3	IMAGEN T3
+A4	IMAGEN T4
+A5	IMAGEN T5

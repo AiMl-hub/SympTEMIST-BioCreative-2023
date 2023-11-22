@@ -1,0 +1,22 @@
+T1	SINTOMA 1116 1139	dolor en flanco derecho
+T2	SINTOMA 714 720	fiebre
+T3	SINTOMA 1142 1156	enrojecimiento
+T4	SINTOMA 1172 1178	fiebre
+T5	SINTOMA 794 800	vómito
+T6	SINTOMA 2245 2254	apirético
+T7	SINTOMA 2367 2379	asintomático
+T8	SINTOMA 49 80	elevación de las cifras del PSA
+T9	SINTOMA 946 965	gas en marco cólico
+T10	SINTOMA 968 1004	niveles hidroaéreos en colon derecho
+T11	SINTOMA 314 335	enfermedad localizada
+T12	SINTOMA 1987 1996	colección
+T13	SINTOMA 2040 2063	estanqueidad intestinal
+T14	SINTOMA 1231 1298	colección líquida con abundante gas de localización retroperitoneal
+T15	SINTOMA 1680 1765	cultivos del líquido, con crecimiento de Staphyloccus haemolyticus y Candida albicans
+T16	SINTOMA 2386 2402	PSA indetectable
+A1	RESULTADO T8
+A2	IMAGEN T11
+A3	IMAGEN T13
+A4	IMAGEN T14
+A5	RESULTADO T15
+A6	RESULTADO T16

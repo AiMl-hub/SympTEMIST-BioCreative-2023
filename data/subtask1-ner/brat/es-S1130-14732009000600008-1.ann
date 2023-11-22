@@ -1,0 +1,12 @@
+T1	SINTOMA 263 270	cefalea
+T2	SINTOMA 1682 1689	cefalea
+T3	SINTOMA 1075 1082	cefalea
+T4	SINTOMA 1282 1324	efecto de masa sobre el ventrículo lateral
+T5	SINTOMA 1725 1737	asintomático
+T6	SINTOMA 637 665	cuarto ventrículo era normal
+T7	SINTOMA 363 388	edema de papila bilateral
+T8	SINTOMA 174 203	cefalea hemicraneal izquierda
+T9	SINTOMA 455 492	dilatación ventricular supratentorial
+A1	IMAGEN T4
+A2	IMAGEN T6
+A3	IMAGEN T9

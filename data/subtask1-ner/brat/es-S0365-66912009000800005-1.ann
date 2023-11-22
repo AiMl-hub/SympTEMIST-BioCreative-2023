@@ -1,0 +1,14 @@
+T1	SINTOMA 183 190	cefalea
+T2	SINTOMA 192 215	claudicación mandibular
+T3	SINTOMA 219 260	rigidez en el cuello y las articulaciones
+T4	SINTOMA 724 748	defecto pupilar aferente
+T5	SINTOMA 417 469	motilidad ocular en el ojo izquierdo (OI) fue normal
+T6	SINTOMA 835 858	fondo de ojo fue normal
+T7	SINTOMA 864 920	angio-resonancia magnética cerebral no detectó patología
+T8	SINTOMA 43 51	diplopía
+T9	SINTOMA 474 542	ojo derecho (OD) tenía ptosis palpebral y limitación de la movilidad
+T10	SINTOMA 1104 1286	factor reumatoide, los anticuerpos antinucleares, los anticuerpos anticitoplasma del neutrófilo, anticuerpos antireceptores de la acetilcolina y la serología luética fueron negativas
+A1	RESULTADO T4
+A2	RESULTADO T6
+A3	IMAGEN T7
+A4	RESULTADO T10

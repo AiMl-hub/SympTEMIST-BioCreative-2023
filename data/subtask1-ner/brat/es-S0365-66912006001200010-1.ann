@@ -1,0 +1,17 @@
+T1	SINTOMA 454 482	retracción de ambos párpados
+T2	SINTOMA 487 538	limitación de la motilidad superior y lateral en AO
+T3	SINTOMA 1033 1078	engrosamiento de los músculos rectos internos
+T4	SINTOMA 215 253	limitación de los movimientos oculares
+T5	SINTOMA 361 406	engrosamiento de los músculos rectos internos
+T6	SINTOMA 2057 2064	estable
+T7	SINTOMA 186 196	exoftalmos
+T8	SINTOMA 760 770	exoftalmos
+T9	SINTOMA 969 978	proptosis
+T10	SINTOMA 1435 1445	exoftalmos
+T11	SINTOMA 1793 1802	proptosis
+T12	SINTOMA 1091 1110	oftalmoplejía en AO
+T13	SINTOMA 1113 1138	exposición corneal en ojo
+T14	SINTOMA 1293 1319	severa crisis hipotiroidea
+A1	IMAGEN T3
+A2	IMAGEN T5
+A3	RESULTADO T14

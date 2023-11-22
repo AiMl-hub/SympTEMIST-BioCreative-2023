@@ -1,0 +1,23 @@
+T1	SINTOMA 445 480	asimetría entre párpados superiores
+T2	SINTOMA 798 810	picor en ojo
+T3	SINTOMA 482 552	tercio interno del párpado superior izquierdo discretamente descendido
+T4	SINTOMA 866 917	abultamiento en tercio interno del párpado superior
+T5	SINTOMA 1514 1532	estereopsis normal
+T6	SINTOMA 1594 1636	masa en tercio interno de párpado superior
+T7	SINTOMA 1110 1136	alteración de la motilidad
+T8	SINTOMA 1139 1153	masa orbitaria
+T9	SINTOMA 567 572	masas
+T10	SINTOMA 660 683	Motilidad ocular normal
+T11	SINTOMA 685 707	test de Cover negativo
+T12	SINTOMA 709 738	Fondo de ojo sin alteraciones
+T13	SINTOMA 956 995	limitación de la motilidad de dicho ojo
+T14	SINTOMA 1476 1512	limitación a la aducción y elevación
+T15	SINTOMA 1535 1564	fondo de ojo sin alteraciones
+T16	SINTOMA 1428 1462	test negativo en posición primaria
+T17	SINTOMA 1762 1806	tumoración en ángulo superointerno de órbita
+T18	SINTOMA 1025 1035	hipotropia
+T19	SINTOMA 2175 2215	simetría entre ambos párpados superiores
+A1	RESULTADO T11
+A2	RESULTADO T12
+A3	RESULTADO T15
+A4	RESULTADO T16

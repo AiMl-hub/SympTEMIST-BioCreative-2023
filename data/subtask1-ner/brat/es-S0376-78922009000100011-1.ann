@@ -1,0 +1,19 @@
+T1	SINTOMA 1935 2036	cultivo bacteriológico fue positivo para bacteroides caccae, proteus mirabilis y estafilococus aureus
+T2	SINTOMA 4385 4446	testículos están englobados por la fibrosis y la masa tumoral
+T3	SINTOMA 1487 1526	masa deforme, blanda, fungosa, ulcerada
+T4	SINTOMA 1561 1570	sangrante
+T5	SINTOMA 1547 1558	mal oliente
+T6	SINTOMA 1874 1930	serológicos para brucelosis, lúes y VIH fueron negativos
+T7	SINTOMA 2512 2523	masa sólida
+T8	SINTOMA 4073 4083	tumoración
+T9	SINTOMA 1118 1259	pene afectaba a la piel, dartos, fascia de Buck y albugínea, invadía el interior de los cuerpos cavernosos, destruía la uretra y su esponjosa
+T10	SINTOMA 1265 1284	respetaba el glande
+T11	SINTOMA 1593 1633	tejidos periféricos estaban edematizados
+T12	SINTOMA 1778 1782	masa
+T13	SINTOMA 3724 3741	formación nodular
+T14	SINTOMA 4157 4202	afectas a la piel del pubis, escroto y periné
+T15	SINTOMA 4216 4264	tumoración es friable, con crecimiento vegetante
+T16	SINTOMA 4314 4379	afecta profundamente también al glande y a los tejidos perineales
+T17	SINTOMA 4475 4543	ganglios de las cadenas linfáticas enviadas a analizar son reactivos
+A1	RESULTADO T1
+A2	RESULTADO T6

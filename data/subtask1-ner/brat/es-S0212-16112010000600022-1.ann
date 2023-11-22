@@ -1,0 +1,37 @@
+T1	SINTOMA 1351 1385	empeoramiento de su estado general
+T2	SINTOMA 1391 1398	astenia
+T3	SINTOMA 1423 1454	dificultad para la deambulación
+T4	SINTOMA 1457 1465	oliguria
+T5	SINTOMA 4533 4564	edemas maleolares y pretibiales
+T6	SINTOMA 999 1032	edemas en extremidades inferiores
+T7	SINTOMA 3704 3742	disminución de masa magra y masa grasa
+T8	SINTOMA 3388 3409	focalidad neurológica
+T9	SINTOMA 1411 1421	postración
+T10	SINTOMA 4593 4623	Mg por debajo de la normalidad
+T11	SINTOMA 4703 4778	Sodio, Potasio, Calcio total, Calcio iónico y Cloro dentro de la normalidad
+T12	SINTOMA 5182 5201	buen estado general
+T13	SINTOMA 5255 5292	niveles de Mg dentro de la normalidad
+T14	SINTOMA 1195 1227	alteraciones hidroelectrolíticas
+T15	SINTOMA 1981 2008	alteraciones electrolíticas
+T16	SINTOMA 766 798	alteraciones hidroelectrolíticas
+T17	SINTOMA 1169 1183	deshidratación
+T18	SINTOMA 1940 1978	acidosis metabólica hiperlactacidémica
+T19	SINTOMA 2436 2443	síncope
+T20	SINTOMA 2565 2612	episodios convulsivos de crisis tónico-clónicas
+T21	SINTOMA 2680 2686	crisis
+T22	SINTOMA 2835 2900	hemorragia subaracnoidea mínima en región suprasilviana izquierda
+T23	SINTOMA 2920 2951	ECG y Rx tórax sin alteraciones
+T24	SINTOMA 3295 3317	déficit electrolíticos
+T25	SINTOMA 3378 3384	crisis
+T26	SINTOMA 2023 2046	pérdidas por ileostomía
+T27	SINTOMA 822 852	débito por ileostomía superior
+A1	RESULTADO T10
+A2	RESULTADO T11
+A3	RESULTADO T13
+A4	RESULTADO T14
+A5	RESULTADO T15
+A6	RESULTADO T16
+A7	RESULTADO T18
+A8	IMAGEN T22
+A9	RESULTADO T23
+A10	RESULTADO T24

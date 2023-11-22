@@ -1,0 +1,10 @@
+T1	SINTOMA 417 494	fosa iliaca derecha un nódulo de un centímetro de diámetro hipervascularizado
+T2	SINTOMA 972 1024	nódulo de consistencia dura en la punta del apéndice
+T3	SINTOMA 42 57	dolor abdominal
+T4	SINTOMA 683 735	nódulo único de 1 x 1,5 cm localizado en el apéndice
+T5	SINTOMA 820 853	apéndice sin signos inflamatorios
+T6	SINTOMA 862 868	nódulo
+T7	SINTOMA 233 273	pruebas complementarias básicas normales
+A1	IMAGEN T1
+A2	IMAGEN T4
+A3	RESULTADO T7

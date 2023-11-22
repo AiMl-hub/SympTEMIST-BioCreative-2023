@@ -1,0 +1,13 @@
+T1	SINTOMA 1854 1882	deterioro del estado general
+T2	SINTOMA 51 71	dolor en hemiescroto
+T3	SINTOMA 195 222	masa a nivel del área renal
+T4	SINTOMA 275 326	masa heterogénea de 10 cm. aproximadamente en riñón
+T5	SINTOMA 336 377	riñón izquierdo sin hallazgos patológicos
+T6	SINTOMA 493 516	formación renal derecha
+T7	SINTOMA 703 755	formación heterogénea renal derecha en polo superior
+T8	SINTOMA 1209 1236	Hilio renal libre de lesión
+T9	SINTOMA 1445 1481	Glándula suprarrenal libre de lesión
+A1	IMAGEN T4
+A2	IMAGEN T5
+A3	IMAGEN T6
+A4	IMAGEN T7

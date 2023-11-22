@@ -1,0 +1,33 @@
+T1	SINTOMA 4366 4420	epigastralgia con irradiación hacia ambos hipocondrios
+T2	SINTOMA 4435 4458	distensión postprandial
+T3	SINTOMA 4471 4478	pirosis
+T4	SINTOMA 4521 4562	masa a nivel de hipocondrio-vacío derecho
+T5	SINTOMA 1680 1695	perdida de peso
+T6	SINTOMA 1709 1737	dolor en ambas fosas renales
+T7	SINTOMA 399 436	urinocultivos repetidamente negativos
+T8	SINTOMA 620 644	función renal era normal
+T9	SINTOMA 3323 3329	T4N2M0
+T10	SINTOMA 2251 2279	induración del suelo vesical
+T11	SINTOMA 234 250	hematuria franca
+T12	SINTOMA 1644 1674	síndrome constitucional severo
+T13	SINTOMA 5298 5309	falleciendo
+T14	SINTOMA 4276 4287	colecciones
+T15	SINTOMA 357 386	síndrome miccional irritativo
+T16	SINTOMA 519 557	tumoración a nivel del trígono vesical
+T17	SINTOMA 731 785	aumento de consistencia prostática y del suelo vesical
+T18	SINTOMA 1782 1803	atrapamiento ureteral
+T19	SINTOMA 2064 2086	hematuria macroscópica
+T20	SINTOMA 2137 2172	tumoración sésil en la base vesical
+T21	SINTOMA 2528 2559	engrosamiento del suelo vesical
+T22	SINTOMA 340 348	coágulos
+T23	SINTOMA 4182 4212	reservorio con buena capacidad
+T24	SINTOMA 4045 4101	molestias en hemiabdomen derecho que irradiaba a espalda
+T25	SINTOMA 4692 4713	estómago de retención
+A1	RESULTADO T7
+A2	RESULTADO T8
+A3	EXITUS T13
+A4	IMAGEN T14
+A5	IMAGEN T16
+A6	RESULTADO T20
+A7	IMAGEN T23
+A8	RESULTADO T25

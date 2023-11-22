@@ -1,0 +1,15 @@
+T1	SINTOMA 88 106	tumoración frontal
+T2	SINTOMA 233 290	sensación de pesadez y cefalea fronto-occipital izquierda
+T3	SINTOMA 1233 1258	erosión del hueso frontal
+T4	SINTOMA 472 516	alteración de rama frontal del nervio facial
+T5	SINTOMA 686 703	tumoración costal
+T6	SINTOMA 730 789	masa de aproximadamente 0,7 cm a nivel de la región frontal
+T7	SINTOMA 200 205	dolor
+T8	SINTOMA 373 380	eritema
+T9	SINTOMA 1515 1522	nodular
+T10	SINTOMA 548 579	nódulo similar en región costal
+T11	SINTOMA 212 222	tumoración
+T12	SINTOMA 331 341	tumoración
+T13	SINTOMA 431 435	masa
+T14	SINTOMA 994 1004	tumoración
+A1	IMAGEN T6

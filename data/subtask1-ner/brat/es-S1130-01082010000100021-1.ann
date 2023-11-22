@@ -1,0 +1,11 @@
+T1	SINTOMA 161 197	dolor agudo en hemiabdomen izquierdo
+T2	SINTOMA 200 207	náuseas
+T3	SINTOMA 265 300	ocupación del hemiabdomen izquierdo
+T4	SINTOMA 339 370	triglicéridos y lipasa elevados
+T5	SINTOMA 305 326	irritación peritoneal
+T6	SINTOMA 390 420	hemograma y coagulación normal
+T7	SINTOMA 563 570	estable
+T8	SINTOMA 723 730	estable
+T9	SINTOMA 455 462	síncope
+A1	RESULTADO T4
+A2	RESULTADO T6

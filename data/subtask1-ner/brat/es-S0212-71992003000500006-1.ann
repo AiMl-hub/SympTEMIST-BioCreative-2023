@@ -1,0 +1,30 @@
+T1	SINTOMA 868 902	función hepática estaba conservada
+T2	SINTOMA 136 151	odinofagia leve
+T3	SINTOMA 943 963	mantoux fue negativo
+T4	SINTOMA 968 1003	radiografía de tórax resultó normal
+T5	SINTOMA 219 235	malestar general
+T6	SINTOMA 240 251	escalofríos
+T7	SINTOMA 255 271	crisis sudorales
+T8	SINTOMA 728 771	dolor a la presión sobre la región tiroidea
+T9	SINTOMA 153 170	fiebre vespertina
+T10	SINTOMA 2025 2062	cifras normales de hormonas tiroideas
+T11	SINTOMA 325 365	ganglios en ambas zonas laterocervicales
+T12	SINTOMA 801 839	leucocitosis de predominio linfocítico
+T13	SINTOMA 915 937	hipergammaglobulinemia
+T14	SINTOMA 1008 1109	serología para los virus estudiados fue negativa (anti-EBV, CMV, VIH, HTLV-1, HV-6, toxoplasma y lúes
+T15	SINTOMA 1217 1243	anticardiolipina: negativo
+T16	SINTOMA 1421 1452	gammagrafía tiroidea fue normal
+T17	SINTOMA 1457 1463	fiebre
+T18	SINTOMA 1603 1657	ganglios de la zona media de la cadena latero-cervical
+T19	SINTOMA 1926 1980	descenso en el título de los anticuerpos antitiroideos
+T20	SINTOMA 700 714	organomegalias
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	IMAGEN T4
+A4	RESULTADO T10
+A5	RESULTADO T12
+A6	RESULTADO T13
+A7	RESULTADO T14
+A8	RESULTADO T15
+A9	IMAGEN T16
+A10	RESULTADO T19

@@ -1,0 +1,14 @@
+T1	SINTOMA 677 730	marcadores tumorales germinales, con resultado normal
+T2	SINTOMA 372 430	teste izquierdo de tamaño, movilidad y consistencia normal
+T3	SINTOMA 437 476	hemiescroto derecho aumentado de tamaño
+T4	SINTOMA 143 177	aumento del tamaño del hemiescroto
+T5	SINTOMA 484 496	teste normal
+T6	SINTOMA 197 225	leves molestias testiculares
+T7	SINTOMA 271 290	masa paratesticular
+T8	SINTOMA 338 367	pene sin hallazgos de interés
+T9	SINTOMA 776 832	estructura adyacente a teste derecho en su polo superior
+T10	SINTOMA 1061 1118	dos estructuras en hemiescroto derecho de similar aspecto
+T11	SINTOMA 595 612	dolorosa al tacto
+A1	RESULTADO T1
+A2	IMAGEN T9
+A3	IMAGEN T10

@@ -1,0 +1,39 @@
+T1	SINTOMA 115 126	polaquiuria
+T2	SINTOMA 1269 1302	masa pélvica anterior a la vejiga
+T3	SINTOMA 129 144	tenesmo vesical
+T4	SINTOMA 1002 1025	masa pélvica subvesical
+T5	SINTOMA 622 640	Urocultivo estéril
+T6	SINTOMA 2370 2416	masa pélvica situada a la derecha de la vejiga
+T7	SINTOMA 3974 3986	asintomático
+T8	SINTOMA 2863 2881	tumoración nodular
+T9	SINTOMA 184 193	hematuria
+T10	SINTOMA 245 276	abdomen era blando y depresible
+T11	SINTOMA 413 431	Genitales normales
+T12	SINTOMA 717 785	ecografía renal, vesical y prostática no se encontraron alteraciones
+T13	SINTOMA 1031 1060	defectos de relleno vesicales
+T14	SINTOMA 2576 2580	masa
+T15	SINTOMA 456 526	hemograma, bioquímica, coagulación y PSA dentro de parámetros normales
+T16	SINTOMA 797 815	próstata homogénea
+T17	SINTOMA 904 931	riñones y uréteres normales
+T18	SINTOMA 1551 1555	masa
+T19	SINTOMA 1785 1789	masa
+T20	SINTOMA 2234 2238	masa
+T21	SINTOMA 207 215	coágulos
+T22	SINTOMA 558 620	Sedimento urinario con 15-20 leucocitos/campo y moco abundante
+T23	SINTOMA 1154 1219	cistoscopia realizada no se observaban alteraciones endovesicales
+T24	SINTOMA 1971 1986	zonas nodulares
+T25	SINTOMA 3562 3601	positividad para CD34, D99 y vimentina,
+T26	SINTOMA 3636 3740	keratinas de amplio espectro, citoqueratina 7, EMA, actina, enolasa, S-100, cromogranina y p53 negativas
+T29	SINTOMA 2664 2681	fibrosis reactiva
+A1	IMAGEN T2
+A2	RESULTADO T5
+A3	IMAGEN T12
+A4	RESULTADO T15
+A5	RESULTADO T17
+A6	IMAGEN T18
+A7	IMAGEN T19
+A8	RESULTADO T22
+A9	RESULTADO T23
+A10	IMAGEN T24
+A11	RESULTADO T25
+A12	RESULTADO T26

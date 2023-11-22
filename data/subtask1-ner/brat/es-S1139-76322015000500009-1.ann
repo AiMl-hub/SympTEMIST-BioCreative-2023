@@ -1,0 +1,21 @@
+T1	SINTOMA 97 138	debilidad muscular en miembros inferiores
+T2	SINTOMA 2132 2150	debilidad muscular
+T3	SINTOMA 808 828	calambres musculares
+T4	SINTOMA 831 881	sensación de adormecimiento de miembros inferiores
+T5	SINTOMA 351 369	debilidad muscular
+T6	SINTOMA 373 382	calambres
+T7	SINTOMA 1349 1365	Hemograma normal
+T8	SINTOMA 723 735	asintomática
+T9	SINTOMA 1058 1070	asintomática
+T10	SINTOMA 1072 1112	Exploración clínica y neurológica normal
+T11	SINTOMA 1160 1216	fuerza, sensibilidad y reflejos osteotendinosos normales
+T12	SINTOMA 1308 1347	hemograma y bioquímica, siendo normales
+T13	SINTOMA 1367 1406	electrolitos en sangre y orina normales
+T14	SINTOMA 1981 2018	mutación en heterocigosis p.Thr704Met
+T15	SINTOMA 2176 2217	valores de potasio sérico fueron normales
+T16	SINTOMA 306 346	Desarrollo perinatal y psicomotor normal
+A1	RESULTADO T7
+A2	RESULTADO T12
+A3	RESULTADO T13
+A4	RESULTADO T14
+A5	RESULTADO T15

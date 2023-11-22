@@ -1,0 +1,10 @@
+T1	SINTOMA 573 589	RNA-VHC positivo
+T2	SINTOMA 862 868	fiebre
+T3	SINTOMA 871 880	hematuria
+T4	SINTOMA 1484 1504	carga viral negativa
+T5	SINTOMA 1461 1481	función renal normal
+T6	SINTOMA 1268 1313	respuesta viral rápida con carga indetectable
+A1	RESULTADO T1
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T6

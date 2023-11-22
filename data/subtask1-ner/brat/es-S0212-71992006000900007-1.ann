@@ -1,0 +1,10 @@
+T1	SINTOMA 197 222	hinchazón de los tobillos
+T2	SINTOMA 1399 1412	epigastralgia
+T3	SINTOMA 1430 1443	epigastralgia
+T4	SINTOMA 1529 1536	náuseas
+T5	SINTOMA 1712 1756	aumento del tamaño de la cabeza del páncreas
+T6	SINTOMA 982 992	hemorragia
+T7	SINTOMA 251 270	buen estado general
+T8	SINTOMA 1539 1546	vómitos
+T11	SINTOMA 137 146	dolorosas
+A1	IMAGEN T5

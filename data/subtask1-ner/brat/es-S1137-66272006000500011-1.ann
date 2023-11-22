@@ -1,0 +1,20 @@
+T1	SINTOMA 503 542	tumefacción en región cervical anterior
+T2	SINTOMA 273 382	masas en región cervical anterior y posterior, en zonas retroauriculares y en región antero-superior de tórax
+T3	SINTOMA 591 651	tumoraciones en zonas retroauriculares y en región deltoidea
+T4	SINTOMA 671 709	bultomas en región posterior de cuello
+T5	SINTOMA 445 450	dolor
+T6	SINTOMA 1415 1451	masa subcutánea lipomatosa bilateral
+T7	SINTOMA 455 461	disnea
+T8	SINTOMA 465 473	disfagia
+T9	SINTOMA 1498 1580	tejido graso localizado fundamentalmente a nivel subcutáneo en la región occipital
+T10	SINTOMA 791 815	dolorosas a la palpación
+T11	SINTOMA 424 432	bultomas
+T12	SINTOMA 848 941	auscultación cardiopulmonar, la palpación abdominal y la exploración neurológica son normales
+T13	SINTOMA 1141 1186	hormonas tiroideas y el cortisol son normales
+T14	SINTOMA 1242 1291	radiografía de tórax sin alteraciones patológicas
+T15	SINTOMA 1338 1403	ecografía tiroidea con el resultado de lóbulos tiroideos normales
+A1	IMAGEN T6
+A2	IMAGEN T9
+A3	RESULTADO T13
+A4	IMAGEN T14
+A5	IMAGEN T15

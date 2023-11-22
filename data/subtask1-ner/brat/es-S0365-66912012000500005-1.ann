@@ -1,0 +1,24 @@
+T1	SINTOMA 1530 1598	desestructuración de la banda hiperreflectiva EPR-coriocapilar en AO
+T2	SINTOMA 1608 1639	OI una lesión cupuliforme densa
+T3	SINTOMA 1389 1442	lesión hiperfluorescente con difusión tardía en el OI
+T4	SINTOMA 2283 2313	disminuyendo el grosor macular
+T5	SINTOMA 844 855	hemorragias
+T6	SINTOMA 569 593	fondo en piel de naranja
+T7	SINTOMA 471 489	moteado marronáceo
+T8	SINTOMA 670 700	cuerpos coloides en ambos ojos
+T9	SINTOMA 1202 1218	cuerpos coloides
+T10	SINTOMA 1001 1037	moteado difuso hiperautofluorescente
+T11	SINTOMA 1039 1047	hiper-FA
+T12	SINTOMA 1227 1243	intensa hiper-FA
+T13	SINTOMA 1293 1326	enrejado hiper e hipofluorescente
+T14	SINTOMA 53 98	pérdida de visión brusca e indolora en el ojo
+A1	IMAGEN T1
+A2	IMAGEN T2
+A3	IMAGEN T3
+A4	RESULTADO T6
+A5	RESULTADO T7
+A6	RESULTADO T9
+A7	RESULTADO T10
+A8	RESULTADO T11
+A9	RESULTADO T12
+A10	IMAGEN T13

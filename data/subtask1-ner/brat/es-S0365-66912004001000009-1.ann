@@ -1,0 +1,8 @@
+T1	SINTOMA 60 98	edema bilateral de párpados superiores
+T2	SINTOMA 807 812	masas
+T3	SINTOMA 675 736	exploración sistémica, resultando todos los estudios normales
+T4	SINTOMA 1160 1172	tumoraciones
+T5	SINTOMA 416 445	masas no móviles ni dolorosas
+T6	SINTOMA 1842 1984	TC abdomino-torácico, TC craneal y orbitario, Rx torácica, ecografía abdomino-pélvica y Scan óseo con Tc 99m difosfato. Todas fueron normales.
+A1	RESULTADO T3
+A2	IMAGEN T6

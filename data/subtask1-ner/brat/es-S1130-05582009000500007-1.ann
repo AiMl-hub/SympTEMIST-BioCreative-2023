@@ -1,0 +1,16 @@
+T1	SINTOMA 992 1020	abombamiento de tablas óseas
+T2	SINTOMA 560 582	alteraciones estéticas
+T3	SINTOMA 644 708	aumento de volumen en la zona posterior del vestíbulo mandibular
+T4	SINTOMA 1027 1049	rechazo de la pieza 48
+T5	SINTOMA 1378 1412	ensanchamiento de las tablas óseas
+T6	SINTOMA 339 394	antecedentes de tabaco, alcohol y drogas eran negativos
+T7	SINTOMA 773 808	imagen unilocular de densidad mixta
+T8	SINTOMA 852 935	banda radiolúcida de límites netos corticalizados ubicada en la zona de la pieza 48
+T9	SINTOMA 1078 1142	canal mandibular se encontraba desplazado hacia el borde basilar
+T10	SINTOMA 3007 3038	tabla vestibular muy disminuida
+A1	IMAGEN T1
+A2	IMAGEN T4
+A3	IMAGEN T5
+A4	IMAGEN T7
+A5	IMAGEN T8
+A6	IMAGEN T9

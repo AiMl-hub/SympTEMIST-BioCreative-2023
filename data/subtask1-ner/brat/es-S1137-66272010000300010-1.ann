@@ -1,0 +1,19 @@
+T1	SINTOMA 575 582	astenia
+T2	SINTOMA 584 592	anorexia
+T3	SINTOMA 595 604	debilidad
+T4	SINTOMA 646 660	desorientación
+T5	SINTOMA 663 673	bradifasia
+T6	SINTOMA 722 730	poliuria
+T7	SINTOMA 732 740	nicturia
+T8	SINTOMA 743 753	polidipsia
+T9	SINTOMA 707 720	estreñimiento
+T10	SINTOMA 1070 1142	exploración física, radiografía de abdomen y electrocardiograma normales
+T11	SINTOMA 1577 1607	marcadores tumorales negativos
+T12	SINTOMA 1690 1721	gammagrafía ósea, que es normal
+T13	SINTOMA 1769 1801	masa en fondo de saco de Douglas
+T14	SINTOMA 1922 1954	masa en fondo de saco de Douglas
+T15	SINTOMA 534 553	libre de enfermedad
+A1	RESULTADO T10
+A2	RESULTADO T11
+A3	IMAGEN T12
+A4	IMAGEN T13

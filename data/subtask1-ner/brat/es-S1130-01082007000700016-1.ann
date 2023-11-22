@@ -1,0 +1,18 @@
+T1	SINTOMA 541 561	distensión abdominal
+T2	SINTOMA 122 128	fiebre
+T3	SINTOMA 161 176	dolor abdominal
+T4	SINTOMA 625 649	masa a nivel epigástrico
+T5	SINTOMA 178 185	náuseas
+T7	SINTOMA 805 818	hiperglucemia
+T8	SINTOMA 130 159	afectación del estado general
+T9	SINTOMA 281 307	inestabilidad hemodinámica
+T10	SINTOMA 316 335	taquicardia sinusal
+T11	SINTOMA 826 909	elevación discreta tanto de las cifras de bilirrubina como de las enzimas hepáticas
+T12	SINTOMA 755 803	leucocitosis con importante desviación izquierda
+T13	SINTOMA 346 366	hipotensión arterial
+T14	SINTOMA 570 602	abdomen doloroso de forma difusa
+T15	SINTOMA 1538 1556	material purulento
+T16	SINTOMA 188 208	vómitos alimenticios
+A1	RESULTADO T7
+A2	RESULTADO T11
+A3	RESULTADO T12

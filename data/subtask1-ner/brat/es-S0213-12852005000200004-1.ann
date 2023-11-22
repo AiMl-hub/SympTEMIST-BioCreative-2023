@@ -1,0 +1,15 @@
+T1	SINTOMA 327 364	dificultad en la fonación y deglución
+T2	SINTOMA 413 424	inseguridad
+T3	SINTOMA 724 789	placas blancas en ambas comisuras y, en la mucosa labial inferior
+T4	SINTOMA 2034 2082	prueba del campo oscuro", con resultado positivo
+T5	SINTOMA 2437 2483	resultado del VIH, el cual había dado reactivo
+T6	SINTOMA 51 70	buen estado general
+T7	SINTOMA 1789 1802	VDRL reactiva
+T8	SINTOMA 427 458	ocultamientos en sus respuestas
+T9	SINTOMA 476 564	mucosa bucal reveló las típicas placas opalinas, ligeramente elevadas y blanco grisáceas
+T10	SINTOMA 1240 1246	placas
+T11	SINTOMA 815 821	placas
+T12	SINTOMA 1068 1119	placas similares en el borde izquierdo de la lengua
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	RESULTADO T7

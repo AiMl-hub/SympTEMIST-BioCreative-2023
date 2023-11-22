@@ -1,0 +1,33 @@
+T1	SINTOMA 1086 1112	Abdomen blando, depresible
+T2	SINTOMA 750 760	consciente
+T3	SINTOMA 78 102	dolores osteoarticulares
+T4	SINTOMA 1250 1256	edemas
+T5	SINTOMA 783 791	eupneico
+T6	SINTOMA 1011 1021	extratonos
+T7	SINTOMA 147 153	fiebre
+T8	SINTOMA 894 923	ingurgitación de vena yugular
+T9	SINTOMA 762 771	orientado
+T10	SINTOMA 1182 1198	signos meníngeos
+T11	SINTOMA 994 1000	soplos
+T12	SINTOMA 773 781	sudoroso
+T13	SINTOMA 534 549	síndrome febril
+T14	SINTOMA 2401 2430	testículo aumentado de tamaño
+T15	SINTOMA 959 988	Auscultación cardíaca rítmica
+T16	SINTOMA 1258 1299	Pulsos periféricos presentes y simétricos
+T17	SINTOMA 797 835	buen estado de nutrición e hidratación
+T18	SINTOMA 929 957	pulsos carotídeos simétricos
+T19	SINTOMA 1049 1084	conservación del murmullo vesicular
+T20	SINTOMA 1343 1396	teste derecho aumentado de tamaño, no adherido a piel
+T21	SINTOMA 1467 1506	pérdida del límite epidídimo-testicular
+T22	SINTOMA 1509 1534	transiluminación positiva
+T23	SINTOMA 1924 1947	Orina: sedimento normal
+T24	SINTOMA 1981 2017	Hemocultivos: positivo para Brucella
+T25	SINTOMA 2321 2355	engrosamiento de la bolsa escrotal
+T26	SINTOMA 1118 1123	masas
+T27	SINTOMA 1127 1135	megalias
+T28	SINTOMA 1002 1007	roces
+T29	SINTOMA 1438 1461	doloroso a la palpación
+A1	IMAGEN T14
+A2	RESULTADO T23
+A3	RESULTADO T24
+A4	IMAGEN T25

@@ -1,0 +1,10 @@
+T1	SINTOMA 772 798	retraso funcional de riñón
+T2	SINTOMA 417 447	dolor lumboabdominal izquierdo
+T3	SINTOMA 811 861	deficiente visualización de cálices e infundíbulos
+T4	SINTOMA 895 908	uréter normal
+T5	SINTOMA 1110 1129	buen estado general
+T6	SINTOMA 1198 1228	normal función renal bilateral
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T6

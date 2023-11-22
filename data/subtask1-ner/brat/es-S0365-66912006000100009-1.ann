@@ -1,0 +1,18 @@
+T1	SINTOMA 135 178	disminución indolora de la visión en el ojo
+T2	SINTOMA 403 423	exudado subretiniano
+T3	SINTOMA 308 352	motilidad extrínseca e intrínseca fue normal
+T4	SINTOMA 975 1083	urocultivo y el cultivo de esputo también fueron negativos para el crecimiento de mycobacterium tuberculosis
+T5	SINTOMA 882 898	cultivo negativo
+T6	SINTOMA 513 570	serología Lyme y la radiografía de tórax fueron negativas
+T7	SINTOMA 575 626	estudio sistémico por aparatos no era significativo
+T8	SINTOMA 862 879	bioquímica normal
+T9	SINTOMA 1501 1519	exploración normal
+T10	SINTOMA 750 797	radiografía de tórax siendo igualmente negativa
+T11	SINTOMA 930 970	LCR no detectándose bandas oligoclonales
+T12	SINTOMA 428 570	TAC y RNM órbito-cerebral, serología luética, enzima convertidor de la angiotensina, serología Lyme y la radiografía de tórax fueron negativas
+A1	RESULTADO T4
+A2	RESULTADO T5
+A3	RESULTADO T8
+A4	IMAGEN T10
+A5	RESULTADO T11
+A6	RESULTADO T12

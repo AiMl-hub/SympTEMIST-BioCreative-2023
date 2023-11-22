@@ -1,0 +1,15 @@
+T1	SINTOMA 70 84	dolor en teste
+T2	SINTOMA 192 210	dolor en testículo
+T3	SINTOMA 756 801	tumoración de 23 mm en polo inferior de teste
+T4	SINTOMA 1689 1706	nódulo hipoecoico
+T5	SINTOMA 1868 1902	exploración física resulta anodina
+T6	SINTOMA 1910 1960	marcadores tumorales están dentro de la normalidad
+T7	SINTOMA 458 518	tumoración en polo posteroinferior de teste derecho indolora
+T8	SINTOMA 1635 1668	microcalcificaciones en testículo
+T9	SINTOMA 1757 1781	aumento de flujo Doppler
+T10	SINTOMA 2302 2321	libre de enfermedad
+A1	IMAGEN T3
+A2	IMAGEN T4
+A3	RESULTADO T6
+A4	IMAGEN T8
+A5	IMAGEN T9

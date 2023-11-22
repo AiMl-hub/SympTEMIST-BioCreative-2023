@@ -1,0 +1,8 @@
+T1	SINTOMA 2370 2437	receptores hormonales de estrógenos y de progesterona son negativos
+T2	SINTOMA 151 184	tumoración no dolorosa en la mama
+T3	SINTOMA 277 341	cuadrante ínfero-interno de mama izquierda una tumoración sólida
+T4	SINTOMA 2741 2753	asintomática
+T5	SINTOMA 505 509	masa
+T6	SINTOMA 585 603	masa hipoecogénica
+A1	RESULTADO T1
+A2	IMAGEN T6

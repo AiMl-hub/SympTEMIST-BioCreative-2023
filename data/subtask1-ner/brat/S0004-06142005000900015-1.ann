@@ -1,0 +1,11 @@
+T1	SINTOMA 436 499	masa de 6 x 3 centímetros en el trayecto del cordón espermático
+T2	SINTOMA 654 680	masa en cordón espermático
+T3	SINTOMA 114 168	masa inguinoescrotal izquierda dolorosa a la palpación
+T4	SINTOMA 200 215	pérdida de peso
+T5	SINTOMA 219 237	síndrome miccional
+T6	SINTOMA 948 974	teste y epidídimo normales
+T7	SINTOMA 261 306	testes eran de tamaño y consistencia normales
+T8	SINTOMA 315 367	cordón espermático izquierdo indurado y muy doloroso
+T9	SINTOMA 372 403	ecografía testicular fue normal
+A1	IMAGEN T1
+A2	IMAGEN T9

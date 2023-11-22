@@ -1,0 +1,26 @@
+T1	SINTOMA 327 349	ictericia muco-cutánea
+T2	SINTOMA 208 217	febrícula
+T3	SINTOMA 219 228	ictericia
+T4	SINTOMA 230 268	dolor abdominal en hipocondrio derecho
+T5	SINTOMA 271 291	distensión abdominal
+T6	SINTOMA 1096 1110	hígado pequeño
+T7	SINTOMA 2477 2502	hemodinámicamente estable
+T8	SINTOMA 405 423	aumento del hígado
+T9	SINTOMA 441 484	auscultación cardiorrespiratoria era normal
+T10	SINTOMA 946 963	vía biliar normal
+T11	SINTOMA 965 985	vena porta permeable
+T12	SINTOMA 1738 1771	valores elevados de transaminasas
+T13	SINTOMA 1777 1814	alteración en el tiempo de protromina
+T14	SINTOMA 817 842	infiltrado alveolar basal
+T15	SINTOMA 743 781	Marcadores virales hepáticos negativos
+T16	SINTOMA 879 893	hígado pequeño
+T21	SINTOMA 1585 1618	empeoramiento de la función renal
+A1	IMAGEN T6
+A2	IMAGEN T10
+A3	IMAGEN T11
+A4	RESULTADO T12
+A5	RESULTADO T13
+A6	IMAGEN T14
+A7	RESULTADO T15
+A8	IMAGEN T16
+A9	RESULTADO T21

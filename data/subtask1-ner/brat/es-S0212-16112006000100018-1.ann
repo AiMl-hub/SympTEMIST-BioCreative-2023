@@ -1,0 +1,9 @@
+T1	SINTOMA 407 435	artralgias en ambas rodillas
+T2	SINTOMA 466 524	dolor a la rotación posterior en las dos cabezas femorales
+T3	SINTOMA 617 674	rodilla izquierda tenía el movimiento de flexión reducido
+T4	SINTOMA 793 927	marcadores de autoinmunidad, y las concentraciones plasmáticas de calcio, fósforo y vitamina D estaban dentro del rango de nornialidad
+T5	SINTOMA 1598 1622	hundimiento en la cadera
+T6	SINTOMA 554 612	cadera que además presentaba una rotación interna limitada
+T7	SINTOMA 693 725	marcha se observaba claudicación
+A1	RESULTADO T4
+A2	IMAGEN T5

@@ -1,0 +1,23 @@
+T1	SINTOMA 1290 1329	velamiento en el seno maxilar izquierdo
+T2	SINTOMA 1507 1535	Mantoux también fue negativo
+T3	SINTOMA 1201 1232	radiografía de tórax fue normal
+T4	SINTOMA 424 480	motilidad ocular extrínseca e intrínseca fueron normales
+T5	SINTOMA 485 541	estudio con lámpara de hendidura no presentaba patología
+T6	SINTOMA 546 590	exploración fundoscópica en el OD fue normal
+T7	SINTOMA 969 1040	lesiones eritematosas dolorosas limitadas a las extremidades inferiores
+T8	SINTOMA 1057 1071	eritema nodoso
+T9	SINTOMA 1357 1403	ANA, ANCA, ac antifosfolípidos fueron normales
+T10	SINTOMA 1603 1677	niveles serológicos de IgM frente a B. Henselae por ELISA fueron positivos
+T11	SINTOMA 254 313	pérdida y distorsión de la visión» en el ojo izquierdo (OI)
+T12	SINTOMA 806 849	arañazo de un gato en el muslo de la pierna
+T13	SINTOMA 1408 1502	serología CMV, VEB, Rickettsias, Toxoplasma, VIH, Lyme y la serología luética fueron negativas
+T14	SINTOMA 1902 1929	agudeza visual de la unidad
+A1	IMAGEN T1
+A2	RESULTADO T2
+A3	IMAGEN T3
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T9
+A7	RESULTADO T10
+A8	RESULTADO T13
+A9	RESULTADO T14

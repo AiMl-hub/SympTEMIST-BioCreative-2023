@@ -1,0 +1,10 @@
+T1	SINTOMA 169 179	odinofagia
+T2	SINTOMA 182 188	fiebre
+T3	SINTOMA 409 415	fiebre
+T4	SINTOMA 447 457	odinofagia
+T5	SINTOMA 2163 2175	asintomática
+T6	SINTOMA 1886 1953	ganglios linfáticos, siendo los 25 negativos para células tumorales
+T7	SINTOMA 1361 1373	neoformación
+T8	SINTOMA 1485 1497	neoformación
+T10	SINTOMA 941 950	molestias
+A1	RESULTADO T6

@@ -1,0 +1,47 @@
+T1	SINTOMA 301 315	tos productiva
+T2	SINTOMA 320 348	expectoración muco-purulenta
+T3	SINTOMA 426 449	sintomatología urinaria
+T4	SINTOMA 350 400	disnea progresiva de medianos a pequeños esfuerzos
+T5	SINTOMA 402 423	deposiciones líquidas
+T6	SINTOMA 562 591	piel y mucosas secas, pálidas
+T7	SINTOMA 654 707	eritema centro-facial de mayor intensidad en mejillas
+T8	SINTOMA 709 758	pulmones con condensación incompleta subescapular
+T9	SINTOMA 856 873	Blumberg positivo
+T10	SINTOMA 797 854	Abdomen blando, doloroso en hipocondrio y flanco derechos
+T11	SINTOMA 889 921	flujo genital blanco-amarillento
+T12	SINTOMA 961 997	livedo reticularis en dorso de manos
+T13	SINTOMA 999 1038	cianosis distal en dedos de ambas manos
+T14	SINTOMA 1433 1452	irritación meníngea
+T15	SINTOMA 1308 1349	Edema esbozado en extremidades inferiores
+T16	SINTOMA 1351 1383	petequias en dorso de ambos pies
+T17	SINTOMA 1398 1407	Conciente
+T18	SINTOMA 1409 1418	orientada
+T19	SINTOMA 1933 1941	piocitos
+T20	SINTOMA 2243 2284	curva de tolerancia a la glucosa alterada
+T21	SINTOMA 3146 3203	acrocianosis en falanges distales de dedos de ambas manos
+T22	SINTOMA 2324 2372	Hemocultivo, coprocultivo y urocultivo negativos
+T23	SINTOMA 1270 1306	hemorragias sub-ungueales en astilla
+T24	SINTOMA 469 496	malas condiciones generales
+T25	SINTOMA 1459 1483	focalización neurológica
+T26	SINTOMA 2786 2815	toxoplasma IgG ELISA positiva
+T27	SINTOMA 2829 2896	citomegalovirus IgG ELISA positiva 4,4 (> 1,1) e IgM ELISA positiva
+T28	SINTOMA 166 202	artralgias en articulaciones mayores
+T29	SINTOMA 2084 2128	serología para hepatitis B, C, VIH negativas
+T30	SINTOMA 2286 2322	pruebas de función hepática normales
+T31	SINTOMA 2479 2509	ANA patrón difuso y periférico
+T32	SINTOMA 2640 2655	Sm/RNP positivo
+T33	SINTOMA 1033 1079	manos, con disminución de la temperatura local
+T34	SINTOMA 2374 2385	Proteinuria
+T35	SINTOMA 633 641	alopecia
+T37	SINTOMA 1235 1259	dolorosas a la palpación
+A1	IMAGEN T8
+A2	RESULTADO T19
+A3	RESULTADO T20
+A4	RESULTADO T22
+A5	RESULTADO T26
+A6	RESULTADO T27
+A7	RESULTADO T29
+A8	RESULTADO T30
+A9	RESULTADO T31
+A10	RESULTADO T32
+A11	RESULTADO T34

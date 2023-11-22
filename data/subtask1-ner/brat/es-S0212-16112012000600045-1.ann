@@ -1,0 +1,25 @@
+T1	SINTOMA 2469 2505	urocultivo se aisla Proteus vulgaris
+T2	SINTOMA 2100 2106	fiebre
+T3	SINTOMA 2110 2122	leucocitosis
+T4	SINTOMA 2171 2199	orina muestra un pH alcalino
+T5	SINTOMA 2403 2414	bacteriuria
+T6	SINTOMA 492 514	incontinencia urinaria
+T7	SINTOMA 922 964	orina en bolsa recolectora de color morada
+T8	SINTOMA 1587 1611	color morado de la orina
+T9	SINTOMA 1814 1838	color morado de la orina
+T10	SINTOMA 2429 2461	reacción de nitritos es negativa
+T11	SINTOMA 1014 1022	anasarca
+T12	SINTOMA 2652 2682	orina adquiere un color normal
+T13	SINTOMA 384 405	hipoalbuminemia grave
+T14	SINTOMA 517 540	síndrome de inmovilidad
+T15	SINTOMA 752 770	sangrado digestivo
+T16	SINTOMA 1056 1077	síndrome malabsortivo
+T17	SINTOMA 218 234	reflujo alcalino
+T18	SINTOMA 2284 2346	sedimento se encuentran cristales de fosfato amónico magnésico
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T10
+A6	RESULTADO T13
+A7	RESULTADO T18

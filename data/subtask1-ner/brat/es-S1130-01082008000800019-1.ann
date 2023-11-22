@@ -1,0 +1,18 @@
+T1	SINTOMA 295 308	estreñimiento
+T2	SINTOMA 1582 1590	síntomas
+T3	SINTOMA 185 207	dolor abdominal difuso
+T4	SINTOMA 210 230	distensión abdominal
+T5	SINTOMA 788 810	dolor abdominal difuso
+T6	SINTOMA 1431 1443	asintomático
+T7	SINTOMA 736 771	distensión y timpanismo abdominales
+T8	SINTOMA 851 874	heces en ampolla rectal
+T9	SINTOMA 879 920	hemograma y la bioquímica fueron normales
+T10	SINTOMA 311 335	ausencia de deposiciones
+T11	SINTOMA 1087 1171	enema de bario realizado posteriormente demostró la típica imagen en "pico de pájaro
+T12	SINTOMA 1373 1415	eliminó una gran cantidad de heces y gases
+T13	SINTOMA 1827 1856	segmento redundante del colon
+T14	SINTOMA 570 581	dolicocolon
+A1	RESULTADO T8
+A2	RESULTADO T9
+A3	IMAGEN T11
+A4	RESULTADO T12

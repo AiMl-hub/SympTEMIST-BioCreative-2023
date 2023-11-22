@@ -1,0 +1,14 @@
+T1	SINTOMA 542 570	testículo derecho fue normal
+T2	SINTOMA 654 689	teste izquierdo aumentado de tamaño
+T3	SINTOMA 1168 1242	marcadores tumorales (b-HCG, alfa-fetoproteína y LDH), que fueron normales
+T4	SINTOMA 617 623	piuria
+T5	SINTOMA 1391 1445	parénquima testicular estaba aumentado de consistencia
+T6	SINTOMA 179 216	dolor e inflamación en el hemiescroto
+T7	SINTOMA 362 405	aumento generalizado del contenido escrotal
+T8	SINTOMA 442 475	testículo doloroso a la palpación
+T9	SINTOMA 2323 2335	asintomático
+T10	SINTOMA 518 537	epidídimo engrosado
+T11	SINTOMA 1025 1031	nódulo
+A1	IMAGEN T2
+A2	RESULTADO T3
+A3	RESULTADO T4

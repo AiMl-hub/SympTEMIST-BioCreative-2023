@@ -1,0 +1,11 @@
+T1	SINTOMA 21 62	dolor abdominal progresivo en fosa iliaca
+T2	SINTOMA 98 104	fiebre
+T3	SINTOMA 106 124	pérdida de apetito
+T4	SINTOMA 127 134	náuseas
+T5	SINTOMA 139 146	vómitos
+T6	SINTOMA 708 729	irritación peritoneal
+T7	SINTOMA 592 602	febricular
+T8	SINTOMA 758 814	leucocitosis de 19,100/mm3 con desviación a la izquierda
+T9	SINTOMA 643 692	dolor abdominal, en el cuadrante inferior derecho
+T10	SINTOMA 917 977	engrosamiento de una estructura tubular en la base del ciego
+A1	RESULTADO T8

@@ -1,0 +1,23 @@
+T1	SINTOMA 465 481	malestar general
+T2	SINTOMA 484 490	fiebre
+T3	SINTOMA 180 184	T1G2
+T4	SINTOMA 625 653	auscultación pulmonar normal
+T5	SINTOMA 655 694	puño percusión renal bilateral negativa
+T6	SINTOMA 803 815	leucocitosis
+T7	SINTOMA 1668 1686	episodios febriles
+T8	SINTOMA 872 915	Urocultivos y hemocultivos fueron estériles
+T9	SINTOMA 820 831	neutrofilia
+T10	SINTOMA 540 558	síndrome miccional
+T11	SINTOMA 1024 1073	afectación bilateral y difusa de pequeños nódulos
+T12	SINTOMA 1285 1349	afectación bilateral y difusa parenquimatosa de pequeños nódulos
+T13	SINTOMA 1936 1943	nódulos
+T14	SINTOMA 921 991	búsqueda de bacilos ácido alcohol resistentes en orina fue infructuosa
+T15	SINTOMA 697 717	próstata no dolorosa
+T16	SINTOMA 697 772	próstata no dolorosa ni congestiva, tamaño II/IV y consistencia adenomatosa
+A1	RESULTADO T6
+A2	RESULTADO T8
+A3	RESULTADO T9
+A4	IMAGEN T11
+A5	IMAGEN T12
+A6	IMAGEN T13
+A7	RESULTADO T14

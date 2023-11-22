@@ -1,0 +1,30 @@
+T1	SINTOMA 2375 2424	pérdida concéntrica del 50% del espacio articular
+T2	SINTOMA 51 59	coxalgia
+T3	SINTOMA 3236 3287	dismetría por acortamiento de 1 cm de la extremidad
+T4	SINTOMA 3444 3491	movilidad simétrica e indolora de ambas caderas
+T5	SINTOMA 2536 2541	dolor
+T6	SINTOMA 3514 3559	recuperación incompleta del espacio articular
+T7	SINTOMA 1591 1646	movimiento de la cabeza femoral en bloque con la pelvis
+T8	SINTOMA 396 419	disfunción de la marcha
+T9	SINTOMA 1697 1714	rigidez articular
+T10	SINTOMA 444 470	adducción de la extremidad
+T11	SINTOMA 1813 1830	rigidez articular
+T12	SINTOMA 1976 1981	dolor
+T13	SINTOMA 822 827	edema
+T14	SINTOMA 830 868	discontinuidad del cartílago articular
+T15	SINTOMA 873 893	hipertrofia sinovial
+T16	SINTOMA 2196 2212	actitud en flexo
+T17	SINTOMA 2318 2323	dolor
+T18	SINTOMA 2326 2332	cojera
+T19	SINTOMA 424 441	cojera antiálgica
+T20	SINTOMA 3411 3423	asintomático
+T21	SINTOMA 3425 3442	Trendelenburg (-)
+T22	SINTOMA 644 749	hemograma, marcadores de fase aguda de inflamación y pruebas reumatológicas arrojaron resultados normales
+T23	SINTOMA 1987 2003	actitud de flexo
+T24	SINTOMA 2429 2459	borramiento de la línea medial
+T27	SINTOMA 2232 2243	vida normal
+T28	SINTOMA 3398 3409	vida normal
+A1	IMAGEN T13
+A2	IMAGEN T14
+A3	IMAGEN T15
+A4	RESULTADO T22

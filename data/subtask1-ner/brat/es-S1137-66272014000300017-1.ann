@@ -1,0 +1,15 @@
+T1	SINTOMA 156 172	malestar general
+T2	SINTOMA 188 194	fiebre
+T3	SINTOMA 196 218	síntomas respiratorios
+T4	SINTOMA 423 472	eritema cutáneo en cuello, axilas, tórax y nalgas
+T5	SINTOMA 487 534	despegamiento cutáneo en zona axilar y cervical
+T6	SINTOMA 609 654	eritema e inflamación palpebral y conjuntival
+T7	SINTOMA 837 849	leucocitosis
+T8	SINTOMA 1362 1401	hemocultivo fue informado como negativo
+T9	SINTOMA 1407 1468	cultivo de frotis cutáneo y nasal fue positivo para S. aureus
+T10	SINTOMA 893 930	elevación de reactantes de fase aguda
+T11	SINTOMA 723 791	frecuencia cardiaca, respiratoria y presión arterial fueron normales
+A1	RESULTADO T7
+A2	RESULTADO T8
+A3	RESULTADO T9
+A4	RESULTADO T10

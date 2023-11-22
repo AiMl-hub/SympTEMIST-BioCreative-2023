@@ -1,0 +1,16 @@
+T1	SINTOMA 552 567	rigidez de nuca
+T2	SINTOMA 1444 1473	cisticercos en fase vesicular
+T3	SINTOMA 216 235	periodo confusional
+T4	SINTOMA 653 661	sudorosa
+T5	SINTOMA 252 277	cefalea intensa bilateral
+T6	SINTOMA 323 342	parestesias en mano
+T7	SINTOMA 1168 1193	calcificaciones nodulares
+T8	SINTOMA 604 625	focalidad neurológica
+T9	SINTOMA 571 587	signos meníngeos
+T10	SINTOMA 475 517	presión, frecuencia y temperatura normales
+T11	SINTOMA 858 899	ECG, radiografía de tórax, ambos normales
+T12	SINTOMA 1332 1373	electrencefalograma (EEG), que fue normal
+A1	IMAGEN T2
+A2	IMAGEN T7
+A3	RESULTADO T11
+A4	RESULTADO T12

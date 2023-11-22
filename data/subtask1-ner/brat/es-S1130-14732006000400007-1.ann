@@ -1,0 +1,24 @@
+T1	SINTOMA 3324 3398	tejido inflamatorio de tipo mixto con afectación de hueso y partes blandas
+T2	SINTOMA 833 923	depósito patológico del trazador en seno maxilar, huesos propios nasales y senos frontales
+T3	SINTOMA 2275 2322	seno frontal que había perdido la tabla externa
+T4	SINTOMA 3936 3976	tumefacción o supuración a nivel frontal
+T5	SINTOMA 3978 3986	cefaleas
+T6	SINTOMA 3989 3995	fiebre
+T7	SINTOMA 1347 1375	tumoración en región frontal
+T8	SINTOMA 1391 1408	inflamación local
+T9	SINTOMA 1593 1600	cefalea
+T10	SINTOMA 1603 1609	fiebre
+T11	SINTOMA 1742 1784	zona radiolúcida a nivel del hueso frontal
+T12	SINTOMA 1829 1860	engrosamiento del hueso frontal
+T13	SINTOMA 1961 1995	áreas de secuestro a nivel frontal
+T14	SINTOMA 1467 1541	tumoración blanda a nivel frontal que drenaba abundante material purulento
+T15	SINTOMA 1649 1704	cultivo y antibiograma (no se aislaron microorganismos)
+T16	SINTOMA 3836 3871	relleno total de la cavidad sinusal
+T20	SINTOMA 3729 3738	molestias
+A1	RESULTADO T1
+A2	IMAGEN T2
+A3	IMAGEN T11
+A4	IMAGEN T12
+A5	IMAGEN T13
+A6	RESULTADO T15
+A7	IMAGEN T16

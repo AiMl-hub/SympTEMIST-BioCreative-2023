@@ -1,0 +1,5 @@
+T1	SINTOMA 495 536	dolor cólico periumbilical e hipogástrico
+T2	SINTOMA 741 787	imagen lineal superior a la cicatriz umbilical
+T3	SINTOMA 578 586	sangrado
+T4	SINTOMA 1077 1082	óbito
+A1	EXITUS T4

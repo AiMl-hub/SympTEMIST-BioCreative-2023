@@ -1,0 +1,27 @@
+T1	SINTOMA 124 153	tumefacción de partes blandas
+T2	SINTOMA 799 814	visceromegalias
+T3	SINTOMA 1052 1094	parestesias en las extremidades inferiores
+T4	SINTOMA 1071 1128	extremidades inferiores, asociadas nuevamente a petequias
+T5	SINTOMA 1228 1246	hipocomplementemia
+T6	SINTOMA 2231 2254	proteinuria persistente
+T7	SINTOMA 2823 2843	proteinuria residual
+T8	SINTOMA 515 559	negativos los anticuerpos antifosfolipídicos
+T9	SINTOMA 393 489	serologías para virus hepatotropos y virus de la inmunodeficiencia humana (VIH) fueron negativas
+T10	SINTOMA 2858 2882	función renal conservada
+T11	SINTOMA 1551 1562	proteinuria
+T12	SINTOMA 1268 1319	proteinograma con débil banda anómala en zona gamma
+T13	SINTOMA 165 214	púrpura palpable en ambas extremidades inferiores
+T14	SINTOMA 612 659	púrpura palpable en las extremidades inferiores
+T15	SINTOMA 1364 1395	movilidad restringida IgM kappa
+T17	SINTOMA 2500 2516	afectación renal
+T18	SINTOMA 2794 2810	afectación renal
+A1	IMAGEN T2
+A2	RESULTADO T5
+A3	RESULTADO T6
+A4	RESULTADO T7
+A5	RESULTADO T8
+A6	RESULTADO T9
+A7	RESULTADO T10
+A8	RESULTADO T11
+A9	RESULTADO T12
+A10	RESULTADO T15

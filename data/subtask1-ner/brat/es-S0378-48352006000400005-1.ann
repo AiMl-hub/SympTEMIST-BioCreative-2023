@@ -1,0 +1,35 @@
+T1	SINTOMA 124 135	taquicardia
+T2	SINTOMA 241 262	dolor sordo en flanco
+T3	SINTOMA 298 312	microhematuria
+T4	SINTOMA 6143 6149	emesis
+T5	SINTOMA 6545 6569	dolor abdominal y lumbar
+T6	SINTOMA 3892 3965	aumento de partes blandas por detrás de la cola pancreática y lecho renal
+T7	SINTOMA 431 482	masa sólida de 20x16x13 cm que surge del polo renal
+T8	SINTOMA 6084 6105	cuadro constitucional
+T9	SINTOMA 2074 2084	tumoración
+T10	SINTOMA 774 808	radiografía de tórax que es normal
+T11	SINTOMA 6606 6622	masa epigástrica
+T12	SINTOMA 4197 4224	TAC abdominal que es normal
+T13	SINTOMA 4264 4318	gammagrafía ósea que no presenta hallazgos patológicos
+T14	SINTOMA 6307 6334	masa en el lecho quirúrgico
+T15	SINTOMA 6654 6658	masa
+T16	SINTOMA 7399 7406	fallece
+T17	SINTOMA 7313 7333	masa retroperitoneal
+T18	SINTOMA 7241 7260	vómitos fecaloideos
+T19	SINTOMA 749 767	hiperuricemia leve
+T20	SINTOMA 856 905	imagen con leve aumento de captación del trazador
+T21	SINTOMA 1040 1095	focos de hipercaptación del trazador uno en pala iliaca
+T22	SINTOMA 1721 1725	masa
+T23	SINTOMA 7117 7128	hiperemesis
+T25	SINTOMA 7349 7369	deterioro progresivo
+T26	SINTOMA 6495 6527	empeoramiento del estado general
+A1	IMAGEN T6
+A2	IMAGEN T7
+A3	IMAGEN T10
+A4	IMAGEN T12
+A5	IMAGEN T13
+A6	IMAGEN T14
+A7	EXITUS T16
+A8	RESULTADO T19
+A9	IMAGEN T20
+A10	IMAGEN T21

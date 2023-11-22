@@ -1,0 +1,23 @@
+T1	SINTOMA 2423 2432	Proptosis
+T2	SINTOMA 2434 2450	ptosis palpebral
+T3	SINTOMA 2452 2475	midriasis poco reactiva
+T4	SINTOMA 318 329	polaquiuria
+T5	SINTOMA 1147 1160	dolores óseos
+T6	SINTOMA 332 350	urgencia miccional
+T7	SINTOMA 1657 1670	dolores óseos
+T8	SINTOMA 3471 3482	falleciendo
+T9	SINTOMA 1405 1442	testosterona en niveles de castración
+T10	SINTOMA 2343 2397	dificultad para la separación completa de los párpados
+T11	SINTOMA 251 270	hormonorresistencia
+T12	SINTOMA 1314 1326	asintomático
+T13	SINTOMA 2520 2537	soplos orbitarios
+T14	SINTOMA 790 886	focos de hipercaptación patológica (columna vertebral, cuello y diáfisis femorales, pelvis ósea)
+T15	SINTOMA 297 316	síndrome prostático
+T16	SINTOMA 2303 2330	protrusión del globo ocular
+T17	SINTOMA 2709 2761	Afectación del techo y la pared lateral de la órbita
+T18	SINTOMA 2815 2841	proptosis del globo ocular
+A1	EXITUS T8
+A2	RESULTADO T9
+A3	IMAGEN T14
+A4	IMAGEN T17
+A5	IMAGEN T18

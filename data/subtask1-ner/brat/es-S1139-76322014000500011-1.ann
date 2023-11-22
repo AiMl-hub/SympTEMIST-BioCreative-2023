@@ -1,0 +1,42 @@
+T1	SINTOMA 81 89	gonalgia
+T2	SINTOMA 102 122	signos inflamatorios
+T3	SINTOMA 2583 2630	inflamación y el dolor en la rodilla y el tarso
+T4	SINTOMA 228 279	dolor e inflamación del quinto metatarsiano del pie
+T5	SINTOMA 971 1043	rodilla derecha con dolor, inflamación y movilidad limitada a la flexión
+T6	SINTOMA 1048 1053	dolor
+T7	SINTOMA 1061 1078	peloteo rotuliano
+T8	SINTOMA 370 412	dolor e inflamación en el dorso de la mano
+T9	SINTOMA 1081 1163	inflamación leve con dolor del quinto metacarpofalángico de la mano derecha, y pie
+T10	SINTOMA 1176 1280	aumento de la sensibilidad a la presión en la base del quinto metatarsiano e inflamación local con dolor
+T11	SINTOMA 520 536	clínica urinaria
+T12	SINTOMA 567 574	afebril
+T13	SINTOMA 653 704	impotencia funcional para mantener la bipedestación
+T14	SINTOMA 1396 1405	exantemas
+T15	SINTOMA 916 940	aceptable estado general
+T16	SINTOMA 1873 1889	cultivo negativo
+T17	SINTOMA 1686 1712	factor reumatoide negativo
+T18	SINTOMA 1537 1549	leucocitosis
+T19	SINTOMA 1553 1564	neutrofilia
+T20	SINTOMA 1505 1518	trombocitosis
+T21	SINTOMA 1300 1311	crepitación
+T22	SINTOMA 1345 1380	exploración por aparatos fue normal
+T23	SINTOMA 1443 1487	radiografías en todo momento fueron normales
+T24	SINTOMA 1636 1676	anticuerpos antinucleares (ANA) positivo
+T25	SINTOMA 1714 1731	anti-DNA negativo
+T26	SINTOMA 1792 1812	líquido inflamatorio
+T27	SINTOMA 2219 2322	negativos para anticuerpos antipéptidos cíclicos citrulinados, ENA, HLA B27 y serología hepatitis B y C
+T28	SINTOMA 2354 2420	normales en las pruebas tiroideas, el uroanálisis y la coagulación
+T29	SINTOMA 2720 2740	ecografía fue normal
+T30	SINTOMA 790 822	desarrollo psicomotor era normal
+T31	SINTOMA 1422 1437	visceromegalias
+A1	RESULTADO T16
+A2	RESULTADO T17
+A3	RESULTADO T18
+A4	RESULTADO T19
+A5	RESULTADO T20
+A6	IMAGEN T23
+A7	RESULTADO T24
+A8	RESULTADO T25
+A9	RESULTADO T27
+A10	RESULTADO T28
+A11	IMAGEN T29

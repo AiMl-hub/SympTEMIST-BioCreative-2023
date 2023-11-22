@@ -1,0 +1,29 @@
+T1	SINTOMA 2220 2248	disnea de pequeños esfuerzos
+T2	SINTOMA 636 648	hematoquecia
+T3	SINTOMA 1197 1203	disnea
+T4	SINTOMA 2251 2280	dolor centrotorácico opresivo
+T5	SINTOMA 2527 2549	infiltrados pulmonares
+T6	SINTOMA 1229 1251	infiltrados pulmonares
+T7	SINTOMA 2956 2978	infiltrados pulmonares
+T8	SINTOMA 1817 1839	infiltrados pulmonares
+T9	SINTOMA 2367 2412	murmullo vesicular con crepitantes en la base
+T10	SINTOMA 804 854	infiltrados pulmonares parenquimatosos bilaterales
+T11	SINTOMA 2710 2716	disnea
+T12	SINTOMA 2722 2736	dolor torácico
+T13	SINTOMA 1588 1607	nódulos irregulares
+T14	SINTOMA 1613 1631	nódulo calcificado
+T15	SINTOMA 3054 3096	eosinófilos dentro del rango de normalidad
+T16	SINTOMA 1476 1516	condensación del espacio aéreo bilateral
+T17	SINTOMA 1852 1864	condensación
+T18	SINTOMA 1375 1441	prueba de Mantoux y una broncoscopia, ambas con resultado negativo
+A1	IMAGEN T5
+A2	IMAGEN T6
+A3	IMAGEN T7
+A4	IMAGEN T8
+A5	IMAGEN T10
+A6	IMAGEN T13
+A7	IMAGEN T14
+A8	RESULTADO T15
+A9	IMAGEN T16
+A10	IMAGEN T17
+A11	RESULTADO T18

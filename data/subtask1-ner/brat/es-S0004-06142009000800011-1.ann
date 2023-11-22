@@ -1,0 +1,7 @@
+T1	SINTOMA 183 224	masa sólida de 12 cm por detrás del riñón
+T2	SINTOMA 1215 1279	masa fue claramente visualizada sobre el borde externo del riñón
+T3	SINTOMA 1787 1795	sangrado
+T4	SINTOMA 51 74	desordenes intestinales
+T5	SINTOMA 312 356	masa bien circunscripta por detrás del riñón
+A1	IMAGEN T1
+A2	IMAGEN T5

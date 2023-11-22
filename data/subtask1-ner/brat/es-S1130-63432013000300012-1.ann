@@ -1,0 +1,17 @@
+T1	SINTOMA 1731 1761	deterioro de su estado general
+T2	SINTOMA 1767 1794	disnea de mínimos esfuerzos
+T3	SINTOMA 1796 1804	ortopnea
+T4	SINTOMA 1806 1823	edemas maleolares
+T5	SINTOMA 1830 1844	dolor torácico
+T6	SINTOMA 1264 1272	sangrado
+T7	SINTOMA 732 740	sangrado
+T8	SINTOMA 1611 1651	test de sangre oculta en heces negativos
+T9	SINTOMA 2228 2262	tomografía angiográficas negativas
+T10	SINTOMA 1553 1565	asintomática
+T11	SINTOMA 345 408	gastroscopia y cápsula endoscópica sin hallazgos significativos
+T12	SINTOMA 2318 2338	elevación de la PSAP
+T13	SINTOMA 514 533	sangrado intestinal
+A1	RESULTADO T8
+A2	IMAGEN T9
+A3	RESULTADO T11
+A4	RESULTADO T12

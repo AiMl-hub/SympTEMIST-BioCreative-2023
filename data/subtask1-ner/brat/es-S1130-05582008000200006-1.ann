@@ -1,0 +1,9 @@
+T1	SINTOMA 1391 1414	masa de tejidos blandos
+T2	SINTOMA 709 729	dolor a la palpación
+T3	SINTOMA 71 131	tumoración en región basal mandibular a nivel parasinfisario
+T4	SINTOMA 1180 1249	aumento de densidad ósea a nivel mandibular en región parasinfisiaria
+T5	SINTOMA 1308 1364	erosión de la cortical mandibular a nivel parasinfisario
+T6	SINTOMA 2391 2401	tumoración
+A1	IMAGEN T1
+A2	IMAGEN T4
+A3	IMAGEN T5

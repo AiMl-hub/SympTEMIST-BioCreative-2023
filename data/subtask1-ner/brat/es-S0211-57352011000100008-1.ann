@@ -1,0 +1,35 @@
+T1	SINTOMA 149 173	alteraciones de conducta
+T2	SINTOMA 435 467	oscilaciones del estado de ánimo
+T3	SINTOMA 526 535	disartria
+T4	SINTOMA 537 560	dificultad en la marcha
+T5	SINTOMA 563 594	desorientación temporo-espacial
+T6	SINTOMA 725 731	fiebre
+T7	SINTOMA 743 763	distensión abdominal
+T8	SINTOMA 1467 1474	mutismo
+T9	SINTOMA 1476 1484	acinesia
+T10	SINTOMA 1486 1493	rigidez
+T11	SINTOMA 1495 1509	temblor distal
+T12	SINTOMA 1512 1536	disminución del parpadeo
+T13	SINTOMA 1550 1556	fiebre
+T14	SINTOMA 1625 1652	alteraciones electrolíticas
+T15	SINTOMA 1686 1696	diaforesis
+T16	SINTOMA 1699 1733	nula ingesta de líquido y alimento
+T17	SINTOMA 2230 2236	fiebre
+T18	SINTOMA 2241 2251	diaforesis
+T19	SINTOMA 2298 2312	desorientación
+T20	SINTOMA 2330 2375	cultivo para Virus Herpes Simple fue negativo
+T21	SINTOMA 2535 2543	eutímica
+T22	SINTOMA 1740 1773	deterioro del nivel de conciencia
+T23	SINTOMA 2265 2292	alteraciones electrolíticas
+T24	SINTOMA 470 493	vestimenta extravagante
+T25	SINTOMA 858 910	litemia, el ECG, la CK y la TAC craneal son normales
+T26	SINTOMA 973 1015	punción lumbar con recuento celular normal
+T27	SINTOMA 1285 1404	punción lumbar, RM de cráneo, TAC torácico y abdómino-pélvico, hemocultivos y urocultivos que no presentan alteraciones
+T28	SINTOMA 2118 2147	discurso espontáneo coherente
+T32	SINTOMA 1103 1123	síndrome confusional
+A1	RESULTADO T14
+A2	RESULTADO T20
+A3	RESULTADO T23
+A4	RESULTADO T25
+A5	RESULTADO T26
+A6	RESULTADO T27

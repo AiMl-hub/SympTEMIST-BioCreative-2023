@@ -1,0 +1,9 @@
+T1	SINTOMA 1092 1131	dolor a nivel del tercer molar inferior
+T2	SINTOMA 67 87	dolor hemimandíbular
+T3	SINTOMA 100 106	fiebre
+T4	SINTOMA 223 299	dolor a la palpación de los tejidos pericoronarios del tercer molar inferior
+T5	SINTOMA 1166 1240	imagen radiolúcida de gran tamaño en torno a la corona del cordal inferior
+T6	SINTOMA 359 396	leve aumento del número de leucocitos
+T7	SINTOMA 480 563	terceros molares incluídos, en posición mesioangular, con sendos sacos foliculares,
+A1	IMAGEN T5
+A2	IMAGEN T7

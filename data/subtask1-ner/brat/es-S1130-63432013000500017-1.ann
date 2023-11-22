@@ -1,0 +1,16 @@
+T1	SINTOMA 1101 1115	mutación T315I
+T2	SINTOMA 205 214	cansancio
+T3	SINTOMA 216 221	dolor
+T4	SINTOMA 223 254	quemazón e hinchazón en piernas
+T5	SINTOMA 256 274	edemas en párpados
+T6	SINTOMA 1612 1631	dolor osteomuscular
+T7	SINTOMA 1633 1640	astenia
+T8	SINTOMA 1643 1672	elevación de tensión arterial
+T9	SINTOMA 504 518	mutación Y253F
+T10	SINTOMA 615 629	mutación Y253F
+T11	SINTOMA 852 867	tos persistente
+T12	SINTOMA 870 877	astenia
+T13	SINTOMA 183 191	síntomas
+A1	RESULTADO T1
+A2	RESULTADO T9
+A3	RESULTADO T10

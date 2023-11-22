@@ -1,0 +1,7 @@
+T1	SINTOMA 146 152	fiebre
+T2	SINTOMA 816 871	tóxicos en orina, que resultaron positivos para cocaína
+T3	SINTOMA 339 388	exploración física y neurológica posterior normal
+T4	SINTOMA 588 724	hemograma, pruebas de función renal, hepática, reactantes de fase aguda, ecografía cerebral y electroencefalograma, con resultado normal
+T5	SINTOMA 308 337	constantes vitales mantenidas
+A1	RESULTADO T2
+A2	RESULTADO T4

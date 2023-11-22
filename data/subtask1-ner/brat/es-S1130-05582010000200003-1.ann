@@ -1,0 +1,16 @@
+T1	SINTOMA 688 728	dolor y tumefacción a nivel preauricular
+T2	SINTOMA 1356 1441	bolsón vascular de 36 × 25 × 24 cm, situado por detrás de la rama vertical mandibular
+T3	SINTOMA 830 838	tinnitus
+T4	SINTOMA 877 907	limitación de la apertura oral
+T5	SINTOMA 289 299	hipotermia
+T6	SINTOMA 914 937	tumoración preauricular
+T7	SINTOMA 1663 1707	drenaje venoso hacia la vena yugular externa
+T8	SINTOMA 1053 1057	masa
+T9	SINTOMA 1577 1657	imagen de aferencia arterial proveniente de ramas de la arteria carótida externa
+T10	SINTOMA 2069 2122	flujo retrógrado de la arteria facial hacia el bolsón
+T11	SINTOMA 2365 2414	relleno retrógrado tardío desde la arteria facial
+A1	IMAGEN T2
+A2	IMAGEN T7
+A3	IMAGEN T9
+A4	IMAGEN T10
+A5	IMAGEN T11

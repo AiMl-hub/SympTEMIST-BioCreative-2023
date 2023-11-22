@@ -1,0 +1,18 @@
+T1	SINTOMA 383 431	próstata es de características fibroadenomatosas
+T2	SINTOMA 1841 1861	masa retroperitoneal
+T3	SINTOMA 696 748	efecto masa situada en hipocondrio y vacío izquierdo
+T4	SINTOMA 861 894	masa situada en el retroperitoneo
+T5	SINTOMA 504 574	masa situada en hipocondrio y vacío izquierdo, dolorosa a la palpación
+T6	SINTOMA 1789 1817	masa suprarrenal calcificada
+T7	SINTOMA 1278 1406	niveles en orina de 17-cetosteroides y corticosteroides, así como las catecolaminas, metanefrinas y vanilmandelato eran normales
+T8	SINTOMA 306 315	hematuria
+T9	SINTOMA 55 74	síndrome prostático
+T10	SINTOMA 628 662	bioquímica dentro de la normalidad
+T11	SINTOMA 1500 1567	bacilos ácido alcohol resistentes en orina y esputo siendo negativo
+T12	SINTOMA 2568 2579	falleciendo
+T14	SINTOMA 452 464	nodulaciones
+A1	IMAGEN T3
+A2	RESULTADO T7
+A3	RESULTADO T10
+A4	RESULTADO T11
+A5	EXITUS T12

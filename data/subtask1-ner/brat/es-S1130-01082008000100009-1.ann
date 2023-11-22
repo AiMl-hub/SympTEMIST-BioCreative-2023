@@ -1,0 +1,9 @@
+T1	SINTOMA 229 259	elevación de las transaminasas
+T2	SINTOMA 277 327	alteración en las pruebas de coagulación sanguínea
+T3	SINTOMA 370 378	falleció
+T4	SINTOMA 170 190	hemorragia digestiva
+T5	SINTOMA 192 199	melenas
+T6	SINTOMA 474 501	hemorragia digestiva masiva
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	EXITUS T3

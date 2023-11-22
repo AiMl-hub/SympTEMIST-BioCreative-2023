@@ -1,0 +1,29 @@
+T1	SINTOMA 126 154	distensión y dolor abdominal
+T2	SINTOMA 182 191	febrícula
+T3	SINTOMA 515 524	febrícula
+T4	SINTOMA 539 622	abdomen distendido, difusamente doloroso a la palpación, timpanizado a la percusión
+T5	SINTOMA 709 773	disminución de la ventilación en la mitad inferior del hemitórax
+T6	SINTOMA 3586 3606	dorsalgias mecánicas
+T7	SINTOMA 666 677	peritonismo
+T8	SINTOMA 166 179	estreñimiento
+T9	SINTOMA 636 647	borborigmos
+T10	SINTOMA 1417 1462	VSG y la proteína C reactiva estaban elevadas
+T11	SINTOMA 2373 2411	hemocultivos seriados fueron negativos
+T12	SINTOMA 2443 2526	punción aspirativa del espacio D10-D11 se observaron cadenas de cocos grampositivos
+T13	SINTOMA 3045 3087	citología no evidenció células neoplásicas
+T14	SINTOMA 2931 3039	tinción de auramina-rodamina como el cultivo en medio Löwenstein-Jensen del líquido pleural fueron negativos
+T15	SINTOMA 816 896	dolor a la palpación y percusión de las tres últimas apófisis espinosas dorsales
+T16	SINTOMA 1572 1606	Mantoux (10 UI RT-23) fue positiva
+T17	SINTOMA 342 478	fibroendoscopia digestiva alta (esófago, estómago y duodeno) así como una colonoscopia (hasta ángulo esplénico), sin encontrar anomalías
+T18	SINTOMA 1084 1373	normales o negativos: urea, creatinina, bilirrubina, transaminasas, gammaglutamiltranspeptidasa, sodio, potasio, cloro, calcio, fósforo, creatinfosfoquinasa, amilasa, lácticodehidrogenasa (LDH), proteínograma, dosificación de inmunoglobulinas, alfa-fetoproteína, antígenos CA 19.9 y CA 125
+T19	SINTOMA 1696 1727	atelectasia del lóbulo inferior
+T20	SINTOMA 1979 2034	cambios degenerativos a lo largo del raquis dorsolumbar
+A1	RESULTADO T10
+A2	RESULTADO T11
+A3	RESULTADO T12
+A4	RESULTADO T13
+A5	RESULTADO T14
+A6	RESULTADO T16
+A7	RESULTADO T17
+A8	IMAGEN T19
+A9	IMAGEN T20

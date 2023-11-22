@@ -1,0 +1,88 @@
+T1	SINTOMA 314 361	dolor y rigidez en zonas proximales de miembros
+T2	SINTOMA 428 437	febrícula
+T3	SINTOMA 439 446	astenia
+T4	SINTOMA 448 456	anorexia
+T5	SINTOMA 458 486	pérdida de unos 8 kg de peso
+T6	SINTOMA 653 668	palidez cutánea
+T7	SINTOMA 2227 2236	febrícula
+T8	SINTOMA 2252 2258	fiebre
+T9	SINTOMA 2314 2322	tos seca
+T10	SINTOMA 2324 2332	anorexia
+T11	SINTOMA 2336 2360	dolor difuso del abdomen
+T12	SINTOMA 1158 1180	Hemocultivos negativos
+T13	SINTOMA 574 593	buen estado general
+T14	SINTOMA 674 717	auscultación cardio-respiratoria era normal
+T15	SINTOMA 1185 1214	sedimento de orina era normal
+T16	SINTOMA 1292 1345	tracto fibroso de aspecto residual en lóbulo inferior
+T17	SINTOMA 1358 1392	transito gastroduodenal fue normal
+T18	SINTOMA 1397 1449	ecografía abdominal y la TAC abdominal eran normales
+T19	SINTOMA 1454 1477	gastroscopia era normal
+T20	SINTOMA 2656 2676	Proteinograma normal
+T21	SINTOMA 2678 2705	Hormonas tiroideas normales
+T22	SINTOMA 2759 2790	Test de Coombs directo negativo
+T23	SINTOMA 3080 3126	Serología virus VIH, hepatitis B y C negativos
+T24	SINTOMA 3128 3149	ZN de esputo negativo
+T25	SINTOMA 3154 3184	prueba de Mantoux fue negativa
+T26	SINTOMA 3345 3380	sangre oculta en heces era negativa
+T27	SINTOMA 3579 3632	ecografía abdominal no había hallazgos significativos
+T28	SINTOMA 3708 3731	gastroscopia era normal
+T29	SINTOMA 3820 3833	ritmo sinusal
+T30	SINTOMA 4045 4068	compromiso hemodinámico
+T31	SINTOMA 4383 4422	cultivo líquido pericárdico fue estéril
+T32	SINTOMA 4427 4449	tinción de ZN negativo
+T33	SINTOMA 4454 4498	citología fue negativo para células malignas
+T34	SINTOMA 1840 1852	asintomática
+T35	SINTOMA 2150 2162	asintomática
+T36	SINTOMA 2365 2394	exploración física era normal
+T37	SINTOMA 613 640	tensión arterial era normal
+T38	SINTOMA 2175 2212	hemoglobina, la VSG y la PCR normales
+T39	SINTOMA 2812 2865	Hemocultivos, coprocultivos y urinocultivos negativos
+T40	SINTOMA 3257 3283	Complemento C3 y C4 normal
+T41	SINTOMA 3186 3223	CEA, y beta-2-microglobulina normales
+T42	SINTOMA 3285 3340	Factor reumatoideo, ANA, AMA, ANCA y anti LKM negativos
+T43	SINTOMA 1066 1093	Factor reumatoideo negativo
+T44	SINTOMA 1095 1113	Tirotropina normal
+T45	SINTOMA 1115 1156	b2 microglobulina, CEA y CA 19,9 normales
+T46	SINTOMA 1219 1254	sangre oculta en heces fue negativa
+T47	SINTOMA 2707 2757	folato y cobalamina haptoglobina normales normales
+T48	SINTOMA 3861 3897	falta de activación de vector septal
+T49	SINTOMA 4012 4039	mala relajación ventricular
+T50	SINTOMA 944 1064	glucosa, creatinina, calcio, fósforo, colesterol, triglicéridos, proteínas, GOT, GPT, LDH, CPK, sodio y potasio normales
+T51	SINTOMA 2867 3078	Serologías de Toxoplasma, Citomegalovirus, Epstein Barr, Salmonella tiphy y parathiphy, Brucella, Coxiella burnetti, adenovirus, virus respiratorio sincitial, influenza A FC, B FC, parainfluenza 1+3 FC negativos
+T52	SINTOMA 3485 3509	esclerosis a nivel de L4
+T53	SINTOMA 4139 4182	líquido sero-fibrinoso de color amarillento
+A1	RESULTADO T12
+A2	RESULTADO T15
+A3	IMAGEN T16
+A4	RESULTADO T17
+A5	IMAGEN T18
+A6	RESULTADO T19
+A7	RESULTADO T20
+A8	RESULTADO T21
+A9	RESULTADO T22
+A10	RESULTADO T23
+A11	RESULTADO T24
+A12	RESULTADO T25
+A13	RESULTADO T26
+A14	IMAGEN T27
+A15	RESULTADO T28
+A16	RESULTADO T29
+A17	RESULTADO T31
+A18	RESULTADO T32
+A19	RESULTADO T33
+A20	RESULTADO T38
+A21	RESULTADO T39
+A22	RESULTADO T40
+A23	RESULTADO T41
+A24	RESULTADO T42
+A25	RESULTADO T43
+A26	RESULTADO T44
+A27	RESULTADO T45
+A28	RESULTADO T46
+A29	RESULTADO T47
+A30	RESULTADO T48
+A31	IMAGEN T49
+A32	RESULTADO T50
+A33	RESULTADO T51
+A34	IMAGEN T52
+A35	RESULTADO T53

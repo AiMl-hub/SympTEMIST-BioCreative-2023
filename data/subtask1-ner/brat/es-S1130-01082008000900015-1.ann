@@ -1,0 +1,14 @@
+T1	SINTOMA 182 192	consciente
+T2	SINTOMA 714 797	área hiperactiva focal en fosa iliaca derecha adyacente a la arteria iliaca derecha
+T3	SINTOMA 222 249	abdomen blando y depresible
+T4	SINTOMA 195 204	orientado
+T5	SINTOMA 1127 1147	signos inflamatorios
+T6	SINTOMA 135 167	deposición melénica-rectorrágica
+T7	SINTOMA 401 432	gastroscopia que resultó normal
+T8	SINTOMA 251 294	tacto rectal positivo para restos hemáticos
+T9	SINTOMA 101 116	cuadro sincopal
+T10	SINTOMA 828 852	mucosa gástrica ectópica
+T11	SINTOMA 1448 1476	mucosa gástrica heterotópica
+A1	IMAGEN T2
+A2	RESULTADO T7
+A3	IMAGEN T10

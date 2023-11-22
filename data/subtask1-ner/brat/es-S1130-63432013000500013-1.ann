@@ -1,0 +1,14 @@
+T1	SINTOMA 520 531	neutropenia
+T2	SINTOMA 475 490	trombocitopenia
+T3	SINTOMA 573 624	valores de hemoglobina (Hb) dentro de la normalidad
+T4	SINTOMA 646 755	alanina-aminotransferasa (ALT) y aspartato-aminotransferasa (AST) presentaron valores dentro de la normalidad
+T5	SINTOMA 794 860	gamma-glutamiltranspeptidasa (GGT) se encontró ligeramente elevada
+T6	SINTOMA 934 956	CVVIH fue indetectable
+T7	SINTOMA 1913 1931	CVVHC indetectable
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T4
+A5	RESULTADO T5
+A6	RESULTADO T6
+A7	RESULTADO T7

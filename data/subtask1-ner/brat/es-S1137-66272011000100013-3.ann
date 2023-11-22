@@ -1,0 +1,19 @@
+T1	SINTOMA 272 275	tos
+T2	SINTOMA 278 302	expectoración marronácea
+T3	SINTOMA 409 427	roncus bilaterales
+T4	SINTOMA 489 501	leucocitosis
+T5	SINTOMA 675 730	afectación intersticial micronodular bilateral y difusa
+T6	SINTOMA 915 953	engrosamiento pleural nodular y difuso
+T7	SINTOMA 364 406	constantes vitales dentro de la normalidad
+T8	SINTOMA 740 797	nódulos calcificados, de predominio en lóbulos superiores
+T9	SINTOMA 800 813	conglomerados
+T10	SINTOMA 958 1005	cultivo fue positivo para Aspergillus fumigatus
+T11	SINTOMA 1205 1215	hemoptisis
+T12	SINTOMA 1098 1129	antígeno galactomanano negativo
+T13	SINTOMA 236 246	hemoptisis
+A1	RESULTADO T4
+A2	IMAGEN T5
+A3	IMAGEN T6
+A4	IMAGEN T8
+A5	IMAGEN T9
+A6	RESULTADO T10

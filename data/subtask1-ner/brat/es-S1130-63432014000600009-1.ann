@@ -1,0 +1,30 @@
+T1	SINTOMA 2219 2249	aumento de la actividad física
+T2	SINTOMA 2281 2289	disfagia
+T3	SINTOMA 211 229	debilidad muscular
+T4	SINTOMA 1080 1107	alteración motora esofágica
+T5	SINTOMA 1121 1153	retraso del vaciamiento gástrico
+T6	SINTOMA 2542 2559	caída del cabello
+T7	SINTOMA 2562 2596	parestesias en miembros inferiores
+T8	SINTOMA 709 717	mialgias
+T9	SINTOMA 720 738	debilidad muscular
+T10	SINTOMA 776 782	fiebre
+T11	SINTOMA 784 792	disfagia
+T12	SINTOMA 795 819	pérdida de 10 kg de peso
+T13	SINTOMA 3035 3046	parestesias
+T14	SINTOMA 3161 3177	afección cutánea
+T15	SINTOMA 294 319	anticuerpos ANA positivos
+T16	SINTOMA 330 349	Mi-1:Mi-2 positivos
+T17	SINTOMA 362 385	anti-P155/140 negativos
+T18	SINTOMA 472 511	reactantes de fase aguda están elevados
+T19	SINTOMA 254 280	CK y aldolasa son normales
+T20	SINTOMA 1241 1290	estudio pulmonar y el ecocardiograma son normales
+T21	SINTOMA 2393 2415	CK y aldolasa normales
+A1	IMAGEN T4
+A2	IMAGEN T5
+A3	RESULTADO T15
+A4	RESULTADO T16
+A5	RESULTADO T17
+A6	RESULTADO T18
+A7	RESULTADO T19
+A8	RESULTADO T20
+A9	RESULTADO T21

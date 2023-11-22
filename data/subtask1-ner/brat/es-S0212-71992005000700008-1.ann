@@ -1,0 +1,47 @@
+T1	SINTOMA 1846 1876	radiografía de tórax es normal
+T2	SINTOMA 2020 2028	sudoroso
+T3	SINTOMA 2030 2042	taquicárdico
+T4	SINTOMA 157 164	astenia
+T5	SINTOMA 890 898	eupneico
+T6	SINTOMA 903 935	auscultación cardíaca es rítmica
+T7	SINTOMA 180 186	fatiga
+T8	SINTOMA 937 949	taquicárdica
+T9	SINTOMA 966 1022	abdomen es blando y depresible, doloroso de forma difusa
+T10	SINTOMA 250 269	disminución de peso
+T11	SINTOMA 1028 1050	defensa a la palpación
+T12	SINTOMA 326 341	dolor abdominal
+T13	SINTOMA 1095 1169	hiperpigmentación cutánea generalizada, acentuada en pezones, área genital
+T14	SINTOMA 1176 1224	manchas melánicas en paladar y bordes gingivales
+T15	SINTOMA 623 630	vómitos
+T16	SINTOMA 632 654	dolor abdominal difuso
+T17	SINTOMA 669 690	deposiciones líquidas
+T18	SINTOMA 830 837	afebril
+T19	SINTOMA 839 849	consciente
+T20	SINTOMA 867 888	focalidad neurológica
+T21	SINTOMA 852 861	orientado
+T22	SINTOMA 955 961	soplos
+T23	SINTOMA 229 245	síndrome general
+T24	SINTOMA 1065 1070	masas
+T25	SINTOMA 1793 1810	configuración RSR
+T26	SINTOMA 3021 3070	glándulas suprarrenales morfológicamente normales
+T27	SINTOMA 1814 1832	prolongación de QT
+T28	SINTOMA 1759 1778	taquicardia sinusal
+T29	SINTOMA 1694 1722	Coagulación sin alteraciones
+T30	SINTOMA 2711 2804	anticuerpos anti-cápsulas suprarrenales en suero por imnufluorescencia indirecta fue positiva
+T31	SINTOMA 3221 3266	función renal e iones dentro de la normalidad
+T32	SINTOMA 2045 2054	hipotenso
+T33	SINTOMA 525 556	reflujo biliar duodeno-gástrico
+T34	SINTOMA 1955 1969	hiperpotasemia
+T35	SINTOMA 2848 2991	tirotropina, tiroxina libre, FSH y LH, asi como anticuerpos antitiroglobulina y antiperoxidasa microsomial resultaron dentro de rangos normales
+T37	SINTOMA 1074 1082	megalias
+A1	RESULTADO T1
+A2	RESULTADO T25
+A3	IMAGEN T26
+A4	RESULTADO T27
+A5	RESULTADO T28
+A6	RESULTADO T29
+A7	RESULTADO T30
+A8	RESULTADO T31
+A9	RESULTADO T33
+A10	RESULTADO T34
+A11	RESULTADO T35

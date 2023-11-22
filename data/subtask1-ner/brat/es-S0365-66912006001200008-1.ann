@@ -1,0 +1,44 @@
+T1	SINTOMA 197 230	agudeza visual (AV) es baja en OD
+T2	SINTOMA 437 458	convulsiones febriles
+T3	SINTOMA 279 293	fija la mirada
+T4	SINTOMA 296 317	coge objetos pequeños
+T5	SINTOMA 379 412	fijación excéntrica en ambos ojos
+T6	SINTOMA 634 657	polo anterior es normal
+T7	SINTOMA 1381 1412	radiografía de cráneo es normal
+T8	SINTOMA 1171 1196	vasos retinianos normales
+T9	SINTOMA 1726 1790	Citomegalovirus, niño negativo, madre positiva con títulos bajos
+T10	SINTOMA 1818 1880	Herpes tipo I, niño negativo, madre positiva con títulos bajos
+T11	SINTOMA 1905 1968	Herpes tipo II, niño negativo, madre positiva con títulos bajos
+T12	SINTOMA 2768 2834	índice calcio/creatinina y la magnesemia están dentro de lo normal
+T13	SINTOMA 323 355	reflejo luminoso sobre la cornea
+T14	SINTOMA 1327 1335	nistagmo
+T15	SINTOMA 1645 1670	negativos para toxoplasma
+T16	SINTOMA 2112 2147	Sífilis, RPR madre e hijo negativos
+T17	SINTOMA 2248 2307	Virus de la coriomeningitis linfocitaria, los dos positivos
+T18	SINTOMA 2470 2508	anticuerpos del niño no están elevados
+T19	SINTOMA 881 897	periferia normal
+T20	SINTOMA 1207 1257	coroideos sobre la esclera con cúmulos de pigmento
+T21	SINTOMA 1996 2069	Virus varicela-zoster, niño negativo, madre positiva con títulos elevados
+T22	SINTOMA 2149 2173	Rubéola, ambos positivos
+T23	SINTOMA 2626 2682	fondo de ojo a sus padres y hermanos, son todos normales
+T24	SINTOMA 2710 2724	hipercalciuria
+T25	SINTOMA 2727 2741	hipomagnesemia
+T26	SINTOMA 2910 2961	AV en el OD es de percepción y proyección de la luz
+A1	RESULTADO T6
+A2	IMAGEN T7
+A3	RESULTADO T8
+A4	RESULTADO T9
+A5	RESULTADO T10
+A6	RESULTADO T11
+A7	RESULTADO T12
+A8	RESULTADO T15
+A9	RESULTADO T16
+A10	RESULTADO T17
+A11	RESULTADO T18
+A12	RESULTADO T19
+A13	RESULTADO T20
+A14	RESULTADO T21
+A15	RESULTADO T22
+A16	RESULTADO T23
+A17	RESULTADO T24
+A18	RESULTADO T25

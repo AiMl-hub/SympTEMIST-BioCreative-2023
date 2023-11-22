@@ -1,0 +1,5 @@
+T1	SINTOMA 435 506	tumoración maxilar derecha con infiltración hacia antro y cavidad nasal
+T2	SINTOMA 2466 2485	buen estado general
+T3	SINTOMA 1116 1179	ocupa toda la maxila derecha y parcialmente la maxila izquierda
+A1	IMAGEN T1
+A2	IMAGEN T3

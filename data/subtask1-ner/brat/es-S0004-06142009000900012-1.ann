@@ -1,0 +1,24 @@
+T1	SINTOMA 887 976	masa a nivel de flanco y fosa iliaca derechas que se continua a la región inguinoescrotal
+T2	SINTOMA 1605 1622	creatinina normal
+T3	SINTOMA 1900 1919	masa en fosa iliaca
+T4	SINTOMA 114 164	dolor tipo urente en hipocondrio y región inguinal
+T5	SINTOMA 199 205	fiebre
+T6	SINTOMA 207 223	malestar general
+T7	SINTOMA 226 256	síntomas urinarios irritativos
+T8	SINTOMA 692 715	dificultad respiratoria
+T9	SINTOMA 741 754	masa tiroidea
+T10	SINTOMA 1155 1180	transiluminacion negativa
+T11	SINTOMA 3803 3823	masa inguinoescrotal
+T12	SINTOMA 1103 1149	masa tiene consistencia firme y dura, no móvil
+T13	SINTOMA 1280 1300	tacto rectal anodino
+T14	SINTOMA 1323 1350	dolor a la percusión lumbar
+T15	SINTOMA 3849 3861	asintomático
+T16	SINTOMA 3112 3122	tumoración
+T17	SINTOMA 1069 1098	cambios inflamatorios locales
+T18	SINTOMA 1185 1237	testículo derecho no fue palpable por efecto de masa
+T19	SINTOMA 1242 1275	testículo izquierdo está presente
+T20	SINTOMA 2191 2201	tumoración
+T21	SINTOMA 3632 3645	masa cervical
+T24	SINTOMA 794 817	dolorosa a la palpación
+A1	RESULTADO T2
+A2	IMAGEN T3

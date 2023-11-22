@@ -1,0 +1,24 @@
+T1	SINTOMA 849 891	exploración física es estrictamente normal
+T2	SINTOMA 987 1010	impedanciometría normal
+T3	SINTOMA 705 724	clínica vertiginosa
+T4	SINTOMA 755 762	otalgia
+T5	SINTOMA 766 774	otodinia
+T6	SINTOMA 778 805	sensación de plenitud ótica
+T7	SINTOMA 810 844	movilidad facial estaba conservada
+T8	SINTOMA 1307 1317	hipoacusia
+T9	SINTOMA 731 744	inestabilidad
+T10	SINTOMA 398 416	ganglios negativos
+T11	SINTOMA 2565 2600	afectación de sus niveles auditivos
+T12	SINTOMA 206 210	G3T2
+T13	SINTOMA 371 373	G3
+T14	SINTOMA 392 396	pt3b
+T15	SINTOMA 905 971	audiometría hipoacusia profunda del oído derecho y cofosis de oído
+T16	SINTOMA 1065 1075	hipoacusia
+T17	SINTOMA 1544 1561	hipoacúsia súbita
+T18	SINTOMA 590 621	acúfenos de instauración súbita
+T19	SINTOMA 637 657	hipoacusia bilateral
+T20	SINTOMA 2050 2087	restos auditivos en graves en el oído
+T21	SINTOMA 2103 2134	ascenso de los umbrales en oído
+T22	SINTOMA 2268 2306	restos auditivos en frecuencias graves
+A1	RESULTADO T2
+A2	RESULTADO T15

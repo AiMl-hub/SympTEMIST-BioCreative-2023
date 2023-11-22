@@ -1,0 +1,14 @@
+T1	SINTOMA 1216 1236	dispepsia flatulenta
+T2	SINTOMA 1238 1245	vómitos
+T3	SINTOMA 1248 1255	prurito
+T4	SINTOMA 73 101	visión borrosa en ambos ojos
+T5	SINTOMA 1311 1339	aumento de las transaminasas
+T6	SINTOMA 1522 1622	Antígeno de superficie VHB, Anticuerpo anti-HBs, Anticuerpo anti-HBc y Anticuerpo anti-VHC negativos
+T7	SINTOMA 1639 1672	ecografía hepática que fue normal
+T8	SINTOMA 1474 1520	AMA (Anticuerpos antimitocondriales) negativos
+T9	SINTOMA 596 646	agudeza visual (AV) era de la unidad en ambos ojos
+T10	SINTOMA 1905 1930	leve del cuadro digestivo
+A1	RESULTADO T5
+A2	RESULTADO T6
+A3	IMAGEN T7
+A4	RESULTADO T8

@@ -1,0 +1,6 @@
+T1	SINTOMA 1329 1336	prurito
+T2	SINTOMA 1346 1356	supuración
+T3	SINTOMA 916 991	tiempo parcial de tromboplastina activada (TTPA) persistentemente alargados
+T4	SINTOMA 1390 1457	cultivo, en el que aparece crecimiento de flora colonizante uretral
+A1	RESULTADO T3
+A2	RESULTADO T4

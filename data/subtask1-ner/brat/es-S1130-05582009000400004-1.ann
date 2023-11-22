@@ -1,0 +1,12 @@
+T1	SINTOMA 377 443	abombamiento de la tabla vestibular y lingual del maxilar inferior
+T2	SINTOMA 642 663	reabsorción radicular
+T3	SINTOMA 143 192	aumento de volumen en región de ángulo mandibular
+T4	SINTOMA 1022 1062	aumento de grosor de la basal mandibular
+T5	SINTOMA 269 280	tumefacción
+T6	SINTOMA 333 343	parestesia
+T7	SINTOMA 449 485	piezas dentarias se observaban sanas
+T8	SINTOMA 506 530	mucosa de aspecto normal
+T9	SINTOMA 1001 1018	neoformación ósea
+T10	SINTOMA 288 311	dolorosa a la palpación
+A1	IMAGEN T4
+A2	IMAGEN T9

@@ -1,0 +1,24 @@
+T1	SINTOMA 143 150	coluria
+T2	SINTOMA 153 173	prurito generalizado
+T3	SINTOMA 1029 1057	páncreas aumentado de tamaño
+T4	SINTOMA 1201 1252	páncreas aumentado globalmente de tamaño, hipodenso
+T5	SINTOMA 1636 1643	prurito
+T6	SINTOMA 3058 3070	asintomático
+T7	SINTOMA 1945 1985	citología negativa para células malignas
+T8	SINTOMA 1649 1659	colestasis
+T9	SINTOMA 453 485	Amilasa y lipasa fueron normales
+T10	SINTOMA 1261 1291	halo peripancreático hipodenso
+T11	SINTOMA 1313 1351	afectación de la grasa peripancreática
+T12	SINTOMA 1384 1508	localización periaórtica con extensión a territorio iliaco bilateral, un tejido denso rodeando dichas estructuras vasculares
+T13	SINTOMA 1988 2010	tinción Zielh negativa
+T14	SINTOMA 111 141	ictericia mucocutánea indolora
+T15	SINTOMA 651 918	autoanticuerpos (ANA, AMA, AMA-2, ANCA, LKM1, SMA, SLA y F-actina) y serologías para virus y bacterias (VHA, VHB, VHC, HIV, CMV, VEB, VVZ, VHS, virus de la parotidis, parvovirus B19, Brucella, Borrelia, Coxiella, Leishmania, Rickettsias y Toxoplasma) fueron negativos
+A1	IMAGEN T3
+A2	IMAGEN T4
+A3	RESULTADO T7
+A4	RESULTADO T9
+A5	IMAGEN T10
+A6	IMAGEN T11
+A7	IMAGEN T12
+A8	RESULTADO T13
+A9	RESULTADO T15

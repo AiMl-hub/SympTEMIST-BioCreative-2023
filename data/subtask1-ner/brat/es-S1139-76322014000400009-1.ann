@@ -1,0 +1,29 @@
+T1	SINTOMA 472 495	dificultad respiratoria
+T2	SINTOMA 1210 1236	sensación de palpitaciones
+T3	SINTOMA 147 160	palpitaciones
+T4	SINTOMA 183 197	dolor torácico
+T5	SINTOMA 200 206	disnea
+T6	SINTOMA 585 591	soplos
+T7	SINTOMA 597 641	pulsos periféricos son rítmicos y simétricos
+T8	SINTOMA 1370 1380	Consciente
+T9	SINTOMA 1383 1392	orientado
+T10	SINTOMA 1453 1459	soplos
+T11	SINTOMA 1184 1196	asintomático
+T12	SINTOMA 434 444	consciente
+T13	SINTOMA 447 456	orientado
+T14	SINTOMA 643 663	Buen relleno capilar
+T15	SINTOMA 1394 1409	Buena perfusión
+T16	SINTOMA 1461 1488	Pulsos periféricos normales
+T17	SINTOMA 1823 1836	ritmo sinusal
+T18	SINTOMA 1437 1448	taquicardia
+T19	SINTOMA 1668 1679	taquicardia
+T20	SINTOMA 513 544	cardiaca muestra tonos rítmicos
+T21	SINTOMA 1922 1983	iones y enzimas miocárdicas dentro del rango de la normalidad
+T22	SINTOMA 1852 1890	ECG basal, que no muestra alteraciones
+T23	SINTOMA 2093 2126	ecocardiograma que resultó normal
+T24	SINTOMA 1714 1720	náusea
+T27	SINTOMA 361 374	muerte súbita
+A1	RESULTADO T21
+A2	RESULTADO T22
+A3	RESULTADO T23
+A4	EXITUS T27

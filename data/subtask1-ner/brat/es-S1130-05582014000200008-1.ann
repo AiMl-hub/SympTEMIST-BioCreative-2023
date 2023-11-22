@@ -1,0 +1,15 @@
+T1	SINTOMA 442 491	aumento de volumen en la zona anterior mandibular
+T2	SINTOMA 810 850	lesión hipodensa de aspecto multilocular
+T3	SINTOMA 495 513	consistencia firme
+T4	SINTOMA 113 203	aumento de volumen asintomático, de evolución indeterminada en la zona anterior mandibular
+T5	SINTOMA 1642 1662	impotencia funcional
+T6	SINTOMA 666 688	compromiso neurológico
+T7	SINTOMA 1013 1071	abombamiento, adelgazamiento y perforación de tablas óseas
+T8	SINTOMA 516 539	doloroso a la palpación
+T9	SINTOMA 1634 1639	dolor
+T10	SINTOMA 544 612	piel y mucosa que recubría la lesión era de características normales
+T11	SINTOMA 3431 3442	falleciendo
+T12	SINTOMA 2020 2047	destrucción de tablas óseas
+A1	IMAGEN T2
+A2	IMAGEN T7
+A3	EXITUS T11

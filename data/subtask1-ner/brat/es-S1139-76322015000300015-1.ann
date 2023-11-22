@@ -1,0 +1,26 @@
+T1	SINTOMA 500 529	afectación del estado general
+T2	SINTOMA 208 215	eritema
+T3	SINTOMA 217 226	hinchazón
+T4	SINTOMA 229 234	dolor
+T5	SINTOMA 251 257	fiebre
+T6	SINTOMA 775 817	signos inflamatorios de conducto de Stenon
+T7	SINTOMA 881 893	leucocitosis
+T8	SINTOMA 974 999	elevación de la α-amilasa
+T9	SINTOMA 1076 1111	aumento del tamaño de las parótidas
+T10	SINTOMA 748 759	fluctuación
+T11	SINTOMA 763 772	secreción
+T12	SINTOMA 1518 1558	estudio de inmunidad, que ha sido normal
+T13	SINTOMA 1560 1591	pruebas reumatoideas, negativas
+T14	SINTOMA 1594 1622	estudio serológico, negativo
+T15	SINTOMA 1635 1686	serología vacunal antiparotiditis, que fue positiva
+T16	SINTOMA 911 922	neutrofilia
+T17	SINTOMA 641 666	tumoración laterocervical
+T20	SINTOMA 17 21	sano
+A1	RESULTADO T7
+A2	RESULTADO T8
+A3	IMAGEN T9
+A4	RESULTADO T12
+A5	RESULTADO T13
+A6	RESULTADO T14
+A7	RESULTADO T15
+A8	RESULTADO T16

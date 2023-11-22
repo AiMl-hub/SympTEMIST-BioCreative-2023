@@ -1,0 +1,37 @@
+T1	SINTOMA 29 79	pérdida de visión bilateral, progresiva e indolora
+T2	SINTOMA 1148 1172	hipercaptación en papila
+T3	SINTOMA 865 902	leve engrosamiento del hilio pulmonar
+T4	SINTOMA 1764 1791	ensanchamiento de la carina
+T5	SINTOMA 586 614	hiperemia de la papila de OD
+T6	SINTOMA 618 639	palidez papilar en OI
+T7	SINTOMA 1803 1837	citología negativa para malignidad
+T8	SINTOMA 742 820	exploración neurológica, así como el hemograma y la bioquímica fueron normales
+T9	SINTOMA 922 940	TAC craneal normal
+T10	SINTOMA 1203 1245	potenciales evocados fueron normales en OD
+T11	SINTOMA 1296 1366	electrorretinograma y la resonancia magnética cerebral fueron normales
+T12	SINTOMA 1371 1444	serología, inmunología y marcadores tumorales habituales fueron negativos
+T13	SINTOMA 279 292	fallecimiento
+T14	SINTOMA 449 505	presión intraocular y el segmento anterior eran normales
+T15	SINTOMA 1674 1697	imagen de 3 cm en hilio
+T16	SINTOMA 542 573	vitritis moderada en ambos ojos
+T17	SINTOMA 945 1017	punción lumbar únicamente mostró una discreta elevación de las proteínas
+T18	SINTOMA 2143 2168	positividad al CRMP-5-IgG
+T19	SINTOMA 2086 2118	CRMP-5-IgG, que resultó positivo
+A1	RESULTADO T2
+A2	IMAGEN T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6
+A6	RESULTADO T7
+A7	RESULTADO T8
+A8	IMAGEN T9
+A9	RESULTADO T10
+A10	IMAGEN T11
+A11	RESULTADO T12
+A12	EXITUS T13
+A13	RESULTADO T14
+A14	IMAGEN T15
+A15	RESULTADO T16
+A16	RESULTADO T17
+A17	RESULTADO T18
+A18	RESULTADO T19

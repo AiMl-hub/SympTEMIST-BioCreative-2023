@@ -1,0 +1,11 @@
+T1	SINTOMA 1189 1201	asintomático
+T2	SINTOMA 373 397	dolorosos a la palpación
+T3	SINTOMA 143 178	erecciones prolongadas no dolorosas
+T4	SINTOMA 323 368	cuerpos cavernosos aumentados de consistencia
+T5	SINTOMA 427 458	Sensibilidad peneana conservada
+T6	SINTOMA 460 501	Testes móviles en ambas bolsas escrotales
+T7	SINTOMA 1119 1148	detumecencia peneana completa
+T8	SINTOMA 1151 1170	erecciones normales
+T9	SINTOMA 410 425	pulsos anómalos
+T10	SINTOMA 592 650	vascularización cavernosa derecha aparentemente conservada
+A1	IMAGEN T10

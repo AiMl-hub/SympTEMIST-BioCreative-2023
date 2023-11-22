@@ -1,0 +1,11 @@
+T1	SINTOMA 480 493	afasia motora
+T2	SINTOMA 525 565	reflejo cutáneo plantar derecho extensor
+T3	SINTOMA 370 379	disartria
+T4	SINTOMA 382 388	afasia
+T5	SINTOMA 217 239	pérdida de consciencia
+T6	SINTOMA 405 424	afección obstétrica
+T7	SINTOMA 686 759	TC craneal y una ecografía-Doppler extracraneal sin hallazgos patológicos
+T8	SINTOMA 1502 1510	disfasia
+T9	SINTOMA 1133 1173	disminución difusa del calibre de la ACI
+A1	IMAGEN T7
+A2	IMAGEN T9

@@ -1,0 +1,39 @@
+T1	SINTOMA 307 326	buen estado general
+T2	SINTOMA 2090 2151	Lowenstein en orina: Positivo para Mycobacterium tuberculosis
+T3	SINTOMA 1747 1794	cara lateral izquierda de vejiga una tumoración
+T4	SINTOMA 3079 3143	polo inferior del riñón izquierdo con disminución de la cortical
+T5	SINTOMA 276 285	hematuria
+T6	SINTOMA 2780 2816	cambios crónicos en ambos epidídimos
+T7	SINTOMA 1118 1138	riñón derecho normal
+T8	SINTOMA 1246 1269	vesical se aprecia masa
+T9	SINTOMA 2677 2697	Lowenstein negativos
+T10	SINTOMA 3247 3286	Uréteres de calibre y morfología normal
+T11	SINTOMA 3348 3389	cultivos de orina en Löwenstein negativos
+T12	SINTOMA 696 725	coagulación: sin alteraciones
+T13	SINTOMA 727 755	Bioquímica: sin alteraciones
+T14	SINTOMA 924 953	citologías de orina negativas
+T15	SINTOMA 1601 1634	uréter presenta apariencia normal
+T16	SINTOMA 2607 2671	exudado en teste izquierdo en cuya tinción no se observaron BAAR
+T17	SINTOMA 72 85	hiperglucemia
+T18	SINTOMA 843 861	nitritos negativos
+T19	SINTOMA 885 917	Sedimento: leucocitos abundantes
+T20	SINTOMA 3288 3306	Vejiga de esfuerzo
+T21	SINTOMA 1636 1701	Cistograma con irregularidades de contorno en su porción superior
+T22	SINTOMA 1963 1975	masa vesical
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	IMAGEN T6
+A5	IMAGEN T7
+A6	RESULTADO T9
+A7	RESULTADO T10
+A8	RESULTADO T11
+A9	RESULTADO T12
+A10	RESULTADO T14
+A11	RESULTADO T15
+A12	RESULTADO T16
+A13	RESULTADO T17
+A14	RESULTADO T18
+A15	RESULTADO T19
+A16	RESULTADO T20
+A17	RESULTADO T21

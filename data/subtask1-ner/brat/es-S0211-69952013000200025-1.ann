@@ -1,0 +1,18 @@
+T1	SINTOMA 687 694	anúrica
+T2	SINTOMA 700 720	elevación de azoados
+T3	SINTOMA 786 796	hipocromía
+T4	SINTOMA 798 810	anisocitosis
+T5	SINTOMA 812 824	microcitosis
+T6	SINTOMA 827 837	dianocitos
+T7	SINTOMA 517 526	hipotensa
+T8	SINTOMA 723 742	acidosis metabólica
+T9	SINTOMA 321 330	fallecido
+T10	SINTOMA 1049 1108	buena perfusión vascular, pero índices de resistencia altos
+T15	SINTOMA 1829 1856	mejoría de la función renal
+A1	RESULTADO T3
+A2	RESULTADO T4
+A3	RESULTADO T5
+A4	RESULTADO T6
+A5	RESULTADO T8
+A6	EXITUS T9
+A7	IMAGEN T10

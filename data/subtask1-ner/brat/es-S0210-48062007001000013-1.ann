@@ -1,0 +1,25 @@
+T1	SINTOMA 1842 1872	dolor y abombamiento abdominal
+T2	SINTOMA 97 104	vómitos
+T3	SINTOMA 107 124	dolor epigástrico
+T4	SINTOMA 165 188	pérdida de 7 kg de peso
+T5	SINTOMA 1972 1995	líquido intraperitoneal
+T6	SINTOMA 330 371	dolor epigástrico a la palpación profunda
+T7	SINTOMA 409 445	teste izquierdo aumentado de volumen
+T8	SINTOMA 639 678	aumento progresivo e indoloro del teste
+T9	SINTOMA 533 541	doloroso
+T10	SINTOMA 262 281	palidez mucocutánea
+T11	SINTOMA 2643 2653	tumoración
+T12	SINTOMA 1186 1210	líquido pleural hemático
+T13	SINTOMA 1332 1372	nódulos pulmonares múltiples bilaterales
+T14	SINTOMA 1558 1587	líquido libre intraperitoneal
+T15	SINTOMA 3336 3359	sangrado intraabdominal
+T16	SINTOMA 869 937	teste izquierdo muy aumentado de tamaño de ecogeneicidad heterogénea
+T17	SINTOMA 3495 3517	hemorragia incoercible
+T19	SINTOMA 3520 3526	deceso
+T26	SINTOMA 2190 2205	sangrado activo
+A1	IMAGEN T5
+A2	RESULTADO T12
+A3	IMAGEN T13
+A4	IMAGEN T14
+A5	IMAGEN T16
+A6	EXITUS T19

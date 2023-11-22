@@ -1,0 +1,12 @@
+T1	SINTOMA 307 319	convulsiones
+T2	SINTOMA 402 425	hipsarritmia asimétrica
+T3	SINTOMA 724 749	disco óptico colobomatoso
+T4	SINTOMA 761 798	áreas hipopigmentadas coriorretinales
+T5	SINTOMA 36 61	Cariotipo femenino normal
+T6	SINTOMA 465 586	papila completa en el ojo derecho, pigmento peripapilar y áreas de lagunas coriorretinianas hipopigmentadas peripapilares
+T7	SINTOMA 978 1007	retardo psicomotor muy severo
+A1	RESULTADO T2
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6

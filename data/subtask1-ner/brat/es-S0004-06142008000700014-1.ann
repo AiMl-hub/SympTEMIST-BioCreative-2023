@@ -1,0 +1,17 @@
+T1	SINTOMA 573 607	aumento de tamaño de los genitales
+T2	SINTOMA 206 227	cuadro constitucional
+T3	SINTOMA 256 264	anorexia
+T4	SINTOMA 267 296	pérdida de unos 15 kg de peso
+T5	SINTOMA 312 334	debilidad generalizada
+T6	SINTOMA 337 361	dolor epigástrico cólico
+T7	SINTOMA 973 1031	polo superior de teste izquierdo, sugestivo de masa sólida
+T8	SINTOMA 1111 1170	marcadores tumorales germinales y LDH, que fueron negativos
+T9	SINTOMA 939 945	nódulo
+T10	SINTOMA 1972 1982	tumoración
+T11	SINTOMA 888 923	transiluminación positiva bilateral
+T12	SINTOMA 1037 1094	pruebas de imagen a distancia (TAC, RNM) fueron negativos
+T13	SINTOMA 437 513	estudio digestivo (gastroscopia, colonoscopia, ecoendoscopia) que fue normal
+T14	SINTOMA 518 547	exploración física fue normal
+A1	RESULTADO T8
+A2	IMAGEN T12
+A3	RESULTADO T13

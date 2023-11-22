@@ -1,0 +1,7 @@
+T1	SINTOMA 156 196	flujo vaginal mucopurulento y maloliente
+T2	SINTOMA 238 288	congestión y edema del himen y del introito vulvar
+T3	SINTOMA 801 863	cultivo del exudado vaginal resultó positivo a Shigella sonnei
+T4	SINTOMA 1064 1144	coprocultivo, cultivo de exudado perianal y urocultivo, que resultaron negativos
+T5	SINTOMA 118 134	sangrado vaginal
+A1	RESULTADO T3
+A2	RESULTADO T4

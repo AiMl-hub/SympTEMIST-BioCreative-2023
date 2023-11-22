@@ -1,0 +1,14 @@
+T1	SINTOMA 87 142	masa dolorosa en el tercio externo del párpado superior
+T2	SINTOMA 192 224	disminución de la agudeza visual
+T3	SINTOMA 593 677	tercio externo del párpado superior izquierdo había una masa de 4 ¥ 3,5 cm, dolorosa
+T4	SINTOMA 700 740	desplazamiento inferior del globo ocular
+T5	SINTOMA 768 807	limitación a la levosupraversión del OI
+T6	SINTOMA 284 288	masa
+T7	SINTOMA 938 999	función del músculo elevador izquierdo se encontraba limitada
+T8	SINTOMA 1108 1121	masa temporal
+T9	SINTOMA 1435 1474	cocos Gram positivos en pares y cadenas
+T10	SINTOMA 1501 1547	leucocitos polimorfonucleares y abundante moco
+T11	SINTOMA 692 698	ptosis
+T12	SINTOMA 1314 1318	masa
+A1	RESULTADO T9
+A2	RESULTADO T10

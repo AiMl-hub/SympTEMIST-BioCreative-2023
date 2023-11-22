@@ -1,0 +1,42 @@
+T1	SINTOMA 296 320	tumoración dura en teste
+T2	SINTOMA 986 1055	exudado purulento obtenido intraoperatoriamente del tejido testicular
+T3	SINTOMA 91 121	dolor progresivo del testículo
+T4	SINTOMA 168 191	sintomatología urinaria
+T5	SINTOMA 196 202	fiebre
+T6	SINTOMA 464 470	Piuria
+T7	SINTOMA 472 497	Cultivo de orina: estéril
+T8	SINTOMA 499 566	Cultivos de semen: E. coli (1o), S. Sprophiticus (2o), P. Mirabilis
+T9	SINTOMA 626 652	Ecografía urinaria: normal
+T10	SINTOMA 1315 1376	amplificación genómica (PCR) para M.tuberculosis fue negativa
+T11	SINTOMA 1381 1437	detección del antígeno de Chlamydia fue también negativa
+T12	SINTOMA 756 787	Mantoux positivo con ulceracion
+T13	SINTOMA 677 698	Tumoración testicular
+T14	SINTOMA 416 428	linfocitosis
+T15	SINTOMA 594 624	CEA, alfa feto y BHCG normales
+T16	SINTOMA 2120 2170	Nocardias, Micobacterias y hongos fueron negativos
+T17	SINTOMA 1060 1111	tinción de auramina para micobacterias fue negativa
+T18	SINTOMA 1854 1902	tinción de Ziehl Neelsen modificada fue negativa
+T19	SINTOMA 2019 2100	secuenciación del 16SrRNA, identificándose la cepa como Corynebacterium thomsseni
+T20	SINTOMA 1442 1528	cultivo para bacterias habituales, incluidas Neiserias y Haemophilus, fueron negativos
+T21	SINTOMA 1189 1204	bacilos Gram(+)
+T22	SINTOMA 1737 1751	bacilo Gram(+)
+T23	SINTOMA 334 342	dolorosa
+T24	SINTOMA 359 370	fluctuación
+A1	RESULTADO T2
+A2	RESULTADO T6
+A3	RESULTADO T7
+A4	RESULTADO T8
+A5	IMAGEN T9
+A6	RESULTADO T10
+A7	RESULTADO T11
+A8	RESULTADO T12
+A9	IMAGEN T13
+A10	RESULTADO T14
+A11	RESULTADO T15
+A12	RESULTADO T16
+A13	RESULTADO T17
+A14	RESULTADO T18
+A15	RESULTADO T19
+A16	RESULTADO T20
+A17	RESULTADO T21
+A18	RESULTADO T22

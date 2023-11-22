@@ -1,0 +1,19 @@
+T1	SINTOMA 406 428	dolor a nivel de ingle
+T2	SINTOMA 2212 2237	masa adenopática inguinal
+T3	SINTOMA 218 255	PSA dentro del rango de la normalidad
+T4	SINTOMA 709 778	tumoración carnosa mamelonada adherida al polo superior del testículo
+T5	SINTOMA 2517 2540	masa en región inguinal
+T6	SINTOMA 1702 1785	tumoración junto a fibras del oblicuo menor, músculo transverso y músculo iliopsoas
+T7	SINTOMA 2725 2734	hematuria
+T8	SINTOMA 3010 3038	deterioro del estado general
+T9	SINTOMA 1610 1687	nódulo que infiltra en profundidad la grasa subcutánea y el músculo iliopsoas
+T10	SINTOMA 1103 1147	negativo para Antígeno Prostático Específico
+T11	SINTOMA 1153 1184	estudio de extensión fue normal
+T12	SINTOMA 362 391	intervalo libre de enfermedad
+T13	SINTOMA 2453 2482	intervalo libre de enfermedad
+A1	IMAGEN T2
+A2	RESULTADO T3
+A3	IMAGEN T5
+A4	IMAGEN T9
+A5	RESULTADO T10
+A6	RESULTADO T11

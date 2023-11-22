@@ -1,0 +1,9 @@
+T1	SINTOMA 347 367	distensión abdominal
+T2	SINTOMA 100 107	vómitos
+T3	SINTOMA 109 117	diarreas
+T4	SINTOMA 120 126	fiebre
+T5	SINTOMA 786 802	cuadro diarreico
+T6	SINTOMA 143 158	hipoalbuminemia
+T7	SINTOMA 813 850	resultado negativo de toxina en heces
+A1	RESULTADO T6
+A2	RESULTADO T7

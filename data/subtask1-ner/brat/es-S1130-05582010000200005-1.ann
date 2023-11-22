@@ -1,0 +1,12 @@
+T1	SINTOMA 417 448	tumoración dependiente de hueso
+T2	SINTOMA 89 114	tumoración hemimandibular
+T3	SINTOMA 323 328	dolor
+T4	SINTOMA 476 512	afectación de ambas corticales óseas
+T5	SINTOMA 617 659	afectación del músculo pterigoideo interno
+T6	SINTOMA 2487 2581	discrepancia de altura entre el peroné y el reborde alveolar de la hemimandíbula contralateral
+T7	SINTOMA 4300 4338	distracción vertical del hueso peroneo
+T8	SINTOMA 4650 4663	consolidación
+A1	IMAGEN T1
+A2	IMAGEN T4
+A3	IMAGEN T5
+A4	IMAGEN T7

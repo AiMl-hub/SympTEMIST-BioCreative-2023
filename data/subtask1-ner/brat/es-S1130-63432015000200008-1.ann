@@ -1,0 +1,15 @@
+T1	SINTOMA 1175 1181	fiebre
+T2	SINTOMA 1194 1221	disnea de mínimos esfuerzos
+T3	SINTOMA 1393 1424	condensación en lóbulo inferior
+T4	SINTOMA 312 320	pT3pN2M0
+T5	SINTOMA 870 877	afebril
+T6	SINTOMA 883 890	astenia
+T7	SINTOMA 902 936	deterioro leve de la función renal
+T8	SINTOMA 2533 2539	éxitus
+T9	SINTOMA 1349 1383	infiltrados pulmonares bilaterales
+T10	SINTOMA 2130 2193	serologías para microorganismos atípicos fueron todos negativos
+A1	IMAGEN T3
+A2	RESULTADO T4
+A3	EXITUS T8
+A4	IMAGEN T9
+A5	RESULTADO T10

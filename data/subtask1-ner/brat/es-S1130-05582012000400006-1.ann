@@ -1,0 +1,14 @@
+T1	SINTOMA 2718 2762	rinorrea unilateral ocasional por fosa nasal
+T2	SINTOMA 405 414	otorragia
+T3	SINTOMA 3552 3580	salida de líquido intranasal
+T4	SINTOMA 551 559	diplopía
+T5	SINTOMA 517 549	disminución de la agudeza visual
+T6	SINTOMA 713 724	parestesias
+T7	SINTOMA 425 433	rinorrea
+T8	SINTOMA 563 615	alteraciones en los movimientos oculares extrínsecos
+T9	SINTOMA 784 828	decalaje en reborde supraorbitario izquierdo
+T10	SINTOMA 1677 1703	test beta-2 transferrina +
+T11	SINTOMA 663 704	alteraciones iniciales de pares craneales
+T12	SINTOMA 355 403	hematoma periorbitario bilateral con crepitación
+T13	SINTOMA 347 352	edema
+A1	RESULTADO T10

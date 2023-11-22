@@ -1,0 +1,19 @@
+T1	SINTOMA 753 765	leucocitosis
+T2	SINTOMA 534 546	dolor lumbar
+T3	SINTOMA 551 560	hematuria
+T4	SINTOMA 829 862	bioquímica y coagulación normales
+T5	SINTOMA 617 650	dolores lumbares de tipo mecánico
+T6	SINTOMA 655 671	astenia moderada
+T7	SINTOMA 888 908	riñón derecho normal
+T8	SINTOMA 248 260	leucocitosis
+T9	SINTOMA 770 804	desviación de fórmula leucocitaria
+T10	SINTOMA 986 1022	retención en polo superior izquierdo
+T11	SINTOMA 1140 1159	masa quística renal
+T12	SINTOMA 1631 1641	tumoración
+A1	RESULTADO T1
+A2	RESULTADO T4
+A3	IMAGEN T7
+A4	RESULTADO T8
+A5	RESULTADO T9
+A6	IMAGEN T10
+A7	IMAGEN T11

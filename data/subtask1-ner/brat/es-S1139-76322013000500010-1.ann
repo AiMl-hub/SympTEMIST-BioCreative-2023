@@ -1,0 +1,28 @@
+T1	SINTOMA 1478 1576	apéndice engrosado de 8 mm con líquido libre periapendicular y engrosamiento de la grasa adyacente
+T2	SINTOMA 156 176	síntomas miccionales
+T3	SINTOMA 178 185	disuria
+T4	SINTOMA 187 198	polaquiuria
+T5	SINTOMA 496 516	síntomas miccionales
+T6	SINTOMA 519 525	anuria
+T7	SINTOMA 562 631	dolor abdominal localizado en el hipogastrio y la fosa ilíaca derecha
+T8	SINTOMA 673 679	fiebre
+T9	SINTOMA 738 757	buen estado general
+T10	SINTOMA 772 786	deshidratación
+T11	SINTOMA 1018 1039	irritación peritoneal
+T12	SINTOMA 1055 1068	globo vesical
+T13	SINTOMA 228 263	tira reactiva de orina fue negativa
+T14	SINTOMA 836 874	auscultación cardiopulmonar fue normal
+T15	SINTOMA 917 994	palpación resultaba dolorosa a nivel del hipogastrio y la fosa ilíaca derecha
+T16	SINTOMA 349 391	urocultivo, que fue informado como estéril
+T17	SINTOMA 790 831	constantes dentro de los valores normales
+T18	SINTOMA 1135 1187	pruebas analíticas no mostraban hallazgos de interés
+T19	SINTOMA 1306 1355	radiografía abdominal, que no mostró alteraciones
+T20	SINTOMA 1363 1415	ecografía abdominal sin hallazgos en la vía urinaria
+T22	SINTOMA 113 122	fallecido
+A1	IMAGEN T1
+A2	RESULTADO T13
+A3	RESULTADO T16
+A4	RESULTADO T18
+A5	IMAGEN T19
+A6	IMAGEN T20
+A7	EXITUS T22

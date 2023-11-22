@@ -1,0 +1,18 @@
+T1	SINTOMA 1932 1949	lesiones carpales
+T2	SINTOMA 618 646	problema óseo en las muñecas
+T3	SINTOMA 690 712	dolores en las muñecas
+T4	SINTOMA 255 273	dolor en las manos
+T5	SINTOMA 442 472	síntomas del aparato locomotor
+T6	SINTOMA 1391 1409	rasgos dismórficos
+T7	SINTOMA 1496 1516	signos inflamatorios
+T8	SINTOMA 1534 1585	gemidos ante la movilización repetida de esa muñeca
+T9	SINTOMA 181 195	llanto inusual
+T10	SINTOMA 518 555	radiografía normal de manos y muñecas
+T11	SINTOMA 956 968	emite gritos
+T12	SINTOMA 1181 1193	espasticidad
+T13	SINTOMA 998 1034	escucha y atiende cuando se le habla
+T14	SINTOMA 1036 1062	sonriendo con las caricias
+T15	SINTOMA 1080 1102	deambulación sin ayuda
+T16	SINTOMA 1320 1360	valores de presión arterial son normales
+A1	IMAGEN T1
+A2	IMAGEN T10

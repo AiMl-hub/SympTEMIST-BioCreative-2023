@@ -1,0 +1,31 @@
+T1	SINTOMA 119 132	epigastralgia
+T2	SINTOMA 134 141	melenas
+T3	SINTOMA 144 151	astenia
+T4	SINTOMA 188 196	disfagia
+T5	SINTOMA 198 205	pirosis
+T6	SINTOMA 209 241	alteración del hábito intestinal
+T7	SINTOMA 693 727	mucosa edematosa en bulbo duodenal
+T8	SINTOMA 1232 1239	melenas
+T9	SINTOMA 1367 1433	restos hemáticos aislados a nivel de la segunda porción de duodeno
+T10	SINTOMA 1977 2000	masa en yeyuno proximal
+T11	SINTOMA 246 275	exploración física fue normal
+T12	SINTOMA 292 297	masas
+T13	SINTOMA 475 532	radiografías de tórax y abdomen no mostraron alteraciones
+T14	SINTOMA 591 605	esófago normal
+T15	SINTOMA 841 873	detectándose helicobacter pylori
+T16	SINTOMA 904 977	hígado, la vesícula biliar y el páncreas eran de características normales
+T17	SINTOMA 1302 1361	esófago, mucosa de cavidad gástrica y bulbo duodenal normal
+T18	SINTOMA 611 648	cavidad gástrica sin restos hemáticos
+T19	SINTOMA 657 670	mucosa normal
+T20	SINTOMA 1512 1562	yeyuno proximal una tumoración, friable y ulcerada
+A1	RESULTADO T7
+A2	RESULTADO T9
+A3	IMAGEN T10
+A4	IMAGEN T13
+A5	RESULTADO T14
+A6	RESULTADO T15
+A7	IMAGEN T16
+A8	RESULTADO T17
+A9	RESULTADO T18
+A10	RESULTADO T19
+A11	RESULTADO T20

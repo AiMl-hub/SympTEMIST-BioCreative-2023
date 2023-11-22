@@ -1,0 +1,21 @@
+T1	SINTOMA 466 479	fatigabilidad
+T2	SINTOMA 575 603	componente monoclonal de IgM
+T3	SINTOMA 1050 1064	diarrea febril
+T4	SINTOMA 1123 1132	febrícula
+T5	SINTOMA 1433 1485	hipoestesia parcheada en las extremidades inferiores
+T6	SINTOMA 2782 2811	radiolucencias periprotésicas
+T7	SINTOMA 1714 1761	cultivos aeróbicos se recuperó L. monocytogenes
+T8	SINTOMA 1378 1423	tumefacción y derrame a tensión en la rodilla
+T9	SINTOMA 1488 1522	abolición de los reflejos aquíleos
+T10	SINTOMA 2682 2725	radiografía de tórax no mostró alteraciones
+T11	SINTOMA 740 747	estable
+T12	SINTOMA 1527 1573	artrocentesis dio salida a un fluido purulento
+T13	SINTOMA 750 766	oligosintomática
+T14	SINTOMA 1134 1206	dolor, tumefacción y progresiva limitación de la movilidad en la rodilla
+T15	SINTOMA 2245 2630	normales o negativos: bioquímica (glucosa, creatinina, urea, colesterol total, triglicéridos, lácticodehidrogenasa, creatinincinasa, transaminasas, bilirrubina, fosfatasa alcalina, gammaglutamiltranspeptidasa, calcio, fósforo, sodio, potasio y cloro), análisis de orina, serología para Salmonella, Shigella y Yersinia, dosificación del complemento (C3 y C4) y anticuerpos antinucleares
+A1	RESULTADO T2
+A2	IMAGEN T6
+A3	RESULTADO T7
+A4	IMAGEN T10
+A5	RESULTADO T12
+A6	RESULTADO T15

@@ -1,0 +1,13 @@
+T1	SINTOMA 205 214	epístaxis
+T2	SINTOMA 275 337	masa en fosa nasal derecha de aspecto polipoideo muy sangrante
+T3	SINTOMA 194 202	rinorrea
+T4	SINTOMA 969 1042	estudio de extensión un TAC de tórax y una gammagrafía ósea sin patología
+T5	SINTOMA 1317 1379	características de malignidad, a nivel de seno frontal derecho
+T6	SINTOMA 600 615	masa polipoidea
+T7	SINTOMA 1261 1298	engrosamiento polipoideo de la mucosa
+T9	SINTOMA 61 70	fallecido
+A1	RESULTADO T2
+A2	RESULTADO T4
+A3	IMAGEN T5
+A4	IMAGEN T7
+A5	EXITUS T9

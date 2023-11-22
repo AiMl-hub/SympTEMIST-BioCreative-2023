@@ -1,0 +1,32 @@
+T1	SINTOMA 1117 1124	afebril
+T2	SINTOMA 1126 1155	orientada en tiempo y espacio
+T3	SINTOMA 181 213	dolor en región maxilar inferior
+T4	SINTOMA 3638 3649	neutropenia
+T5	SINTOMA 293 331	tumefacción en región maxilar inferior
+T6	SINTOMA 1395 1464	impedía el cierre de la boca, la masticación, la deglución y el habla
+T7	SINTOMA 1368 1389	dolorosa a la presión
+T8	SINTOMA 757 767	tumoración
+T9	SINTOMA 22 49	serología reactiva para VIH
+T10	SINTOMA 553 558	dolor
+T11	SINTOMA 567 578	tumefacción
+T12	SINTOMA 1592 1694	adenomegalias submandibulares homolaterales, induradas, indoloras, adheridas a piel y planos profundos
+T13	SINTOMA 2148 2218	serologías para Chagas y virus de hepatitis B y C resultaron negativas
+T14	SINTOMA 3097 3203	estudios microbiológicos del material de biopsia resultaron negativos para BAAR, hongos y gérmenes comunes
+T15	SINTOMA 3912 3936	carga viral indetectable
+T16	SINTOMA 3853 3865	asintomática
+T17	SINTOMA 3371 3434	tinciones de Gram, Grocott y Ziehl Neelsen resultaron negativas
+T18	SINTOMA 1109 1115	lúcida
+T19	SINTOMA 1772 1794	Rx de tórax fue normal
+T20	SINTOMA 2097 2123	test de embarazo: negativo
+T21	SINTOMA 2125 2142	VRDL: no reactiva
+T22	SINTOMA 2226 2270	toxoplasmosis: IgM: negativa e IgG: positiva
+A1	RESULTADO T4
+A2	RESULTADO T9
+A3	RESULTADO T13
+A4	RESULTADO T14
+A5	RESULTADO T15
+A6	RESULTADO T17
+A7	IMAGEN T19
+A8	RESULTADO T20
+A9	RESULTADO T21
+A10	RESULTADO T22

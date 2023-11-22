@@ -1,0 +1,15 @@
+T1	SINTOMA 590 646	tumoración en mediastino medio a nivel de la vena ácigos
+T2	SINTOMA 134 158	tumoración de mediastino
+T3	SINTOMA 1451 1458	afebril
+T4	SINTOMA 37 49	asintomático
+T5	SINTOMA 1347 1359	asintomático
+T6	SINTOMA 1403 1411	disfagia
+T7	SINTOMA 30 34	sano
+T8	SINTOMA 398 421	reduce la luz esofágica
+T9	SINTOMA 689 725	adherencias a las estructuras anexas
+T10	SINTOMA 982 992	tumoración
+T11	SINTOMA 1762 1772	tumoración
+T12	SINTOMA 1465 1506	pruebas de función respiratorias normales
+T13	SINTOMA 811 821	tumoración
+A1	IMAGEN T8
+A2	RESULTADO T12

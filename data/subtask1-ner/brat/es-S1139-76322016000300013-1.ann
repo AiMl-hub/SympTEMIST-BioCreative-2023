@@ -1,0 +1,15 @@
+T1	SINTOMA 965 1011	descenso porcentual y absoluto de linfocitos B
+T2	SINTOMA 745 805	cifra absoluta de inmunoglobulinas y de subclases descendida
+T3	SINTOMA 1032 1067	predominio relativo de linfocitos T
+T4	SINTOMA 475 501	adecuada ganancia ponderal
+T5	SINTOMA 418 437	cuadro respiratorio
+T6	SINTOMA 354 364	fallecidos
+T7	SINTOMA 400 410	fallecidos
+T8	SINTOMA 656 666	fallecidos
+T9	SINTOMA 265 270	sanos
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	EXITUS T6
+A5	EXITUS T7
+A6	EXITUS T8

@@ -1,0 +1,8 @@
+T1	SINTOMA 755 762	prurito
+T2	SINTOMA 832 843	descamación
+T3	SINTOMA 861 885	base eritematovesiculosa
+T4	SINTOMA 903 947	cultivo resulta positivo para Candida krusei
+T5	SINTOMA 1152 1167	signos cutáneos
+T6	SINTOMA 635 651	hiperqueratósico
+T7	SINTOMA 654 665	descamativo
+A1	RESULTADO T4

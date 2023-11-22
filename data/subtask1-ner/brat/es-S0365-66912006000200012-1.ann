@@ -1,0 +1,15 @@
+T1	SINTOMA 576 593	percepción de luz
+T2	SINTOMA 684 728	polo anterior estaba dentro de la normalidad
+T3	SINTOMA 79 100	pérdida de conciencia
+T4	SINTOMA 1491 1567	asimetría en la morfología de las respuestas a la estimulación de ambos ojos
+T5	SINTOMA 828 856	cortes orbitarios fue normal
+T6	SINTOMA 916 964	aumento de líquido perineural en la vaina del NO
+T7	SINTOMA 1580 1631	ausencia de conducción del estímulo visual en el NO
+T8	SINTOMA 170 210	pérdida de visión por el ojo derecho (OD
+T9	SINTOMA 718 779	normalidad, así como la presión intraocular y el fondo de ojo
+A1	RESULTADO T2
+A2	RESULTADO T4
+A3	IMAGEN T5
+A4	IMAGEN T6
+A5	RESULTADO T7
+A6	RESULTADO T9

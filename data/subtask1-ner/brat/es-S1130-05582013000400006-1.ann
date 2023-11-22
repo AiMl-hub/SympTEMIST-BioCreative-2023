@@ -1,0 +1,7 @@
+T1	SINTOMA 84 100	tumoración malar
+T2	SINTOMA 1999 2011	asintomático
+T3	SINTOMA 126 134	dolorosa
+T4	SINTOMA 1582 1600	consolidación ósea
+T5	SINTOMA 648 666	expansión cortical
+A1	IMAGEN T4
+A2	IMAGEN T5

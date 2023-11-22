@@ -1,0 +1,16 @@
+T1	SINTOMA 1780 1803	obnubilación progresiva
+T2	SINTOMA 1745 1777	empeoramiento del estado general
+T3	SINTOMA 856 867	eosinofilia
+T4	SINTOMA 1087 1128	manchas purpúreas en zona lateral del pie
+T5	SINTOMA 184 190	disnea
+T6	SINTOMA 702 709	astenia
+T7	SINTOMA 712 720	anorexia
+T8	SINTOMA 1130 1148	lívido reticularis
+T9	SINTOMA 1813 1826	fallecimiento
+T10	SINTOMA 193 220	angina a pequeños esfuerzos
+T11	SINTOMA 989 1024	aumento progresivo de la creatinina
+T12	SINTOMA 1458 1494	microhemorragia por encima de papila
+A1	RESULTADO T3
+A2	EXITUS T9
+A3	RESULTADO T11
+A4	RESULTADO T12

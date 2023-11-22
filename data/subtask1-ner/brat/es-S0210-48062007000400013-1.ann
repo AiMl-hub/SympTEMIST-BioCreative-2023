@@ -1,0 +1,24 @@
+T1	SINTOMA 1032 1102	Serología para hepatitis negativas, así como para Yersinia y Chlamydia
+T2	SINTOMA 899 911	leucocitosis
+T3	SINTOMA 1166 1232	Cultivo de bacilo de Koch en orina con tinción de Kinyoun negativa
+T4	SINTOMA 999 1030	alteración de enzimas hepáticas
+T5	SINTOMA 361 382	cuadro constitucional
+T6	SINTOMA 427 434	astenia
+T7	SINTOMA 436 442	fiebre
+T8	SINTOMA 692 735	enrojecimiento ocular y secreción purulenta
+T9	SINTOMA 1821 1833	asintomático
+T10	SINTOMA 386 414	deterioro del estado general
+T11	SINTOMA 1114 1164	hemocultivos, urocultivos y coprocultivo negativos
+T12	SINTOMA 1234 1256	HLA B27 y FR negativos
+T13	SINTOMA 1363 1392	Cultivo y cristales negativos
+T14	SINTOMA 486 620	dolores articulares de inicio en pie derecho, con afectación posterior de pie izquierdo, tobillos, muñecas, manos y dedos de las manos
+T15	SINTOMA 740 745	aftas
+T16	SINTOMA 1301 1361	tobillo derecho con líquido de características inflamatorias
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T4
+A5	RESULTADO T11
+A6	RESULTADO T12
+A7	RESULTADO T13
+A8	RESULTADO T16

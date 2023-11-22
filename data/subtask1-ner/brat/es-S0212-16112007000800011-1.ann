@@ -1,0 +1,46 @@
+T1	SINTOMA 2408 2442	parestesias en miembros inferiores
+T2	SINTOMA 2918 2941	pérdida de 7 kg de peso
+T3	SINTOMA 133 148	dolor abdominal
+T4	SINTOMA 151 158	diarrea
+T5	SINTOMA 3146 3191	disminución moderada de masa grasa y muscular
+T6	SINTOMA 2756 2775	episodio convulsivo
+T7	SINTOMA 4337 4347	convulsión
+T8	SINTOMA 3394 3423	exploración física era normal
+T9	SINTOMA 3568 3591	hiporreflexia tendinosa
+T10	SINTOMA 1165 1192	incontinencia de esfínteres
+T11	SINTOMA 1460 1510	TAC craneal en el que no se aprecian anormalidades
+T12	SINTOMA 1570 1590	ritmo sinusal normal
+T13	SINTOMA 1953 1965	convulsiones
+T14	SINTOMA 2221 2246	disminución de la ingesta
+T15	SINTOMA 2249 2256	astenia
+T16	SINTOMA 3557 3564	temblor
+T17	SINTOMA 3498 3515	signo de Trosseau
+T18	SINTOMA 3517 3534	signo de Chovstek
+T19	SINTOMA 3536 3555	espasmos musculares
+T20	SINTOMA 3972 4010	cifras bajas de electrolitos en sangre
+T21	SINTOMA 2476 2483	prurito
+T22	SINTOMA 1605 1638	alargamiento del espacio QT ni PR
+T23	SINTOMA 1808 1881	electroencefalograma que resulta ser un trazado sin hallazgos patológicos
+T24	SINTOMA 2045 2140	registro electroencefalográfico de 24 horas de duración en el que no se evidencian alteraciones
+T25	SINTOMA 4455 4523	fósforo, calcio, potasio y sodio dentro de los valores de referencia
+T26	SINTOMA 4921 4933	convulsiones
+T27	SINTOMA 1096 1134	convulsión tónico-clónica generalizada
+T28	SINTOMA 1375 1426	glucosa y sodio dentro de los valores de referencia
+T29	SINTOMA 2181 2195	deshidratación
+T30	SINTOMA 2556 2577	episodios convulsivos
+T31	SINTOMA 3105 3139	deshidratación cutáneo-mucosa leve
+T32	SINTOMA 3459 3471	hipocalcemia
+T33	SINTOMA 3475 3489	hipomagnesemia
+T34	SINTOMA 3878 3892	deshidratación
+T35	SINTOMA 3897 3924	balances hídricos negativos
+A1	IMAGEN T11
+A2	RESULTADO T12
+A3	RESULTADO T20
+A4	RESULTADO T22
+A5	RESULTADO T23
+A6	RESULTADO T24
+A7	RESULTADO T25
+A8	RESULTADO T28
+A9	RESULTADO T32
+A10	RESULTADO T33
+A11	RESULTADO T35

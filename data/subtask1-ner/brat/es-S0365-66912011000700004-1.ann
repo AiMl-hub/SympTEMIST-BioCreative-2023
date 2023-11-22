@@ -1,0 +1,17 @@
+T1	SINTOMA 38 67	disminución de agudeza visual
+T2	SINTOMA 121 175	Portador de la mutación causal de la enfermedad de VHL
+T3	SINTOMA 317 338	tumoración endofítica
+T4	SINTOMA 560 598	hiperfluorescencia precoz de la lesión
+T5	SINTOMA 689 721	nódulos sólidos en ambos riñones
+T6	SINTOMA 838 876	nódulo hipercaptante en la suprarrenal
+T7	SINTOMA 1496 1525	cierre de los vasos nutricios
+T8	SINTOMA 1549 1568	aspecto cicatricial
+T9	SINTOMA 1635 1682	vasos de suplencia en la periferia de la lesión
+T10	SINTOMA 1000 1018	leve edema medular
+T11	SINTOMA 1616 1620	fuga
+A1	RESULTADO T2
+A2	IMAGEN T4
+A3	IMAGEN T7
+A4	IMAGEN T8
+A5	IMAGEN T9
+A6	IMAGEN T11

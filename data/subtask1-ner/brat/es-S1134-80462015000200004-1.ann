@@ -1,0 +1,24 @@
+T1	SINTOMA 1509 1514	dolor
+T2	SINTOMA 1100 1115	ánimo depresivo
+T3	SINTOMA 5051 5065	picos febriles
+T4	SINTOMA 2627 2648	agitación psicomotriz
+T5	SINTOMA 1125 1130	dolor
+T6	SINTOMA 2199 2206	estupor
+T7	SINTOMA 2661 2688	incoherencia en el lenguaje
+T8	SINTOMA 1051 1056	dolor
+T9	SINTOMA 1593 1618	dolor de tipo neuropático
+T10	SINTOMA 4380 4438	alteraciones del comportamiento y del nivel de consciencia
+T11	SINTOMA 5131 5137	fiebre
+T12	SINTOMA 2691 2715	desconexión con el medio
+T13	SINTOMA 3968 3997	dolor en forma de "pinchazos"
+T14	SINTOMA 1225 1266	pinchazos intensos en extremidad inferior
+T15	SINTOMA 4452 4459	estupor
+T16	SINTOMA 4465 4486	agitación psicomotriz
+T17	SINTOMA 2428 2433	dolor
+T18	SINTOMA 1382 1396	picos febriles
+T19	SINTOMA 2868 2886	cuadro confusional
+T20	SINTOMA 1214 1222	quemazón
+T21	SINTOMA 5385 5405	síndrome confusional
+T22	SINTOMA 3617 3638	agitación psicomotriz
+T23	SINTOMA 2888 2904	analítica normal
+A1	RESULTADO T23

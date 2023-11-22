@@ -1,0 +1,13 @@
+T1	SINTOMA 97 127	elevación de las transaminasas
+T2	SINTOMA 1767 1784	formación nodular
+T3	SINTOMA 970 1000	negativo para células malignas
+T4	SINTOMA 1063 1208	análisis sistemático de sangre fue normal, así como la función hepática, la determinación de inmunoglobulinas, anticuerpos y marcadores tumorales
+T5	SINTOMA 1222 1257	marcadores virales fueron negativos
+T6	SINTOMA 629 650	lavado en fase portal
+T7	SINTOMA 536 621	realzaba de forma intensa tras la inyección de contraste intravenoso en fase arterial
+A1	RESULTADO T1
+A2	RESULTADO T3
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	IMAGEN T6
+A6	IMAGEN T7

@@ -1,0 +1,19 @@
+T1	SINTOMA 2441 2476	aumento progresivo de transaminasas
+T2	SINTOMA 672 683	proteinuria
+T3	SINTOMA 733 759	filtrado glomerular normal
+T4	SINTOMA 56 62	edemas
+T5	SINTOMA 491 510	edemas bimaleolares
+T6	SINTOMA 1740 1816	mutación previamente no descrita en el gen de la apolipoproteína AI (apo AI)
+T7	SINTOMA 3148 3155	estable
+T8	SINTOMA 698 730	sin alteraciones en el sedimento
+T9	SINTOMA 764 865	espectro electroforético en sangre y orina, el estudio inmunológico y la ecografía renal son normales
+T10	SINTOMA 1680 1716	mutación en el gen de la cadena Afib
+T11	SINTOMA 2314 2409	ecocardiograma y electromiograma, sin evidencia de afectación cardiaca ni neuropatía autonómica
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T3
+A4	RESULTADO T6
+A5	RESULTADO T8
+A6	RESULTADO T9
+A7	RESULTADO T10
+A8	RESULTADO T11

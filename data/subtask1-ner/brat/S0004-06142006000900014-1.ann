@@ -1,0 +1,27 @@
+T1	SINTOMA 159 184	Hemodinamicamente estable
+T2	SINTOMA 520 541	Murphy renal positivo
+T3	SINTOMA 100 108	anorexia
+T4	SINTOMA 91 98	astenia
+T5	SINTOMA 1201 1218	deterioro general
+T6	SINTOMA 381 447	dolor a la palpación profunda localizado en el hemiabdomen derecho
+T7	SINTOMA 111 123	dolor lumbar
+T8	SINTOMA 192 198	fiebre
+T9	SINTOMA 464 485	irritación peritoneal
+T10	SINTOMA 504 508	masa
+T11	SINTOMA 1974 2024	supuración con abcedificación del parénquima renal
+T12	SINTOMA 967 1037	riñón derecho aumentado de tamaño, con desorganización córtico medular
+T13	SINTOMA 578 627	leucitosis (22.390 con desviación a la izquierda)
+T14	SINTOMA 666 713	función renal dentro de los parámetros normales
+T15	SINTOMA 715 725	leucituria
+T16	SINTOMA 1314 1350	líquido purulento por la nefrostomía
+T17	SINTOMA 1314 1403	líquido purulento por la nefrostomía que la cultura del mismo revela flora polimicrobiana
+T18	SINTOMA 2962 2969	fallece
+T19	SINTOMA 728 750	hematuria microscópica
+T20	SINTOMA 1860 1902	arbol piélico presenta contenido purulento
+A1	IMAGEN T12
+A2	RESULTADO T13
+A3	RESULTADO T14
+A4	RESULTADO T15
+A5	RESULTADO T17
+A6	EXITUS T18
+A7	RESULTADO T19

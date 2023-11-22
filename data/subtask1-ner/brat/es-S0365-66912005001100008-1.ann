@@ -1,0 +1,39 @@
+T1	SINTOMA 57 79	dolor ocular bilateral
+T2	SINTOMA 81 98	fotofobia intensa
+T3	SINTOMA 101 133	disminución de la agudeza visual
+T4	SINTOMA 381 388	escozor
+T5	SINTOMA 390 399	fotofobia
+T6	SINTOMA 459 466	astenia
+T7	SINTOMA 468 476	caquexia
+T8	SINTOMA 479 516	pérdida de 16 kilogramos (kg) de peso
+T9	SINTOMA 1082 1111	edema epitelial microquístico
+T10	SINTOMA 3009 3043	elevación de las enzimas hepáticas
+T11	SINTOMA 402 416	enrojecimiento
+T12	SINTOMA 1062 1080	inyección vascular
+T13	SINTOMA 1302 1378	inyección muy severa de la vascularización conjuntival, ciliar y epiescleral
+T14	SINTOMA 1518 1539	sinequias posteriores
+T15	SINTOMA 4029 4050	sinequias posteriores
+T16	SINTOMA 1587 1631	sensibilidad corneal es normal en ambos ojos
+T17	SINTOMA 2295 2365	cultivos corneales negativos para bacterias, hongos, virus y parásitos
+T18	SINTOMA 2816 2882	proteína C reactiva y velocidad de sedimentación globular elevadas
+T19	SINTOMA 2571 2580	acantosis
+T20	SINTOMA 1251 1281	fondo de ojo (FO) no relevante
+T21	SINTOMA 3345 3424	tomografía axial computerizada (TAC) craneal y tóraco-abdominal fueron normales
+T22	SINTOMA 3460 3497	engrosamiento mucoso del seno maxilar
+T23	SINTOMA 3510 3550	exploración otorrinolaringológica normal
+T24	SINTOMA 1463 1510	hifema que ocupa la mitad de la cámara anterior
+T25	SINTOMA 1188 1206	sinequia posterior
+T26	SINTOMA 2027 2033	hifema
+T27	SINTOMA 2059 2073	hipopión en OI
+T28	SINTOMA 2993 3006	hiperglucemia
+T29	SINTOMA 3112 3153	disminución de las vitaminas liposolubles
+T36	SINTOMA 1162 1181	tyndall de 4 cruces
+A1	RESULTADO T10
+A2	RESULTADO T17
+A3	RESULTADO T18
+A4	RESULTADO T20
+A5	IMAGEN T21
+A6	IMAGEN T22
+A7	IMAGEN T23
+A8	RESULTADO T28
+A9	RESULTADO T29

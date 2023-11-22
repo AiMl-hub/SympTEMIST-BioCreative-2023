@@ -1,0 +1,8 @@
+T1	SINTOMA 68 157	enrojecimiento de la piel en tercio superior del tórax y parte proximal de ambos miembros
+T2	SINTOMA 168 215	debilidad muscular proximal en brazos y piernas
+T3	SINTOMA 217 250	eritema en heliotropo en párpados
+T4	SINTOMA 892 910	debilidad muscular
+T5	SINTOMA 1267 1279	asintomático
+T6	SINTOMA 692 708	Masa pancreática
+T7	SINTOMA 253 301	pápulas violáceas en los nudillos de ambas manos
+A1	IMAGEN T6

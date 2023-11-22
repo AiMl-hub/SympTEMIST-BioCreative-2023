@@ -1,0 +1,36 @@
+T1	SINTOMA 60 68	tos seca
+T2	SINTOMA 473 488	clínica péptica
+T3	SINTOMA 599 620	pirosis retroesternal
+T4	SINTOMA 707 737	sensación de plenitud gástrica
+T5	SINTOMA 778 793	hábito asténico
+T6	SINTOMA 802 809	afebril
+T7	SINTOMA 811 819	eupnéico
+T8	SINTOMA 1529 1532	tos
+T9	SINTOMA 1570 1585	pérdida de peso
+T10	SINTOMA 3005 3012	astenia
+T11	SINTOMA 3194 3214	tumoración abdominal
+T12	SINTOMA 3612 3622	tumoración
+T13	SINTOMA 3720 3745	nódulos extraperitoneales
+T14	SINTOMA 822 836	normocoloreado
+T15	SINTOMA 841 898	exploración de cabeza, cuello, tórax y abdomen era normal
+T16	SINTOMA 1805 1834	mantoux, que resultó positivo
+T17	SINTOMA 1847 1894	Ziehl de esputo y orina repetidamente negativos
+T18	SINTOMA 2417 2438	aumento de globulinas
+T19	SINTOMA 2440 2460	descenso de albúmina
+T20	SINTOMA 2463 2514	elavación de la velocidad de sedimentación globular
+T21	SINTOMA 2531 2577	estudio de sangre oculta en heces fue positivo
+T22	SINTOMA 2402 2415	trombocitosis
+T23	SINTOMA 112 181	sensación descrita por el paciente: como si se le "cerrara el píloro"
+T24	SINTOMA 2356 2400	índice de distribución eritrocitaria elevado
+T25	SINTOMA 4264 4277	fallecimiento
+T26	SINTOMA 245 251	muerte
+A1	RESULTADO T16
+A2	RESULTADO T17
+A3	RESULTADO T18
+A4	RESULTADO T19
+A5	RESULTADO T20
+A6	RESULTADO T21
+A7	RESULTADO T22
+A8	RESULTADO T24
+A9	EXITUS T25
+A10	EXITUS T26

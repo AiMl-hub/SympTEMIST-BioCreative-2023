@@ -1,0 +1,14 @@
+T1	SINTOMA 1235 1242	afebril
+T2	SINTOMA 301 328	disfagia moderada a sólidos
+T3	SINTOMA 634 651	dolor epigástrico
+T4	SINTOMA 1208 1233	estado general conservado
+T5	SINTOMA 2593 2622	masa extrínseca retrocardiaca
+T6	SINTOMA 1429 1461	alteraciones a nivel neurológico
+T7	SINTOMA 2175 2232	fibrobroncoscopia no se encontraron hallazgos patológicos
+T8	SINTOMA 2394 2435	tumoración esofágica vegetante y ulcerada
+T9	SINTOMA 1463 1505	A nivel analítico no presentaba alteración
+T10	SINTOMA 2802 2852	TAC craneal no demostró ningún hallazgo patológico
+A1	RESULTADO T7
+A2	RESULTADO T8
+A3	RESULTADO T9
+A4	IMAGEN T10

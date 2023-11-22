@@ -1,0 +1,33 @@
+T1	SINTOMA 749 778	adormecimiento facial derecho
+T2	SINTOMA 982 992	consciente
+T3	SINTOMA 50 67	disestesia facial
+T4	SINTOMA 994 1003	orientado
+T5	SINTOMA 914 936	dolor facial ni ocular
+T6	SINTOMA 1176 1238	alteraciones en la sensibilidad de la mitad derecha de la cara
+T7	SINTOMA 1685 1734	ocupación del seno frontal izquierdo por una masa
+T8	SINTOMA 1865 1921	obliteración de la grasa de la grasa extraconal superior
+T9	SINTOMA 1959 1975	proptosis ocular
+T10	SINTOMA 1997 2038	masa expansiva localizada en seno maxilar
+T11	SINTOMA 2267 2305	senos cavernosos se encontraban libres
+T12	SINTOMA 2447 2470	alteraciones viscerales
+T13	SINTOMA 1522 1563	masa orbitaria de localización extraconal
+T14	SINTOMA 1006 1017	colaborador
+T15	SINTOMA 1780 1824	reborde orbitario superior permanece íntegro
+T16	SINTOMA 2167 2207	invasión del espacio extraconal inferior
+T17	SINTOMA 904 912	diplopía
+T18	SINTOMA 838 854	ptosis palpebral
+T19	SINTOMA 1031 1047	ptosis palpebral
+T20	SINTOMA 873 890	protrusión ocular
+T21	SINTOMA 1262 1311	exploración neurológica motora y sensitiva normal
+T22	SINTOMA 70 86	ptosis palpebral
+T23	SINTOMA 99 125	proptosis del globo ocular
+T24	SINTOMA 3119 3135	proptosis ocular
+A1	IMAGEN T7
+A2	IMAGEN T8
+A3	IMAGEN T9
+A4	IMAGEN T10
+A5	IMAGEN T11
+A6	IMAGEN T12
+A7	IMAGEN T13
+A8	IMAGEN T15
+A9	IMAGEN T16

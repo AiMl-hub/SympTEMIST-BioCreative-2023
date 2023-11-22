@@ -1,0 +1,36 @@
+T1	SINTOMA 375 390	síndrome febril
+T2	SINTOMA 829 884	abdomen globuloso, blando y depresible, no peritonítico
+T3	SINTOMA 886 934	Doloroso a la palpación en área lumbar bilateral
+T4	SINTOMA 447 469	incontinencia urinaria
+T5	SINTOMA 2509 2551	líquido cefalorraquídeo turbio-amarillento
+T6	SINTOMA 505 512	disuria
+T7	SINTOMA 515 569	dolor sacro que se irradia a ambos miembros inferiores
+T8	SINTOMA 1023 1036	globo vesical
+T9	SINTOMA 1041 1070	exploración genital es normal
+T10	SINTOMA 623 637	tenesmo rectal
+T11	SINTOMA 1170 1223	disminución de la fuerza en ambos miembros inferiores
+T12	SINTOMA 697 703	fiebre
+T13	SINTOMA 744 769	hemodinámicamente estable
+T14	SINTOMA 771 778	confuso
+T15	SINTOMA 780 791	somnoliento
+T16	SINTOMA 794 802	sudoroso
+T17	SINTOMA 1285 1329	reflejos rotuliano y aquileo están presentes
+T18	SINTOMA 2982 2985	pus
+T19	SINTOMA 1251 1279	sensibilidad esta conservada
+T20	SINTOMA 2994 3005	colecciones
+T21	SINTOMA 1662 1678	sedimento normal
+T22	SINTOMA 276 295	síndrome prostático
+T23	SINTOMA 1077 1133	tacto rectal volumen I adenomatosa, ligeramente doloroso
+T24	SINTOMA 1609 1639	orina con leucocitos negativos
+T25	SINTOMA 1641 1659	nitritos negativos
+T26	SINTOMA 2764 2775	colecciones
+T27	SINTOMA 2021 2049	Próstata aumentada de tamaño
+T28	SINTOMA 3534 3577	área hiperecogénica en el lóbulo prostático
+T29	SINTOMA 3151 3208	muestras (punción prostática y lumbar) se aisló S. aureus
+A1	RESULTADO T21
+A2	RESULTADO T24
+A3	RESULTADO T25
+A4	RESULTADO T26
+A5	IMAGEN T27
+A6	IMAGEN T28
+A7	RESULTADO T29

@@ -1,0 +1,30 @@
+T1	SINTOMA 983 1011	deterioró el perfil hepático
+T2	SINTOMA 513 531	cuadro confusional
+T3	SINTOMA 62 71	ictericia
+T4	SINTOMA 74 97	síndrome constitucional
+T5	SINTOMA 569 575	fiebre
+T6	SINTOMA 243 255	leucocitosis
+T7	SINTOMA 1216 1256	deterioro progresivo de la función renal
+T8	SINTOMA 836 851	foco infeccioso
+T9	SINTOMA 860 889	hemocultivos fueron estériles
+T10	SINTOMA 1039 1065	elevación de transaminasas
+T11	SINTOMA 1159 1176	aumento de la LDH
+T12	SINTOMA 1484 1492	falleció
+T13	SINTOMA 182 204	hepatomegalia dolorosa
+T14	SINTOMA 274 310	alteración mixta del perfil hepático
+T15	SINTOMA 338 394	fosfatasa alcalina y GGT más de 10 veces el valor normal
+T16	SINTOMA 1098 1143	ALT y AST mayores de 20 veces el valor normal
+T17	SINTOMA 397 439	ALT y AST menos de 3 veces el valor normal
+T18	SINTOMA 260 271	neutrofilia
+A1	RESULTADO T1
+A2	RESULTADO T6
+A3	RESULTADO T7
+A4	RESULTADO T9
+A5	RESULTADO T10
+A6	RESULTADO T11
+A7	EXITUS T12
+A8	RESULTADO T14
+A9	RESULTADO T15
+A10	RESULTADO T16
+A11	RESULTADO T17
+A12	RESULTADO T18

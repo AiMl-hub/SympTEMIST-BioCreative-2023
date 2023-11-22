@@ -1,0 +1,23 @@
+T1	SINTOMA 1118 1124	miosis
+T2	SINTOMA 187 194	agitado
+T3	SINTOMA 200 207	náuseas
+T4	SINTOMA 209 216	vómitos
+T5	SINTOMA 219 233	diarrea acuosa
+T6	SINTOMA 1791 1804	ritmo sinusal
+T7	SINTOMA 906 950	deterioro progresivo del nivel de conciencia
+T8	SINTOMA 3281 3287	fiebre
+T9	SINTOMA 1717 1775	radiografía de tórax estuvo dentro de los límites normales
+T10	SINTOMA 1826 1850	intervalo QTc prolongado
+T11	SINTOMA 1869 1935	depresión del segmento ST en las derivaciones I, II, aVL y V2 a V6
+T12	SINTOMA 3001 3021	intervalo QTc normal
+T13	SINTOMA 604 623	taquicardia sinusal
+T14	SINTOMA 540 553	hipopotasemia
+T15	SINTOMA 3429 3434	murió
+A1	RESULTADO T6
+A2	IMAGEN T9
+A3	RESULTADO T10
+A4	RESULTADO T11
+A5	RESULTADO T12
+A6	RESULTADO T13
+A7	RESULTADO T14
+A8	EXITUS T15

@@ -1,0 +1,9 @@
+T1	SINTOMA 1922 1937	dolor abdominal
+T2	SINTOMA 2269 2276	eritema
+T3	SINTOMA 2299 2306	prurito
+T4	SINTOMA 1913 1919	fiebre
+T5	SINTOMA 2609 2615	exitus
+T6	SINTOMA 1468 1483	dolor abdominal
+T7	SINTOMA 1176 1215	erupción cutánea pruriginosa diseminada
+T8	SINTOMA 1739 1778	erupción cutánea pruriginosa diseminada
+A1	EXITUS T5

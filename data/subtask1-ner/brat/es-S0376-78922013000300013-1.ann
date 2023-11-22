@@ -1,0 +1,6 @@
+T1	SINTOMA 2267 2313	tejido fibroso cicatricial en la región lumbar
+T2	SINTOMA 1478 1500	masa de partes blandas
+T3	SINTOMA 941 975	imposibilidad para la deambulación
+T4	SINTOMA 3538 3557	deambulación normal
+T5	SINTOMA 2932 2964	aumento de volumen paravertebral
+A1	IMAGEN T2

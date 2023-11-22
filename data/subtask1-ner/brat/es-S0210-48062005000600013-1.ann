@@ -1,0 +1,15 @@
+T1	SINTOMA 594 624	desestabilización hemodinámica
+T2	SINTOMA 289 329	deterioro importante de la función renal
+T3	SINTOMA 385 429	ecografía urológica los riñones son normales
+T4	SINTOMA 1126 1135	hematuria
+T5	SINTOMA 250 273	compromiso hemodinámico
+T6	SINTOMA 804 829	mucosa vesical delustrada
+T7	SINTOMA 834 852	sangrado en sábana
+T8	SINTOMA 222 248	hematuria total anemizante
+T9	SINTOMA 503 518	coágulo vesical
+T10	SINTOMA 696 703	coágulo
+T11	SINTOMA 782 789	coagulo
+T12	SINTOMA 1138 1165	mejoría de la función renal
+A1	RESULTADO T2
+A2	IMAGEN T3
+A3	IMAGEN T9

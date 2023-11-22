@@ -1,0 +1,30 @@
+T1	SINTOMA 694 717	dificultad respiratoria
+T2	SINTOMA 748 765	tos no productiva
+T3	SINTOMA 66 83	disnea progresiva
+T4	SINTOMA 564 592	eritema y descamación facial
+T5	SINTOMA 778 784	fiebre
+T6	SINTOMA 618 634	fotosensibilidad
+T7	SINTOMA 2273 2327	elevados de su índice de saturación y de hierro sérico
+T8	SINTOMA 853 879	perdido unos 20 kg de peso
+T9	SINTOMA 933 944	mal nutrido
+T10	SINTOMA 1289 1318	patrón intersticial bilateral
+T11	SINTOMA 1816 1822	disnea
+T12	SINTOMA 1982 2030	elevación en la excreción de porfirinas en orina
+T13	SINTOMA 1009 1045	murmullo vesicular estaba conservado
+T14	SINTOMA 1057 1089	signos de insuficiencia cardiaca
+T15	SINTOMA 1499 1551	tinción de Ziehl Neelsen del esputo resultó negativa
+T16	SINTOMA 2115 2172	serologías a virus B y C de la hepatitis fueron negativas
+T17	SINTOMA 2226 2258	valores normales de transferrina
+T18	SINTOMA 2410 2483	mutaciones C282Y y H63D del gen de la hemocromatosis resultaron negativas
+T19	SINTOMA 1324 1361	anticuerpos anti-VIH fueron positivos
+T20	SINTOMA 2332 2390	cuantificación de ferritina sérica resultó ser muy elevada
+T21	SINTOMA 960 968	eupneico
+A1	RESULTADO T7
+A2	IMAGEN T10
+A3	RESULTADO T12
+A4	RESULTADO T15
+A5	RESULTADO T16
+A6	RESULTADO T17
+A7	RESULTADO T18
+A8	RESULTADO T19
+A9	RESULTADO T20

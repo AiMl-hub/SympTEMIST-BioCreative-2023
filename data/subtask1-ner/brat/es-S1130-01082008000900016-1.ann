@@ -1,0 +1,8 @@
+T1	SINTOMA 261 270	lumbalgia
+T2	SINTOMA 43 55	asintomático
+T3	SINTOMA 344 389	masa inhomogénea a nivel del proceso uncinado
+T4	SINTOMA 444 482	borrosidad de la grasa peripancreática
+T5	SINTOMA 731 789	PAAF guiada por ecoendoscopia fue negativo para malignidad
+A1	IMAGEN T3
+A2	IMAGEN T4
+A3	RESULTADO T5

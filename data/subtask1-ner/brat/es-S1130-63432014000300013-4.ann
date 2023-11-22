@@ -1,0 +1,7 @@
+T1	SINTOMA 227 241	quemazón local
+T2	SINTOMA 251 256	mareo
+T3	SINTOMA 259 277	sudoración profusa
+T4	SINTOMA 365 376	hipotensión
+T5	SINTOMA 505 512	disuria
+T6	SINTOMA 599 624	urinocultivo fue negativo
+A1	RESULTADO T6

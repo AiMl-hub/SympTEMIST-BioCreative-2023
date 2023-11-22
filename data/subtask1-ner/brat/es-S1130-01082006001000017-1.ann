@@ -1,0 +1,6 @@
+T1	SINTOMA 102 114	dolor en FII
+T2	SINTOMA 139 153	tenesmo rectal
+T3	SINTOMA 156 171	heces acintadas
+T4	SINTOMA 207 250	dolor difuso a la palpación profunda en FII
+T5	SINTOMA 376 411	imagen estenosante a nivel de sigma
+A1	RESULTADO T5

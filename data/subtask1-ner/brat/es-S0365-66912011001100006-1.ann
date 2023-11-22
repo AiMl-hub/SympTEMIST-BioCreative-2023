@@ -1,0 +1,5 @@
+T1	SINTOMA 89 125	pérdida progresiva de agudeza visual
+T2	SINTOMA 551 593	niveles séricos de lípidos fueron normales
+T3	SINTOMA 284 300	opacidad corneal
+A1	RESULTADO T2
+A2	RESULTADO T3

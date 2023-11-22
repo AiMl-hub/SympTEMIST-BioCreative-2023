@@ -1,0 +1,11 @@
+T1	SINTOMA 1269 1280	proteinuria
+T2	SINTOMA 1284 1293	hematuria
+T3	SINTOMA 119 194	dolor e inflamación en el tobillo izquierdo y en el segundo dedo de la mano
+T4	SINTOMA 431 451	hemocultivo negativo
+T5	SINTOMA 411 429	urocultivo estéril
+T6	SINTOMA 363 409	estreptococo β-hemolítico del grupo A negativa
+A1	RESULTADO T1
+A2	RESULTADO T2
+A3	RESULTADO T4
+A4	RESULTADO T5
+A5	RESULTADO T6

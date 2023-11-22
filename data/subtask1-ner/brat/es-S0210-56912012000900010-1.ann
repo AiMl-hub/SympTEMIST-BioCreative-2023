@@ -1,0 +1,4 @@
+T1	SINTOMA 156 178	respiración espontánea
+T2	SINTOMA 201 211	hipotermia
+T3	SINTOMA 968 974	muerte
+A1	EXITUS T3
